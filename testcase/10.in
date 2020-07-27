@@ -1,0 +1,23 @@
+11
+17 88 69 100 43 78 88 91 76 100 86
+20
+bridge 3 9
+bridge 3 7
+bridge 2 9
+bridge 5 8
+bridge 5 6
+bridge 6 9
+bridge 5 4
+excursion 9 5
+bridge 1 8
+bridge 5 11
+excursion 3 6
+excursion 8 9
+excursion 7 2
+excursion 11 1
+excursion 7 8
+excursion 1 9
+excursion 5 9
+bridge 4 10
+excursion 7 2
+excursion 2 9
