@@ -1,0 +1,11 @@
+zip.exe zip.in zip.out compare.exe
+zip1.in zip1.out 10 1
+zip2.in zip2.out 10 1
+zip3.in zip3.out 10 2
+zip4.in zip4.out 10 2
+zip5.in zip5.out 15 3
+zip6.in zip6.out 15 3
+zip7.in zip7.out 10 1
+zip8.in zip8.out 10 1
+zip9.in zip9.out 10 1
+
