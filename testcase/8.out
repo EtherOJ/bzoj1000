@@ -1,0 +1,24 @@
+Line 2: variable A might not have been initialized
+Line 2: variable O might not have been initialized
+Line 3: variable D might not have been initialized
+Line 4: variable D might not have been initialized
+Line 4: variable P might not have been initialized
+Line 6: variable C might not have been initialized
+Line 6: variable R might not have been initialized
+Line 7: variable D might not have been initialized
+Line 11: variable B might not have been initialized
+Line 12: variable G might not have been initialized
+Line 12: variable M might not have been initialized
+Line 20: variable L might not have been initialized
+Line 22: variable G might not have been initialized
+Line 23: variable D might not have been initialized
+Line 23: variable G might not have been initialized
+Line 25: variable G might not have been initialized
+Line 26: variable C might not have been initialized
+Line 26: variable K might not have been initialized
+Line 28: variable A might not have been initialized
+Line 29: variable D might not have been initialized
+Line 33: variable M might not have been initialized
+Line 36: variable E might not have been initialized
+Line 37: unreachable code
+Line 38: unreachable code

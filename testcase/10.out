@@ -1,0 +1,23 @@
+Line 2: variable A might not have been initialized
+Line 4: variable G might not have been initialized
+Line 4: variable H might not have been initialized
+Line 8: variable S might not have been initialized
+Line 8: variable T might not have been initialized
+Line 10: unreachable code
+Line 11: unreachable code
+Line 12: unreachable code
+Line 13: unreachable code
+Line 16: unreachable code
+Line 18: unreachable code
+Line 26: unreachable code
+Line 27: unreachable code
+Line 31: unreachable code
+Line 32: unreachable code
+Line 33: unreachable code
+Line 34: unreachable code
+Line 35: unreachable code
+Line 36: unreachable code
+Line 39: unreachable code
+Line 41: unreachable code
+Line 42: unreachable code
+Line 47: unreachable code

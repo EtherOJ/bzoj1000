@@ -1,0 +1,5 @@
+Line 5: variable C might not have been initialized
+Line 6: variable X might not have been initialized
+Line 6: variable Y might not have been initialized
+Line 7: variable T might not have been initialized
+Line 9: variable G might not have been initialized

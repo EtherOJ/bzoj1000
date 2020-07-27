@@ -1,0 +1,5 @@
+Line 2: variable B might not have been initialized
+Line 6: variable B might not have been initialized
+Line 9: variable B might not have been initialized
+Line 11: unreachable code
+Line 12: unreachable code
