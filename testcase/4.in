@@ -1,0 +1,18 @@
+BEGIN
+   a = 1
+   b = 2
+   c = 100a + 200b
+   REPEAT 10
+      a = c - 3b
+      b = b + 1 + 1
+      PRINT b
+      REPEAT 20
+         d = c
+         e = d
+         c = e
+         a = a + c
+      STOP
+      z = a + b + c + d + e
+      PRINT z
+   STOP
+STOP

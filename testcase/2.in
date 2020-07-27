@@ -1,0 +1,28 @@
+BEGIN
+   b = 10a - 10c
+   REPEAT 6
+      b = 11a
+      c = 6b - 14a - 2b
+      d = 8 + 10b + 5d - 2a - 13 - 11c
+      REPEAT 1900
+         c = 13a
+         c = 6b + 9a - 5d + 10e - 7c
+         REPEAT 3756
+            e = 2e
+         STOP
+         REPEAT 2581
+            d = 9d + 11d + 3b - 10d + 7 + 4d
+            REPEAT 9179
+               b = 3c - 3b + 1 - c - 2 - 13d - 10d + 7c
+            STOP
+         STOP
+         c = 8c + 2
+         REPEAT 226
+            c = 7 + 5 + 2b - 14d - 12 - 7a - 8e
+         STOP
+      STOP
+      PRINT c
+      PRINT d
+   STOP
+   PRINT b
+STOP

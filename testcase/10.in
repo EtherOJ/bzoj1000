@@ -1,0 +1,50 @@
+BEGIN
+   a = 7
+   b = 2
+   c = 3
+   REPEAT 9
+      x = a
+      a = a + b + 3c
+      c = c + x
+      t = 1
+      s = 0
+      REPEAT 100
+         s = s + t
+         t = t + 1
+      STOP
+      z = x + s + t
+      PRINT z
+      REPEAT 5
+         REPEAT 5
+            REPEAT 5
+               REPEAT 5
+                  a = a + b
+                  b = c + 1 + b + 1 + b
+                  f = k + l + 2b
+               STOP
+               l = l + 1 + a
+            STOP
+            f = f + c + s + t
+         STOP
+      STOP
+      f = f + z + 33a
+      k = f + k + t
+      r = 2 + k + f + t
+      REPEAT 2
+         REPEAT 2
+            REPEAT 2
+               REPEAT 2
+                  REPEAT 2
+                     REPEAT 2
+                        r = r + 2k + 3f
+                     STOP
+                  STOP
+               STOP
+               f = 5a + b + k + 3
+            STOP
+         STOP
+      STOP
+      PRINT f
+   STOP
+   PRINT r
+STOP

@@ -1,0 +1,50 @@
+BEGIN
+   i = 2g - 2 - 4 - 3f + 5i + 7d - 2 - 4
+   b = 3d - 5 + 2b - 4a - 2 - 6g + 6 - 3
+   REPEAT 91725
+      i = 3e
+      REPEAT 19825
+         g = 3f - 4i + 3c
+         REPEAT 43747
+            a = 3a + 4c
+            j = 6h - 2 + j + 7 - 4e - 8h - b - 2b
+            a = 6 + 8d - 2e + 4f + 2a + 2c
+            REPEAT 46570
+               d = d - 5f - 5d - d - 7i + b - 8b - 7f
+            STOP
+            REPEAT 39172
+               a = a + 6 - 3 + 2c + 7g + 3b - 7 - 5g
+            STOP
+            f = 6
+            REPEAT 67264
+               d = 5d + 7f
+            STOP
+         STOP
+         f = 5e + 1 - 2j + 2e + 8j + 5c + 1
+      STOP
+      REPEAT 20472
+         h = 2c - 5g
+      STOP
+      d = 8e
+      REPEAT 44580
+         b = 4j - 4h + 5h - 7
+         i = 2 - 4i + 8j
+      STOP
+      REPEAT 94810
+         j = 5g + 6d - 1
+         d = 6c - 6d + 2a + 7a - 3c
+         REPEAT 9820
+            c = 7 - g + 4d - 8e + 2 + 2b
+         STOP
+      STOP
+      REPEAT 90563
+         c = 4d + 2 - 7
+      STOP
+   STOP
+   REPEAT 2
+      REPEAT 2
+         c = c + d
+         PRINT c
+      STOP
+   STOP
+STOP

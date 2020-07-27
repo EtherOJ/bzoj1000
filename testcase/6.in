@@ -1,0 +1,49 @@
+BEGIN
+   b = 808a + 572 + 729a - 858b - 441 + 789c + 942b + 355b
+   REPEAT 81303
+      a = 798d + 671d - 448b + 685c + 961 - 884
+   STOP
+   c = 81a + 622 - 990a - 990a - 79 + 894d - d
+   PRINT c
+   REPEAT 6
+      c = 952c - 872c - 697c - 291b - 846
+      REPEAT 33143
+         b = 748 + 589c + 739a + 403b - 153d - 506a
+         REPEAT 58825
+            d = 711d - 678b - 958 - 553d + 306b + 798d - 798
+         STOP
+         REPEAT 43085
+            b = 962d + 628c - 752
+            c = 934b - 158 + 963b + 304a + 531c + 893c - 76c
+            a = 576c + 82b - 234a - 283a - 739
+         STOP
+         REPEAT 66888
+            a = 517 + 47 - 105a - 8a + 927b - 12
+            a = 413b + 1 + 243b + 644d + 105a
+         STOP
+         REPEAT 91220
+            c = 757 + 821a
+         STOP
+      STOP
+      PRINT a
+      PRINT b
+      REPEAT 13448
+         d = 859c + 683b + 628c + 825a - 33d - 149 + 8c + 395b
+      STOP
+      REPEAT 11481
+         b = 400d
+         c = 312c
+         c = 540b + 204b
+      STOP
+      REPEAT 89853
+         c = 842 + 281d
+         REPEAT 42375
+            b = 489a
+            REPEAT 80027
+               c = 610b - 944d + 862a - 902b + 226a
+            STOP
+         STOP
+      STOP
+      PRINT c
+   STOP
+STOP

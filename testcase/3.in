@@ -1,0 +1,50 @@
+BEGIN
+   s = 693a + 445 + 651e
+   a = 634m - 545s + 235p - 477b - 789 + 129a + 415 - 343t
+   REPEAT 4
+      n = 407 - 119b + 524 - 766 + 71t + 715a - 924 + 664s
+      REPEAT 83622
+         r = 564 - 168 - 525 - 428a + 57f - 9s
+      STOP
+      REPEAT 32085
+         l = 809 + 987n - 454k - 985b - 192a
+         REPEAT 94681
+            n = 175 - 170n + 456 + 348e + 466s
+         STOP
+         k = 140k + 315l - 589g - 226a + 241s + 374c
+         a = 541 - 459a - 312e - 911n - 547s
+         REPEAT 41418
+            t = 702n + 957s - 259f + 49n - 698l + 316 - 303q
+            f = 761i - 933d - 214i - 502 + 368c + 64o
+            r = 544 + 593n + 241p + 825 - 871b - 636s - 84
+         STOP
+         REPEAT 61598
+            q = 585r
+         STOP
+         REPEAT 69993
+            q = 447m - 456d + 82d - 884 + 559 + 665
+         STOP
+         REPEAT 99999
+            d = 396 - 494g
+            REPEAT 99999
+               i = 562a - 599d + 669a
+            STOP
+         STOP
+      STOP
+      REPEAT 76725
+         m = 9g + 4
+         REPEAT 82855
+            q = 895f + 183i - 527 - 99o - 179a + 701
+            f = 597 - 619t - 399a + 572f
+            REPEAT 2978
+               g = 882t + 265f - 472r
+            STOP
+         STOP
+      STOP
+      PRINT a
+      PRINT d
+      PRINT f
+      PRINT s
+      PRINT t
+   STOP
+STOP

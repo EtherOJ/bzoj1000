@@ -1,0 +1,49 @@
+BEGIN
+   v = 79q - 33 - 53y + 24o + 33 + 12n
+   o = 88b + 79d + 44 + 51l + 14a
+   PRINT v
+   PRINT o
+   REPEAT 4
+      y = 25
+      w = 66 + 78p - 41e - 64c - 67c + 24r + 65o
+      g = 78k + 51l + 96q - 59b + 75k - 69e
+      REPEAT 34
+         b = 95t + 48s - 76x + 44r + 99e + 63c - 32f + 10c
+         x = 34h + 45r - 16e - 20v - 53 - 38
+         y = 53 + 12d + 76f - 24w + 85k + 30
+         g = 53u + 46i - 60n - 14s + 48m + 46h
+         REPEAT 15
+            e = 23 - 45l + 83j - 66p - 90a
+            a = 81 + 26a + 14c + 66w
+            REPEAT 7
+               v = 5g
+               REPEAT 31
+                  e = 5j - 24w + 74
+                  r = 16w + 54e - 98n
+                  i = 62
+               STOP
+            STOP
+            f = 30y - 60t
+            p = 96e + 8l - 38c + 45j
+            REPEAT 15
+               w = 19 + 99 + 15e - 79 + 62l + 43q + 83g
+            STOP
+            v = 47c + 65 + 98 - 34 - 42z + v
+            REPEAT 28
+               y = 84z - 10 + 84e - 64x - 64 - 92i + 52b
+            STOP
+         STOP
+         REPEAT 96
+            v = 54 - 94t + 57x + 99e - 34p + v
+            REPEAT 21
+               p = 73q + 29a - 99 + 9l - 54 + 41g + 93n - 9y
+            STOP
+         STOP
+      STOP
+      REPEAT 49
+         z = 58a + 60
+      STOP
+      PRINT v
+   STOP
+   PRINT z
+STOP

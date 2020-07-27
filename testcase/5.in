@@ -1,0 +1,16 @@
+BEGIN
+   x = 5
+   y = 3
+   REPEAT 8
+      z = x
+      x = x + y
+      y = y + 3
+      PRINT x
+      REPEAT 5
+         z = z + y
+      STOP
+      PRINT z
+   STOP
+   c = x + y + z
+   PRINT c
+STOP

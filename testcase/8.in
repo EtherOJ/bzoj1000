@@ -1,0 +1,50 @@
+BEGIN
+   c = 7
+   REPEAT 5
+      d = 944d + 556 + 659c
+      PRINT d
+      REPEAT 44358
+         a = 569d - 369b - 632e - 881d + 322b - 663a
+         REPEAT 1767
+            d = 99c + 93e + 755e
+            REPEAT 26014
+               c = 960b - 190d + 357b + 543a - 417 + 951
+               REPEAT 43154
+                  d = 451
+                  e = e + 21
+                  REPEAT 53042
+                     e = 728c + 788a - 827c - 351c - 357
+                     REPEAT 25436
+                        d = 11 - 802d
+                        REPEAT 13727
+                           a = 243d + 571d - 930c - 519 + 104
+                           b = 762 + 20b + 547d
+                        STOP
+                     STOP
+                     REPEAT 74160
+                        a = 423a - 461c - 736 - 308b
+                        b = b - 7
+                     STOP
+                     REPEAT 85409
+                        a = 462a - 746c
+                     STOP
+                  STOP
+                  REPEAT 67709
+                     d = 20 - 747c + 611e - 142e + 430a
+                     e = 577e
+                     REPEAT 98449
+                        b = 209c - 907a + 466d - 589b
+                     STOP
+                  STOP
+               STOP
+            STOP
+         STOP
+      STOP
+      PRINT a
+      REPEAT 2
+         PRINT e
+         e = e - a - b
+         t = t + 4
+      STOP
+   STOP
+STOP
