@@ -1,0 +1,11 @@
+cross.exe cross.in cross.out
+cross.in0 cross.ou0 7.5 1
+cross.in1 cross.ou1 7.5 1
+cross.in2 cross.ou2 7.5 1
+cross.in3 cross.ou3 7.5 1
+cross.in4 cross.ou4 7.5 1
+cross.in5 cross.ou5 7.5 1
+cross.in6 cross.ou6 7.5 1
+cross.in7 cross.ou7 7.5 1
+cross.in8 cross.ou8 7.5 1
+cross.in9 cross.ou9 7.5 1
