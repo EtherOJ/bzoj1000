@@ -1,0 +1,15 @@
+start
+     a=1 d=2
+     b=10 c=2
+     loop 10
+          a=a+1
+          c=c+1
+          d=d+1
+          b=(a+d)*c+(a+b)
+          loop 3
+               b=b/8
+               break
+          end
+     end
+     write (b+a)*3
+end

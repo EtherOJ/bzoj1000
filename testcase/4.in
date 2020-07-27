@@ -1,0 +1,58 @@
+start
+     loop 2 a=a+1
+     loop 2 b=b+1
+     loop 2 c=c+1
+     loop 2 d=d+1
+     loop 2 e=e+1
+     loop 2 f=f+1
+     loop 2 g=g+1
+     loop 2 h=h+1
+     loop 2 i=i+1
+     loop 2 j=j+1
+     loop 2 k=k+1
+     loop 2 l=l+1
+     loop 2 m=m+1
+     loop 2 n=n+1
+     loop 2 o=o+1
+     loop 2 p=p+1
+     loop 2 q=q+1
+     loop 2 r=r+1
+          continue
+          loop 100
+          end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     end
+     write a
+     write b
+     write c
+     write d
+     write e
+     write f
+     write g
+     write h
+     write i
+     write j
+     write k
+     write l
+     write m
+     write n
+     write o
+     write p
+     write q
+end

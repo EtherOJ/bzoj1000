@@ -1,0 +1,13 @@
+start
+     i=0
+     j=1
+     loop 10
+          i=i+1
+          j=j*i
+          continue
+          loop 10
+               write j
+          end
+     end
+     write j
+end

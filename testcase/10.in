@@ -1,0 +1,14 @@
+start
+     loop 10
+          i=i+1
+          loop 10
+               j=j+1
+               loop 10
+                    k=k+1
+                    l=l+i*j*k
+               end
+          end
+          write l
+          break
+     end
+end

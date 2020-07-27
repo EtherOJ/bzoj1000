@@ -1,0 +1,15 @@
+start
+     i=0
+     j=1
+     loop 10
+          i=i+1
+          j=j*i
+          loop 10
+               write j
+               k=k+1
+               l=j+i*k
+          end
+     end
+     write k
+     write l+k
+end

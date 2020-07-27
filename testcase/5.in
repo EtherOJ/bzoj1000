@@ -1,0 +1,69 @@
+start
+     loop 2 a=a+1
+     loop 2 b=b+1
+     loop 2 c=c+1
+     loop 2 d=d+1
+     loop 2 e=e+1
+     loop 2 f=f+1
+     loop 2 g=g+1
+     loop 2 h=h+1
+     loop 2 i=i+1
+     loop 2 j=j+1
+     loop 2 k=k+1
+     loop 2 l=l+1
+     loop 2 m=m+1
+     loop 2 n=n+1
+     loop 2 o=o+1
+     loop 2 p=p+1
+     loop 2 q=q+1
+     loop 2 r=r+1
+     loop 2 s=s+1
+     loop 2 t=t+1
+     loop 2 u=u+1
+     loop 2 v=v+1
+     loop 2 w=w+1
+     loop 2 x=x+1
+     loop 2 y=y+1
+     loop 2 z=z+1
+     write z/y*x/(a+b)
+     end
+     end
+     end
+     break
+     end
+     end
+     end
+     end
+     break
+     end
+     break
+     end
+     break
+     end
+     end
+     break
+     end
+     end
+     break
+     end
+     break
+     end
+     write ((a+b)*c+d)*h/(f+e)
+     end
+     end
+     end
+     end
+     end
+     break
+     end
+     end
+     break
+     break
+     break
+     break
+     end
+     end
+     break
+     end
+     end
+end
