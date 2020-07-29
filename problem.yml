@@ -2,4 +2,5 @@ name: |
   [CQOI2007]涂色paint
 source: bzoj (OI-Archive)
 time_limit: 30000
+timing_mode: total
 space_limit: 64
