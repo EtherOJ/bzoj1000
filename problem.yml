@@ -1,4 +1,5 @@
 name: "[SHOI2008]堵塞的交通traffic"
 source: bzoj (OI-Archive)
 time_limit: 3000
+timing_mode: total
 space_limit: 162
