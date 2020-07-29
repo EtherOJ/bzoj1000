@@ -1,4 +1,5 @@
 name: "[CTSC2008]网络管理Network"
 source: bzoj (OI-Archive)
 time_limit: 50000
+timing_mode: total
 space_limit: 256
