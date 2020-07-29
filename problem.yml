@@ -1,4 +1,5 @@
 name: Uva 11423 Cache Simulator
 source: bzoj (OI-Archive)
 time_limit: 100000
+timing_mode: total
 space_limit: 259
