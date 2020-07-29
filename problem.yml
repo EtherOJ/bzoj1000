@@ -1,4 +1,5 @@
 name: "[CROATIAN2009]OTOCI"
 source: bzoj (OI-Archive)
 time_limit: 50000
+timing_mode: total
 space_limit: 128
