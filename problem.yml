@@ -1,4 +1,5 @@
 name: "[JSOI2008]星球大战starwar"
 source: bzoj (OI-Archive)
 time_limit: 3000
+timing_mode: total
 space_limit: 162
