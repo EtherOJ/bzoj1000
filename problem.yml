@@ -1,4 +1,5 @@
 name: "[ZJOI2009]多米诺骨牌"
 source: bzoj (OI-Archive)
 time_limit: 50000
+timing_mode: total
 space_limit: 162
