@@ -1,4 +1,5 @@
 name: "[JSOI2007]建筑抢修"
 source: bzoj (OI-Archive)
 time_limit: 4000
+timing_mode: total
 space_limit: 162
