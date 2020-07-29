@@ -2,4 +2,5 @@ name: |
   Zju2271 Chance to Encounter a Girl
 source: bzoj (OI-Archive)
 time_limit: 1000
+timing_mode: total
 space_limit: 64
