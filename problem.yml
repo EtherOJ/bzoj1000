@@ -1,4 +1,5 @@
 name: "[SHOI2008]安全的航线flight"
 source: bzoj (OI-Archive)
 time_limit: 5000
+timing_mode: total
 space_limit: 162
