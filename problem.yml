@@ -1,4 +1,5 @@
 name: Vijos1382寻找主人 Necklace
 source: bzoj (OI-Archive)
 time_limit: 5000
+timing_mode: total
 space_limit: 128
