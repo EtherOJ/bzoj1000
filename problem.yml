@@ -1,4 +1,5 @@
 name: Pku3245 Sequence Partitioning
 source: bzoj (OI-Archive)
 time_limit: 8000
+timing_mode: total
 space_limit: 64
