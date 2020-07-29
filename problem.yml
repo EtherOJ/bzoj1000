@@ -1,4 +1,5 @@
 name: "[SDOI2009]虔诚的墓主人"
 source: bzoj (OI-Archive)
 time_limit: 5000
+timing_mode: total
 space_limit: 259
