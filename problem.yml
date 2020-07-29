@@ -1,4 +1,5 @@
 name: "[HNOI2001]产品加工"
 source: bzoj (OI-Archive)
 time_limit: 15000
+timing_mode: total
 space_limit: 162
