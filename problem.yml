@@ -1,4 +1,5 @@
 name: "[ZJOI2008]无序运动Movement"
 source: bzoj (OI-Archive)
 time_limit: 30000
+timing_mode: total
 space_limit: 162
