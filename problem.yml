@@ -1,4 +1,5 @@
 name: "[BeiJingWc2008]Gate Of Babylon"
 source: bzoj (OI-Archive)
 time_limit: 10000
+timing_mode: total
 space_limit: 162
