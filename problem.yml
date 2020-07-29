@@ -1,4 +1,5 @@
 name: "[NWERC2017]Ascending Photo"
 source: bzoj (OI-Archive)
 time_limit: 10000
+timing_mode: total
 space_limit: 512
