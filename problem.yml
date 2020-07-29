@@ -1,4 +1,5 @@
 name: "[Baltic2007]序列问题Sequence"
 source: bzoj (OI-Archive)
 time_limit: 5000
+timing_mode: total
 space_limit: 162
