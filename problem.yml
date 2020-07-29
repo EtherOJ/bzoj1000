@@ -1,4 +1,5 @@
 name: "[POI2009]Tab"
 source: bzoj (OI-Archive)
 time_limit: 40000
+timing_mode: total
 space_limit: 162
