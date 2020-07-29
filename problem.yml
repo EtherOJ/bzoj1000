@@ -1,4 +1,5 @@
 name: "[SCOI2007]压缩"
 source: bzoj (OI-Archive)
 time_limit: 1000
+timing_mode: total
 space_limit: 128
