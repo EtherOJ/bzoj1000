@@ -1,0 +1,6 @@
+name: |
+  [Scoi2010]传送带
+source: bzoj (OI-Archive)
+time_limit: 1000
+timing_mode: total
+space_limit: 64
