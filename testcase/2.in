@@ -1,0 +1,5002 @@
+1000
+player0 0
+player1 1
+player2 0
+player3 1
+player4 0
+player5 1
+player6 0
+player7 1
+player8 0
+player9 1
+player10 0
+player11 1
+player12 0
+player13 1
+player14 0
+player15 1
+player16 0
+player17 1
+player18 0
+player19 1
+player20 0
+player21 1
+player22 0
+player23 1
+player24 0
+player25 1
+player26 0
+player27 1
+player28 0
+player29 1
+player30 0
+player31 1
+player32 0
+player33 1
+player34 0
+player35 1
+player36 0
+player37 1
+player38 0
+player39 1
+player40 0
+player41 1
+player42 0
+player43 1
+player44 0
+player45 1
+player46 0
+player47 1
+player48 0
+player49 1
+player50 0
+player51 1
+player52 0
+player53 1
+player54 0
+player55 1
+player56 0
+player57 1
+player58 0
+player59 1
+player60 0
+player61 1
+player62 0
+player63 1
+player64 0
+player65 1
+player66 0
+player67 1
+player68 0
+player69 1
+player70 0
+player71 1
+player72 0
+player73 1
+player74 0
+player75 1
+player76 0
+player77 1
+player78 0
+player79 1
+player80 0
+player81 1
+player82 0
+player83 1
+player84 0
+player85 1
+player86 0
+player87 1
+player88 0
+player89 1
+player90 0
+player91 1
+player92 0
+player93 1
+player94 0
+player95 1
+player96 0
+player97 1
+player98 0
+player99 1
+player100 0
+player101 1
+player102 0
+player103 1
+player104 0
+player105 1
+player106 0
+player107 1
+player108 0
+player109 1
+player110 0
+player111 1
+player112 0
+player113 1
+player114 0
+player115 1
+player116 0
+player117 1
+player118 0
+player119 1
+player120 0
+player121 1
+player122 0
+player123 1
+player124 0
+player125 1
+player126 0
+player127 1
+player128 0
+player129 1
+player130 0
+player131 1
+player132 0
+player133 1
+player134 0
+player135 1
+player136 0
+player137 1
+player138 0
+player139 1
+player140 0
+player141 1
+player142 0
+player143 1
+player144 0
+player145 1
+player146 0
+player147 1
+player148 0
+player149 1
+player150 0
+player151 1
+player152 0
+player153 1
+player154 0
+player155 1
+player156 0
+player157 1
+player158 0
+player159 1
+player160 0
+player161 1
+player162 0
+player163 1
+player164 0
+player165 1
+player166 0
+player167 1
+player168 0
+player169 1
+player170 0
+player171 1
+player172 0
+player173 1
+player174 0
+player175 1
+player176 0
+player177 1
+player178 0
+player179 1
+player180 0
+player181 1
+player182 0
+player183 1
+player184 0
+player185 1
+player186 0
+player187 1
+player188 0
+player189 1
+player190 0
+player191 1
+player192 0
+player193 1
+player194 0
+player195 1
+player196 0
+player197 1
+player198 0
+player199 1
+player200 0
+player201 1
+player202 0
+player203 1
+player204 0
+player205 1
+player206 0
+player207 1
+player208 0
+player209 1
+player210 0
+player211 1
+player212 0
+player213 1
+player214 0
+player215 1
+player216 0
+player217 1
+player218 0
+player219 1
+player220 0
+player221 1
+player222 0
+player223 1
+player224 0
+player225 1
+player226 0
+player227 1
+player228 0
+player229 1
+player230 0
+player231 1
+player232 0
+player233 1
+player234 0
+player235 1
+player236 0
+player237 1
+player238 0
+player239 1
+player240 0
+player241 1
+player242 0
+player243 1
+player244 0
+player245 1
+player246 0
+player247 1
+player248 0
+player249 1
+player250 0
+player251 1
+player252 0
+player253 1
+player254 0
+player255 1
+player256 0
+player257 1
+player258 0
+player259 1
+player260 0
+player261 1
+player262 0
+player263 1
+player264 0
+player265 1
+player266 0
+player267 1
+player268 0
+player269 1
+player270 0
+player271 1
+player272 0
+player273 1
+player274 0
+player275 1
+player276 0
+player277 1
+player278 0
+player279 1
+player280 0
+player281 1
+player282 0
+player283 1
+player284 0
+player285 1
+player286 0
+player287 1
+player288 0
+player289 1
+player290 0
+player291 1
+player292 0
+player293 1
+player294 0
+player295 1
+player296 0
+player297 1
+player298 0
+player299 1
+player300 0
+player301 1
+player302 0
+player303 1
+player304 0
+player305 1
+player306 0
+player307 1
+player308 0
+player309 1
+player310 0
+player311 1
+player312 0
+player313 1
+player314 0
+player315 1
+player316 0
+player317 1
+player318 0
+player319 1
+player320 0
+player321 1
+player322 0
+player323 1
+player324 0
+player325 1
+player326 0
+player327 1
+player328 0
+player329 1
+player330 0
+player331 1
+player332 0
+player333 1
+player334 0
+player335 1
+player336 0
+player337 1
+player338 0
+player339 1
+player340 0
+player341 1
+player342 0
+player343 1
+player344 0
+player345 1
+player346 0
+player347 1
+player348 0
+player349 1
+player350 0
+player351 1
+player352 0
+player353 1
+player354 0
+player355 1
+player356 0
+player357 1
+player358 0
+player359 1
+player360 0
+player361 1
+player362 0
+player363 1
+player364 0
+player365 1
+player366 0
+player367 1
+player368 0
+player369 1
+player370 0
+player371 1
+player372 0
+player373 1
+player374 0
+player375 1
+player376 0
+player377 1
+player378 0
+player379 1
+player380 0
+player381 1
+player382 0
+player383 1
+player384 0
+player385 1
+player386 0
+player387 1
+player388 0
+player389 1
+player390 0
+player391 1
+player392 0
+player393 1
+player394 0
+player395 1
+player396 0
+player397 1
+player398 0
+player399 1
+player400 0
+player401 1
+player402 0
+player403 1
+player404 0
+player405 1
+player406 0
+player407 1
+player408 0
+player409 1
+player410 0
+player411 1
+player412 0
+player413 1
+player414 0
+player415 1
+player416 0
+player417 1
+player418 0
+player419 1
+player420 0
+player421 1
+player422 0
+player423 1
+player424 0
+player425 1
+player426 0
+player427 1
+player428 0
+player429 1
+player430 0
+player431 1
+player432 0
+player433 1
+player434 0
+player435 1
+player436 0
+player437 1
+player438 0
+player439 1
+player440 0
+player441 1
+player442 0
+player443 1
+player444 0
+player445 1
+player446 0
+player447 1
+player448 0
+player449 1
+player450 0
+player451 1
+player452 0
+player453 1
+player454 0
+player455 1
+player456 0
+player457 1
+player458 0
+player459 1
+player460 0
+player461 1
+player462 0
+player463 1
+player464 0
+player465 1
+player466 0
+player467 1
+player468 0
+player469 1
+player470 0
+player471 1
+player472 0
+player473 1
+player474 0
+player475 1
+player476 0
+player477 1
+player478 0
+player479 1
+player480 0
+player481 1
+player482 0
+player483 1
+player484 0
+player485 1
+player486 0
+player487 1
+player488 0
+player489 1
+player490 0
+player491 1
+player492 0
+player493 1
+player494 0
+player495 1
+player496 0
+player497 1
+player498 0
+player499 1
+player500 0
+player501 1
+player502 0
+player503 1
+player504 0
+player505 1
+player506 0
+player507 1
+player508 0
+player509 1
+player510 0
+player511 1
+player512 0
+player513 1
+player514 0
+player515 1
+player516 0
+player517 1
+player518 0
+player519 1
+player520 0
+player521 1
+player522 0
+player523 1
+player524 0
+player525 1
+player526 0
+player527 1
+player528 0
+player529 1
+player530 0
+player531 1
+player532 0
+player533 1
+player534 0
+player535 1
+player536 0
+player537 1
+player538 0
+player539 1
+player540 0
+player541 1
+player542 0
+player543 1
+player544 0
+player545 1
+player546 0
+player547 1
+player548 0
+player549 1
+player550 0
+player551 1
+player552 0
+player553 1
+player554 0
+player555 1
+player556 0
+player557 1
+player558 0
+player559 1
+player560 0
+player561 1
+player562 0
+player563 1
+player564 0
+player565 1
+player566 0
+player567 1
+player568 0
+player569 1
+player570 0
+player571 1
+player572 0
+player573 1
+player574 0
+player575 1
+player576 0
+player577 1
+player578 0
+player579 1
+player580 0
+player581 1
+player582 0
+player583 1
+player584 0
+player585 1
+player586 0
+player587 1
+player588 0
+player589 1
+player590 0
+player591 1
+player592 0
+player593 1
+player594 0
+player595 1
+player596 0
+player597 1
+player598 0
+player599 1
+player600 0
+player601 1
+player602 0
+player603 1
+player604 0
+player605 1
+player606 0
+player607 1
+player608 0
+player609 1
+player610 0
+player611 1
+player612 0
+player613 1
+player614 0
+player615 1
+player616 0
+player617 1
+player618 0
+player619 1
+player620 0
+player621 1
+player622 0
+player623 1
+player624 0
+player625 1
+player626 0
+player627 1
+player628 0
+player629 1
+player630 0
+player631 1
+player632 0
+player633 1
+player634 0
+player635 1
+player636 0
+player637 1
+player638 0
+player639 1
+player640 0
+player641 1
+player642 0
+player643 1
+player644 0
+player645 1
+player646 0
+player647 1
+player648 0
+player649 1
+player650 0
+player651 1
+player652 0
+player653 1
+player654 0
+player655 1
+player656 0
+player657 1
+player658 0
+player659 1
+player660 0
+player661 1
+player662 0
+player663 1
+player664 0
+player665 1
+player666 0
+player667 1
+player668 0
+player669 1
+player670 0
+player671 1
+player672 0
+player673 1
+player674 0
+player675 1
+player676 0
+player677 1
+player678 0
+player679 1
+player680 0
+player681 1
+player682 0
+player683 1
+player684 0
+player685 1
+player686 0
+player687 1
+player688 0
+player689 1
+player690 0
+player691 1
+player692 0
+player693 1
+player694 0
+player695 1
+player696 0
+player697 1
+player698 0
+player699 1
+player700 0
+player701 1
+player702 0
+player703 1
+player704 0
+player705 1
+player706 0
+player707 1
+player708 0
+player709 1
+player710 0
+player711 1
+player712 0
+player713 1
+player714 0
+player715 1
+player716 0
+player717 1
+player718 0
+player719 1
+player720 0
+player721 1
+player722 0
+player723 1
+player724 0
+player725 1
+player726 0
+player727 1
+player728 0
+player729 1
+player730 0
+player731 1
+player732 0
+player733 1
+player734 0
+player735 1
+player736 0
+player737 1
+player738 0
+player739 1
+player740 0
+player741 1
+player742 0
+player743 1
+player744 0
+player745 1
+player746 0
+player747 1
+player748 0
+player749 1
+player750 0
+player751 1
+player752 0
+player753 1
+player754 0
+player755 1
+player756 0
+player757 1
+player758 0
+player759 1
+player760 0
+player761 1
+player762 0
+player763 1
+player764 0
+player765 1
+player766 0
+player767 1
+player768 0
+player769 1
+player770 0
+player771 1
+player772 0
+player773 1
+player774 0
+player775 1
+player776 0
+player777 1
+player778 0
+player779 1
+player780 0
+player781 1
+player782 0
+player783 1
+player784 0
+player785 1
+player786 0
+player787 1
+player788 0
+player789 1
+player790 0
+player791 1
+player792 0
+player793 1
+player794 0
+player795 1
+player796 0
+player797 1
+player798 0
+player799 1
+player800 0
+player801 1
+player802 0
+player803 1
+player804 0
+player805 1
+player806 0
+player807 1
+player808 0
+player809 1
+player810 0
+player811 1
+player812 0
+player813 1
+player814 0
+player815 1
+player816 0
+player817 1
+player818 0
+player819 1
+player820 0
+player821 1
+player822 0
+player823 1
+player824 0
+player825 1
+player826 0
+player827 1
+player828 0
+player829 1
+player830 0
+player831 1
+player832 0
+player833 1
+player834 0
+player835 1
+player836 0
+player837 1
+player838 0
+player839 1
+player840 0
+player841 1
+player842 0
+player843 1
+player844 0
+player845 1
+player846 0
+player847 1
+player848 0
+player849 1
+player850 0
+player851 1
+player852 0
+player853 1
+player854 0
+player855 1
+player856 0
+player857 1
+player858 0
+player859 1
+player860 0
+player861 1
+player862 0
+player863 1
+player864 0
+player865 1
+player866 0
+player867 1
+player868 0
+player869 1
+player870 0
+player871 1
+player872 0
+player873 1
+player874 0
+player875 1
+player876 0
+player877 1
+player878 0
+player879 1
+player880 0
+player881 1
+player882 0
+player883 1
+player884 0
+player885 1
+player886 0
+player887 1
+player888 0
+player889 1
+player890 0
+player891 1
+player892 0
+player893 1
+player894 0
+player895 1
+player896 0
+player897 1
+player898 0
+player899 1
+player900 0
+player901 1
+player902 0
+player903 1
+player904 0
+player905 1
+player906 0
+player907 1
+player908 0
+player909 1
+player910 0
+player911 1
+player912 0
+player913 1
+player914 0
+player915 1
+player916 0
+player917 1
+player918 0
+player919 1
+player920 0
+player921 1
+player922 0
+player923 1
+player924 0
+player925 1
+player926 0
+player927 1
+player928 0
+player929 1
+player930 0
+player931 1
+player932 0
+player933 1
+player934 0
+player935 1
+player936 0
+player937 1
+player938 0
+player939 1
+player940 0
+player941 1
+player942 0
+player943 1
+player944 0
+player945 1
+player946 0
+player947 1
+player948 0
+player949 1
+player950 0
+player951 1
+player952 0
+player953 1
+player954 0
+player955 1
+player956 0
+player957 1
+player958 0
+player959 1
+player960 0
+player961 1
+player962 0
+player963 1
+player964 0
+player965 1
+player966 0
+player967 1
+player968 0
+player969 1
+player970 0
+player971 1
+player972 0
+player973 1
+player974 0
+player975 1
+player976 0
+player977 1
+player978 0
+player979 1
+player980 0
+player981 1
+player982 0
+player983 1
+player984 0
+player985 1
+player986 0
+player987 1
+player988 0
+player989 1
+player990 0
+player991 1
+player992 0
+player993 1
+player994 0
+player995 1
+player996 0
+player997 1
+player998 0
+player999 1
+4000
+00:00 player369 is killed by player582
+00:00 player685 is killed by player786
+00:00 player193 is killed by player366
+00:00 player569 is killed by player354
+00:00 player520 is killed by player271
+00:00 player829 is killed by player492
+00:00 player644 is killed by player13
+00:00 player855 is killed by player54
+00:00 player18 is killed by player181
+00:00 player554 is killed by player667
+00:01 player151 is killed by player272
+00:01 player355 is killed by player604
+00:01 player51 is killed by player88
+00:01 player648 is killed by player223
+00:01 player699 is killed by player366
+00:01 player985 is killed by player494
+00:01 player950 is killed by player905
+00:01 player652 is killed by player825
+00:01 player323 is killed by player282
+00:01 player996 is killed by player633
+00:02 player817 is killed by player488
+00:02 player537 is killed by player494
+00:02 player30 is killed by player209
+00:02 player454 is killed by player175
+00:02 player628 is killed by player609
+00:02 player471 is killed by player748
+00:02 player337 is killed by player46
+00:02 player65 is killed by player696
+00:02 player917 is killed by player716
+00:02 player71 is killed by player784
+00:03 player450 is killed by player571
+00:03 player10 is killed by player971
+00:03 player143 is killed by player96
+00:03 player208 is killed by player277
+00:03 player694 is killed by player915
+00:03 player184 is killed by player195
+00:03 player559 is killed by Roshan
+00:03 player149 is killed by player898
+00:03 player420 is killed by player459
+00:03 player233 is killed by player564
+00:04 player166 is killed by player901
+00:04 player780 is killed by player701
+00:04 player551 is killed by player884
+00:04 player53 is killed by player770
+00:04 player458 is killed by player897
+00:04 player248 is killed by player979
+00:04 player760 is killed by player339
+00:04 player713 is killed by player236
+00:04 player653 is killed by player698
+00:04 player0 is killed by player619
+00:05 player666 is killed by player147
+00:05 player846 is killed by player95
+00:05 player163 is killed by player836
+00:05 player526 is killed by player379
+00:05 player900 is killed by player923
+00:05 player63 is killed by player568
+00:05 player328 is killed by player161
+00:05 player521 is killed by player738
+00:05 player571 is killed by player956
+00:05 player543 is killed by player580
+00:06 player233 is killed by player70
+00:06 player212 is killed by player293
+00:06 player517 is killed by player502
+00:06 player96 is killed by player941
+00:06 player398 is killed by player217
+00:06 player853 is killed by player570
+00:06 player895 is killed by player662
+00:06 player717 is killed by player88
+00:06 player870 is killed by player151
+00:06 player175 is killed by player82
+00:07 player624 is killed by player803
+00:07 player841 is killed by player688
+00:07 player259 is killed by player452
+00:07 player304 is killed by player389
+00:07 player235 is killed by player398
+00:07 player14 is killed by player877
+00:07 player785 is killed by player336
+00:07 player707 is killed by player832
+00:07 player441 is killed by player92
+00:07 player183 is killed by player438
+00:08 player747 is killed by player204
+00:08 player462 is killed by player701
+00:08 player173 is killed by player582
+00:08 player558 is killed by player851
+00:08 player295 is killed by player680
+00:08 player237 is killed by player996
+00:08 player879 is killed by player34
+00:08 player719 is killed by player894
+00:08 player317 is killed by player120
+00:08 player910 is killed by player727
+00:09 player217 is killed by player846
+00:09 player738 is killed by player269
+00:09 player108 is killed by player369
+00:09 player44 is killed by player939
+00:09 player549 is killed by player180
+00:09 player789 is killed by player10
+00:09 player285 is killed by player330
+00:09 player700 is killed by player121
+00:09 player820 is killed by player297
+00:09 player384 is killed by player763
+00:10 player37 is killed by player814
+00:10 player267 is killed by player122
+00:10 player480 is killed by player751
+00:10 player872 is killed by player547
+00:10 player544 is killed by player699
+00:10 player302 is killed by player673
+00:10 player788 is killed by player449
+00:10 player244 is killed by player133
+00:10 player177 is killed by player742
+00:10 player16 is killed by player343
+00:11 player759 is killed by player40
+00:11 player219 is killed by player400
+00:11 player42 is killed by player459
+00:11 player79 is killed by player256
+00:11 player293 is killed by player708
+00:11 player236 is killed by player821
+00:11 player914 is killed by player299
+00:11 player455 is killed by player844
+00:11 player613 is killed by player898
+00:11 player804 is killed by player699
+00:12 player962 is killed by player541
+00:12 player774 is killed by player383
+00:12 player820 is killed by player315
+00:12 player852 is killed by player933
+00:12 player879 is killed by player372
+00:12 player750 is killed by player243
+00:12 player520 is killed by player215
+00:12 player336 is killed by player205
+00:12 player268 is killed by player969
+00:12 player214 is killed by player73
+00:13 player878 is killed by player905
+00:13 player946 is killed by player795
+00:13 player189 is killed by player228
+00:13 player937 is killed by player18
+00:13 player525 is killed by player854
+00:13 player204 is killed by player337
+00:13 player581 is killed by player888
+00:13 player566 is killed by player637
+00:13 player481 is killed by player832
+00:13 player138 is killed by player131
+00:14 player392 is killed by player69
+00:14 player783 is killed by player454
+00:14 player649 is killed by player448
+00:14 player493 is killed by player798
+00:14 player193 is killed by player428
+00:14 player970 is killed by player853
+00:14 player393 is killed by player28
+00:14 player601 is killed by player76
+00:14 player878 is killed by player125
+00:14 player419 is killed by player118
+00:15 player832 is killed by player263
+00:15 player624 is killed by player141
+00:15 player319 is killed by player330
+00:15 player559 is killed by player984
+00:15 player307 is killed by player348
+00:15 player236 is killed by player817
+00:15 player499 is killed by player758
+00:15 player826 is killed by player571
+00:15 player24 is killed by player523
+00:15 player602 is killed by player399
+00:16 player499 is killed by player752
+00:16 player242 is killed by player417
+00:16 player556 is killed by player413
+00:16 player849 is killed by player218
+00:16 player909 is killed by player554
+00:16 player314 is killed by player621
+00:16 player982 is killed by player511
+00:16 player800 is killed by player181
+00:16 player850 is killed by player117
+00:16 player41 is killed by player754
+00:17 player898 is killed by player721
+00:17 player237 is killed by player310
+00:17 player808 is killed by player953
+00:17 player464 is killed by player495
+00:17 player127 is killed by player194
+00:17 player830 is killed by player465
+00:17 player545 is killed by player218
+00:17 player407 is killed by player906
+00:17 player385 is killed by player434
+00:17 player292 is killed by player1
+00:18 player194 is killed by player741
+00:18 player912 is killed by player89
+00:18 player951 is killed by player254
+00:18 player562 is killed by player995
+00:18 player525 is killed by player312
+00:18 player171 is killed by player658
+00:18 player454 is killed by player543
+00:18 player555 is killed by player322
+00:18 player303 is killed by player286
+00:18 player457 is killed by player676
+00:19 player268 is killed by player717
+00:19 player602 is killed by player845
+00:19 player443 is killed by player446
+00:19 player480 is killed by player763
+00:19 player262 is killed by player899
+00:19 player623 is killed by player604
+00:19 player93 is killed by player30
+00:19 player909 is killed by player394
+00:19 player619 is killed by player812
+00:19 player233 is killed by player278
+00:20 player680 is killed by player865
+00:20 player285 is killed by player112
+00:20 player775 is killed by player142
+00:20 player398 is killed by player263
+00:20 player952 is killed by player813
+00:20 player436 is killed by player409
+00:20 player593 is killed by player312
+00:20 player901 is killed by player80
+00:20 player753 is killed by player488
+00:20 player582 is killed by player985
+00:21 player637 is killed by player658
+00:21 player29 is killed by player666
+00:21 player182 is killed by player581
+00:21 player641 is killed by player950
+00:21 player699 is killed by player850
+00:21 player923 is killed by player654
+00:21 player99 is killed by player620
+00:21 player593 is killed by player686
+00:21 player725 is killed by player350
+00:21 player928 is killed by player465
+00:22 player708 is killed by player639
+00:22 player441 is killed by player464
+00:22 player613 is killed by player248
+00:22 player200 is killed by player647
+00:22 player251 is killed by player204
+00:22 player9 is killed by player872
+00:22 player789 is killed by player292
+00:22 player948 is killed by player221
+00:22 player21 is killed by player746
+00:22 player851 is killed by player950
+00:23 player429 is killed by player926
+00:23 player232 is killed by player213
+00:23 player550 is killed by player997
+00:23 player708 is killed by player185
+00:23 player1 is killed by player502
+00:23 player630 is killed by player197
+00:23 player969 is killed by player522
+00:23 player153 is killed by player756
+00:23 player368 is killed by player449
+00:23 player530 is killed by player711
+00:24 player393 is killed by player580
+00:24 player464 is killed by player273
+00:24 player598 is killed by player357
+00:24 player148 is killed by player993
+00:24 player851 is killed by player694
+00:24 player923 is killed by player204
+00:24 player954 is killed by player407
+00:24 player89 is killed by player432
+00:24 player713 is killed by player310
+00:24 player425 is killed by player730
+00:25 player897 is killed by player136
+00:25 player787 is killed by player646
+00:25 player816 is killed by player575
+00:25 player428 is killed by player451
+00:25 player33 is killed by player190
+00:25 player412 is killed by player831
+00:25 player155 is killed by player258
+00:25 player292 is killed by player349
+00:25 player7 is killed by player674
+00:25 player886 is killed by player411
+00:26 player894 is killed by player477
+00:26 player650 is killed by player525
+00:26 player947 is killed by player632
+00:26 player142 is killed by player487
+00:26 player788 is killed by player223
+00:26 player638 is killed by player521
+00:26 player542 is killed by player827
+00:26 player860 is killed by player167
+00:26 player81 is killed by player28
+00:26 player994 is killed by player17
+00:27 player82 is killed by player639
+00:27 player389 is killed by player34
+00:27 player889 is killed by player458
+00:27 player244 is killed by player571
+00:27 player330 is killed by player35
+00:27 player674 is killed by player285
+00:27 player55 is killed by player276
+00:27 player464 is killed by player43
+00:27 player214 is killed by player441
+00:27 player366 is killed by player717
+00:28 player887 is killed by player56
+00:28 player419 is killed by player304
+00:28 player897 is killed by player886
+00:28 player948 is killed by player111
+00:28 player813 is killed by player236
+00:28 player217 is killed by player240
+00:28 player354 is killed by player1
+00:28 player334 is killed by player269
+00:28 player3 is killed by player526
+00:28 player177 is killed by player186
+00:29 player174 is killed by player737
+00:29 player815 is killed by player900
+00:29 player223 is killed by player848
+00:29 player204 is killed by player965
+00:29 player629 is killed by player640
+00:29 player690 is killed by player921
+00:29 player106 is killed by player177
+00:29 player481 is killed by player132
+00:29 player752 is killed by player57
+00:29 player329 is killed by player920
+00:30 player970 is killed by player671
+00:30 player412 is killed by player215
+00:30 player521 is killed by player990
+00:30 player71 is killed by player882
+00:30 player817 is killed by player692
+00:30 player658 is killed by player61
+00:30 player52 is killed by player45
+00:30 player174 is killed by player463
+00:30 player500 is killed by player379
+00:30 player583 is killed by player506
+00:31 player126 is killed by player541
+00:31 player138 is killed by player57
+00:31 player757 is killed by player146
+00:31 player944 is killed by player71
+00:31 player269 is killed by player430
+00:31 player379 is killed by player262
+00:31 player266 is killed by player923
+00:31 player225 is killed by player352
+00:31 player88 is killed by player287
+00:31 player983 is killed by player448
+00:32 player332 is killed by player9
+00:32 player360 is killed by player529
+00:32 player466 is killed by player29
+00:32 player334 is killed by player573
+00:32 player440 is killed by player97
+00:32 player488 is killed by player733
+00:32 player779 is killed by player962
+00:32 player452 is killed by player247
+00:32 player601 is killed by player338
+00:32 player799 is killed by player568
+00:33 player903 is killed by player220
+00:33 player195 is killed by player740
+00:33 player628 is killed by player937
+00:33 player248 is killed by player599
+00:33 player621 is killed by player74
+00:33 player479 is killed by player936
+00:33 player834 is killed by player711
+00:33 player130 is killed by player777
+00:33 player593 is killed by player426
+00:33 player904 is killed by player61
+00:34 player810 is killed by player431
+00:34 player216 is killed by player253
+00:34 player187 is killed by player454
+00:34 player939 is killed by player842
+00:34 player380 is killed by player19
+00:34 player983 is killed by player542
+00:34 player709 is killed by player986
+00:34 player665 is killed by player114
+00:34 player895 is killed by player776
+00:34 player715 is killed by player686
+00:35 player289 is killed by player736
+00:35 player990 is killed by player7
+00:35 player988 is killed by player91
+00:35 player689 is killed by player834
+00:35 player369 is killed by player12
+00:35 player819 is killed by player154
+00:35 player593 is killed by player850
+00:35 player166 is killed by player447
+00:35 player85 is killed by player72
+00:35 player157 is killed by player818
+00:36 player752 is killed by player803
+00:36 player535 is killed by player300
+00:36 player577 is killed by player720
+00:36 player700 is killed by player607
+00:36 player429 is killed by player394
+00:36 player495 is killed by player960
+00:36 player628 is killed by player231
+00:36 player205 is killed by player258
+00:36 player747 is killed by player858
+00:36 player933 is killed by player438
+00:37 player402 is killed by player297
+00:37 player736 is killed by player769
+00:37 player455 is killed by player252
+00:37 player683 is killed by player320
+00:37 player275 is killed by player304
+00:37 player923 is killed by player848
+00:37 player123 is killed by player194
+00:37 player904 is killed by player383
+00:37 player994 is killed by player689
+00:37 player237 is killed by player836
+00:38 player501 is killed by player324
+00:38 player871 is killed by player0
+00:38 player471 is killed by player956
+00:38 player835 is killed by player206
+00:38 player974 is killed by player541
+00:38 player861 is killed by player476
+00:38 player61 is killed by player998
+00:38 player103 is killed by player756
+00:38 player579 is killed by player114
+00:38 player983 is killed by player340
+00:39 player388 is killed by player985
+00:39 player380 is killed by player67
+00:39 player119 is killed by player50
+00:39 player482 is killed by player419
+00:39 player280 is killed by player353
+00:39 player235 is killed by player342
+00:39 player135 is killed by player760
+00:39 player760 is killed by player241
+00:39 player480 is killed by player33
+00:39 player153 is killed by player530
+00:40 player516 is killed by player91
+00:40 player186 is killed by player845
+00:40 player80 is killed by player397
+00:40 player623 is killed by player122
+00:40 player293 is killed by player272
+00:40 player921 is killed by player364
+00:40 player888 is killed by player839
+00:40 player393 is killed by player772
+00:40 player42 is killed by player345
+00:40 player228 is killed by player107
+00:41 player819 is killed by player218
+00:41 player447 is killed by player906
+00:41 player803 is killed by player248
+00:41 player493 is killed by player658
+00:41 player689 is killed by player866
+00:41 player919 is killed by player144
+00:41 player903 is killed by player510
+00:41 player723 is killed by player214
+00:41 player29 is killed by player682
+00:41 player329 is killed by player108
+00:42 player213 is killed by player978
+00:42 player297 is killed by player24
+00:42 player607 is killed by player636
+00:42 player617 is killed by player880
+00:42 player182 is killed by player945
+00:42 player46 is killed by player393
+00:42 player363 is killed by player526
+00:42 player344 is killed by player155
+00:42 player657 is killed by player912
+00:42 player268 is killed by player773
+00:43 player960 is killed by player591
+00:43 player916 is killed by player583
+00:43 player182 is killed by player219
+00:43 player697 is killed by player644
+00:43 player74 is killed by player613
+00:43 player204 is killed by player809
+00:43 player563 is killed by player74
+00:43 player17 is killed by player960
+00:43 player905 is killed by player648
+00:43 player733 is killed by player852
+00:44 player274 is killed by player295
+00:44 player17 is killed by player606
+00:44 player728 is killed by player713
+00:44 player727 is killed by player726
+00:44 player601 is killed by player538
+00:44 player461 is killed by player182
+00:44 player455 is killed by player76
+00:44 player721 is killed by player848
+00:44 player776 is killed by player229
+00:44 player739 is killed by player428
+00:45 player449 is killed by player146
+00:45 player561 is killed by player322
+00:45 player391 is killed by player984
+00:45 player158 is killed by player429
+00:45 player46 is killed by player347
+00:45 player444 is killed by player227
+00:45 player270 is killed by player967
+00:45 player325 is killed by player314
+00:45 player330 is killed by player261
+00:45 player884 is killed by player637
+00:46 player987 is killed by player262
+00:46 player857 is killed by player264
+00:46 player701 is killed by player934
+00:46 player165 is killed by player98
+00:46 player167 is killed by player436
+00:46 player354 is killed by player173
+00:46 player217 is killed by player214
+00:46 player431 is killed by player132
+00:46 player121 is killed by player556
+00:46 player675 is killed by Roshan
+00:47 player591 is killed by player478
+00:47 player479 is killed by player18
+00:47 player338 is killed by player181
+00:47 player561 is killed by player164
+00:47 player650 is killed by player617
+00:47 player662 is killed by player77
+00:47 player615 is killed by player108
+00:47 player344 is killed by player707
+00:47 player825 is killed by player42
+00:47 player104 is killed by player189
+00:48 player978 is killed by player853
+00:48 player222 is killed by player569
+00:48 player810 is killed by player551
+00:48 player943 is killed by player892
+00:48 player929 is killed by player222
+00:48 player926 is killed by player709
+00:48 player930 is killed by player517
+00:48 player590 is killed by player925
+00:48 player862 is killed by player981
+00:48 player726 is killed by player883
+00:49 player766 is killed by player735
+00:49 player398 is killed by player461
+00:49 player269 is killed by player452
+00:49 player753 is killed by player510
+00:49 player21 is killed by player482
+00:49 player956 is killed by player905
+00:49 player49 is killed by player850
+00:49 player662 is killed by player615
+00:49 player955 is killed by player324
+00:49 player944 is killed by player245
+00:50 player672 is killed by player303
+00:50 player679 is killed by player518
+00:50 player56 is killed by player453
+00:50 player784 is killed by player45
+00:50 player906 is killed by player291
+00:50 player459 is killed by player442
+00:50 player127 is killed by player302
+00:50 player451 is killed by player596
+00:50 player414 is killed by player21
+00:50 player789 is killed by player984
+00:51 player312 is killed by player835
+00:51 player855 is killed by player422
+00:51 player972 is killed by player917
+00:51 player403 is killed by player552
+00:51 player518 is killed by player741
+00:51 player307 is killed by player930
+00:51 player724 is killed by player699
+00:51 player343 is killed by player326
+00:51 player562 is killed by player467
+00:51 player630 is killed by player705
+00:52 player286 is killed by player697
+00:52 player809 is killed by player422
+00:52 player942 is killed by player741
+00:52 player742 is killed by player987
+00:52 player264 is killed by player665
+00:52 player563 is killed by player220
+00:52 player322 is killed by player959
+00:52 player497 is killed by player150
+00:52 player19 is killed by player890
+00:52 player44 is killed by player3
+00:53 player890 is killed by player443
+00:53 player464 is killed by player451
+00:53 player606 is killed by player975
+00:53 player502 is killed by player175
+00:53 player566 is killed by player553
+00:53 player183 is killed by player860
+00:53 player498 is killed by player831
+00:53 player464 is killed by player953
+00:53 player321 is killed by player212
+00:53 player678 is killed by player295
+00:54 player948 is killed by player887
+00:54 player596 is killed by player153
+00:54 player739 is killed by player680
+00:54 player67 is killed by player654
+00:54 player911 is killed by player266
+00:54 player362 is killed by player831
+00:54 player599 is killed by player648
+00:54 player566 is killed by player167
+00:54 player823 is killed by player40
+00:54 player75 is killed by player126
+00:55 player862 is killed by player133
+00:55 player60 is killed by player925
+00:55 player254 is killed by player749
+00:55 player751 is killed by player172
+00:55 player442 is killed by player917
+00:55 player460 is killed by player653
+00:55 player347 is killed by player6
+00:55 player512 is killed by player725
+00:55 player619 is killed by player554
+00:55 player77 is killed by player432
+00:56 player350 is killed by player895
+00:56 player4 is killed by player519
+00:56 player469 is killed by player464
+00:56 player94 is killed by player671
+00:56 player861 is killed by player928
+00:56 player695 is killed by player546
+00:56 player0 is killed by player903
+00:56 player596 is killed by player475
+00:56 player251 is killed by player322
+00:56 player406 is killed by player595
+00:57 player311 is killed by player486
+00:57 player544 is killed by player577
+00:57 player19 is killed by player998
+00:57 player414 is killed by player729
+00:57 player82 is killed by player415
+00:57 player758 is killed by player907
+00:57 player257 is killed by player208
+00:57 player563 is killed by player552
+00:57 player924 is killed by player581
+00:57 player15 is killed by player714
+00:58 player658 is killed by player253
+00:58 player865 is killed by player346
+00:58 player670 is killed by player297
+00:58 player688 is killed by player781
+00:58 player631 is killed by player848
+00:58 player343 is killed by player216
+00:58 player770 is killed by player825
+00:58 player945 is killed by player284
+00:58 player278 is killed by player425
+00:58 player206 is killed by player965
+00:59 player80 is killed by player527
+00:59 player903 is killed by player432
+00:59 player1 is killed by player292
+00:59 player966 is killed by player501
+00:59 player757 is killed by player886
+00:59 player322 is killed by player975
+00:59 player829 is killed by player54
+00:59 player730 is killed by player517
+00:59 player855 is killed by player482
+00:59 player23 is killed by player44
+01:00 player219 is killed by player436
+01:00 player575 is killed by player646
+01:00 player258 is killed by player573
+01:00 player631 is killed by player686
+01:00 player115 is killed by player502
+01:00 player41 is killed by player850
+01:00 player934 is killed by player729
+01:00 player791 is killed by player54
+01:00 player164 is killed by player587
+01:00 player318 is killed by player707
+01:01 player54 is killed by player5
+01:01 player566 is killed by player297
+01:01 player509 is killed by player190
+01:01 player841 is killed by player830
+01:01 player906 is killed by player129
+01:01 player10 is killed by player395
+01:01 player592 is killed by player857
+01:01 player529 is killed by player496
+01:01 player46 is killed by player873
+01:01 player436 is killed by player857
+01:02 player969 is killed by player796
+01:02 player871 is killed by player272
+01:02 player258 is killed by player527
+01:02 player263 is killed by player212
+01:02 player780 is killed by player423
+01:02 player667 is killed by player596
+01:02 player736 is killed by player65
+01:02 player252 is killed by player749
+01:02 player980 is killed by player173
+01:02 player159 is killed by player898
+01:03 player9 is killed by player414
+01:03 player385 is killed by player884
+01:03 player772 is killed by player463
+01:03 player803 is killed by player0
+01:03 player472 is killed by player69
+01:03 player141 is killed by player794
+01:03 player266 is killed by player459
+01:03 player127 is killed by player502
+01:03 player269 is killed by player696
+01:03 player414 is killed by player581
+01:04 player863 is killed by player712
+01:04 player628 is killed by player903
+01:04 player92 is killed by player465
+01:04 player516 is killed by player797
+01:04 player41 is killed by player866
+01:04 player516 is killed by player579
+01:04 player411 is killed by player716
+01:04 player371 is killed by player732
+01:04 player1 is killed by player260
+01:04 player869 is killed by player632
+01:05 player471 is killed by player316
+01:05 player93 is killed by player426
+01:05 player413 is killed by player302
+01:05 player114 is killed by player819
+01:05 player552 is killed by player51
+01:05 player133 is killed by player222
+01:05 player111 is killed by player484
+01:05 player530 is killed by player141
+01:05 player472 is killed by player807
+01:05 player141 is killed by player832
+01:06 player404 is killed by player483
+01:06 player919 is killed by player576
+01:06 player728 is killed by player679
+01:06 player217 is killed by player850
+01:06 player966 is killed by player839
+01:06 player840 is killed by player941
+01:06 player347 is killed by player962
+01:06 player890 is killed by player145
+01:06 player962 is killed by player481
+01:06 player240 is killed by player587
+01:07 player449 is killed by player72
+01:07 player28 is killed by player129
+01:07 player971 is killed by player426
+01:07 player804 is killed by player131
+01:07 player830 is killed by player423
+01:07 player776 is killed by player943
+01:07 player301 is killed by player130
+01:07 player249 is killed by player906
+01:07 player872 is killed by player457
+01:07 player962 is killed by player613
+01:08 player570 is killed by player917
+01:08 player772 is killed by player793
+01:08 player700 is killed by player865
+01:08 player924 is killed by player969
+01:08 player985 is killed by player46
+01:08 player391 is killed by player704
+01:08 player978 is killed by player513
+01:08 player34 is killed by player757
+01:08 player570 is killed by player813
+01:08 player59 is killed by player782
+01:09 player180 is killed by player695
+01:09 player324 is killed by player377
+01:09 player108 is killed by player31
+01:09 player329 is killed by player360
+01:09 player123 is killed by player402
+01:09 player671 is killed by player20
+01:09 player703 is killed by player88
+01:09 player824 is killed by player363
+01:09 player730 is killed by player849
+01:09 player844 is killed by player143
+01:10 player2 is killed by player631
+01:10 player26 is killed by player855
+01:10 player681 is killed by player398
+01:10 player343 is killed by player954
+01:10 player486 is killed by player269
+01:10 player542 is killed by player539
+01:10 player140 is killed by player195
+01:10 player178 is killed by player77
+01:10 player953 is killed by player764
+01:10 player88 is killed by player809
+01:11 player593 is killed by player906
+01:11 player664 is killed by player537
+01:11 player396 is killed by player309
+01:11 player564 is killed by player603
+01:11 player702 is killed by player779
+01:11 player322 is killed by player309
+01:11 player213 is killed by player752
+01:11 player311 is killed by player104
+01:11 player472 is killed by player179
+01:11 player173 is killed by player266
+01:12 player814 is killed by player839
+01:12 player678 is killed by player857
+01:12 player925 is killed by player2
+01:12 player289 is killed by player918
+01:12 player180 is killed by player253
+01:12 player861 is killed by player672
+01:12 player459 is killed by player330
+01:12 player284 is killed by player789
+01:12 player969 is killed by player648
+01:12 player970 is killed by player547
+01:13 player14 is killed by player949
+01:13 player821 is killed by player802
+01:13 player338 is killed by player51
+01:13 player519 is killed by player214
+01:13 player326 is killed by player893
+01:13 player993 is killed by player930
+01:13 player26 is killed by player391
+01:13 player459 is killed by player578
+01:13 player814 is killed by player703
+01:13 player866 is killed by player697
+01:14 player45 is killed by player852
+01:14 player393 is killed by player908
+01:14 player263 is killed by player998
+01:14 player667 is killed by player324
+01:14 player422 is killed by player531
+01:14 player655 is killed by player768
+01:14 player595 is killed by player462
+01:14 player293 is killed by player886
+01:14 player242 is killed by player751
+01:14 player97 is killed by player342
+01:15 player819 is killed by player464
+01:15 player606 is killed by player811
+01:15 player650 is killed by player905
+01:15 player124 is killed by player781
+01:15 player689 is killed by player618
+01:15 player140 is killed by player913
+01:15 player93 is killed by player728
+01:15 player67 is killed by player786
+01:15 player614 is killed by player51
+01:15 player438 is killed by player929
+01:16 player971 is killed by player38
+01:16 player646 is killed by player387
+01:16 player509 is killed by player858
+01:16 player20 is killed by player755
+01:16 player539 is killed by player502
+01:16 player134 is killed by player647
+01:16 player591 is killed by player632
+01:16 player762 is killed by player543
+01:16 player358 is killed by player23
+01:16 player250 is killed by player395
+01:17 player493 is killed by player800
+01:17 player136 is killed by player683
+01:17 player10 is killed by player171
+01:17 player908 is killed by player661
+01:17 player953 is killed by player286
+01:17 player317 is killed by player476
+01:17 player512 is killed by player835
+01:17 player605 is killed by player372
+01:17 player117 is killed by player710
+01:17 player0 is killed by player293
+01:18 player62 is killed by player767
+01:18 player125 is killed by player368
+01:18 player650 is killed by player865
+01:18 player773 is killed by player842
+01:18 player38 is killed by player201
+01:18 player588 is killed by player355
+01:18 player538 is killed by player277
+01:18 player134 is killed by player129
+01:18 player469 is killed by player122
+01:18 player884 is killed by player893
+01:19 player86 is killed by player313
+01:19 player207 is killed by player604
+01:19 player693 is killed by player702
+01:19 player604 is killed by player165
+01:19 player377 is killed by player564
+01:19 player25 is killed by player784
+01:19 player324 is killed by player665
+01:19 player671 is killed by player288
+01:19 player68 is killed by player605
+01:19 player976 is killed by player431
+01:20 player330 is killed by player319
+01:20 player763 is killed by player212
+01:20 player432 is killed by player645
+01:20 player669 is killed by player994
+01:20 player359 is killed by player344
+01:20 player298 is killed by player921
+01:20 player351 is killed by player706
+01:20 player573 is killed by player808
+01:20 player610 is killed by player311
+01:20 player356 is killed by player355
+01:21 player619 is killed by player698
+01:21 player680 is killed by player969
+01:21 player819 is killed by player132
+01:21 player83 is killed by player506
+01:21 player517 is killed by player30
+01:21 player731 is killed by player654
+01:21 player19 is killed by player72
+01:21 player806 is killed by player529
+01:21 player919 is killed by player634
+01:21 player606 is killed by player255
+01:22 player14 is killed by player485
+01:22 player399 is killed by player498
+01:22 player754 is killed by player9
+01:22 player206 is killed by player587
+01:22 player808 is killed by player923
+01:22 player213 is killed by player776
+01:22 player698 is killed by player895
+01:22 player804 is killed by player523
+01:22 player493 is killed by player298
+01:22 player778 is killed by player427
+01:23 player501 is killed by player352
+01:23 player421 is killed by player86
+01:23 player175 is killed by player46
+01:23 player926 is killed by player175
+01:23 player39 is killed by player316
+01:23 player760 is killed by player511
+01:23 player756 is killed by player847
+01:23 player538 is killed by player687
+01:23 player297 is killed by player40
+01:23 player315 is killed by player58
+01:24 player813 is killed by player446
+01:24 player934 is killed by player339
+01:24 player837 is killed by player448
+01:24 player494 is killed by player275
+01:24 player272 is killed by player337
+01:24 player348 is killed by player469
+01:24 player588 is killed by player757
+01:24 player686 is killed by player697
+01:24 player783 is killed by player944
+01:24 player202 is killed by player337
+01:25 player432 is killed by player195
+01:25 player44 is killed by player825
+01:25 player119 is killed by player782
+01:25 player780 is killed by player791
+01:25 player115 is killed by player350
+01:25 player972 is killed by player807
+01:25 player835 is killed by player144
+01:25 player456 is killed by player499
+01:25 player862 is killed by player607
+01:25 player406 is killed by player987
+01:26 player766 is killed by player315
+01:26 player256 is killed by player895
+01:26 player482 is killed by player627
+01:26 player960 is killed by player147
+01:26 player44 is killed by player589
+01:26 player123 is killed by player508
+01:26 player339 is killed by player510
+01:26 player89 is killed by player960
+01:26 player785 is killed by player68
+01:26 player293 is killed by player268
+01:27 player943 is killed by player458
+01:27 player736 is killed by player811
+01:27 player832 is killed by player865
+01:27 player50 is killed by player27
+01:27 player660 is killed by player369
+01:27 player451 is killed by player882
+01:27 player798 is killed by player183
+01:27 player143 is killed by player50
+01:27 player647 is killed by player390
+01:27 player929 is killed by player30
+01:28 player140 is killed by player157
+01:28 player281 is killed by player730
+01:28 player294 is killed by player311
+01:28 player320 is killed by player297
+01:28 player721 is killed by player294
+01:28 player884 is killed by player813
+01:28 player815 is killed by player692
+01:28 player423 is killed by player274
+01:28 player678 is killed by player115
+01:28 player701 is killed by player234
+01:29 player951 is killed by player762
+01:29 player566 is killed by player575
+01:29 player944 is killed by player243
+01:29 player520 is killed by player515
+01:29 player452 is killed by player971
+01:29 player73 is killed by player868
+01:29 player169 is killed by player946
+01:29 player515 is killed by player586
+01:29 player202 is killed by player309
+01:29 player185 is killed by player686
+01:30 player575 is killed by player480
+01:30 player537 is killed by player436
+01:30 player130 is killed by player47
+01:30 player179 is killed by player798
+01:30 player763 is killed by player516
+01:30 player496 is killed by player741
+01:30 player55 is killed by player254
+01:30 player942 is killed by player149
+01:30 player691 is killed by player922
+01:30 player308 is killed by player959
+01:31 player95 is killed by player500
+01:31 player897 is killed by player106
+01:31 player513 is killed by player908
+01:31 player466 is killed by player509
+01:31 player800 is killed by player255
+01:31 player155 is killed by player670
+01:31 player211 is killed by player990
+01:31 player877 is killed by player222
+01:31 player352 is killed by player551
+01:31 player97 is killed by player912
+01:32 player625 is killed by player278
+01:32 player700 is killed by player487
+01:32 player124 is killed by player345
+01:32 player332 is killed by player305
+01:32 player745 is killed by player996
+01:32 player602 is killed by player123
+01:32 player306 is killed by player375
+01:32 player928 is killed by player123
+01:32 player934 is killed by player39
+01:32 player717 is killed by player168
+01:33 player654 is killed by player869
+01:33 player959 is killed by player954
+01:33 player941 is killed by player242
+01:33 player168 is killed by player37
+01:33 player545 is killed by player974
+01:33 player604 is killed by player609
+01:33 player319 is killed by player32
+01:33 player449 is killed by player952
+01:33 player142 is killed by player509
+01:33 player976 is killed by player751
+01:34 player793 is killed by player126
+01:34 player835 is killed by player758
+01:34 player715 is killed by player964
+01:34 player416 is killed by player219
+01:34 player711 is killed by player768
+01:34 player493 is killed by player88
+01:34 player934 is killed by player145
+01:34 player652 is killed by player169
+01:34 player61 is killed by player382
+01:34 player81 is killed by player56
+01:35 player837 is killed by player284
+01:35 player377 is killed by player502
+01:35 player812 is killed by player689
+01:35 player54 is killed by player927
+01:35 player693 is killed by player722
+01:35 player905 is killed by player810
+01:35 player739 is killed by player330
+01:35 player151 is killed by player234
+01:35 player484 is killed by player909
+01:35 player470 is killed by player399
+01:36 player804 is killed by player99
+01:36 player425 is killed by player330
+01:36 player103 is killed by player42
+01:36 player243 is killed by player106
+01:36 player547 is killed by player598
+01:36 player697 is killed by player534
+01:36 player492 is killed by player257
+01:36 player123 is killed by player208
+01:36 player826 is killed by player121
+01:36 player468 is killed by player749
+01:37 player657 is killed by player928
+01:37 player943 is killed by player44
+01:37 player400 is killed by player513
+01:37 player565 is killed by player926
+01:37 player908 is killed by player817
+01:37 player924 is killed by player819
+01:37 player925 is killed by player932
+01:37 player786 is killed by player37
+01:37 player760 is killed by player23
+01:37 player67 is killed by player792
+01:38 player359 is killed by player204
+01:38 player967 is killed by player738
+01:38 player303 is killed by player638
+01:38 player568 is killed by player199
+01:38 player528 is killed by player19
+01:38 player514 is killed by player833
+01:38 player50 is killed by player111
+01:38 player403 is killed by player870
+01:38 player110 is killed by player929
+01:38 player733 is killed by player754
+01:39 player346 is killed by player31
+01:39 player866 is killed by player335
+01:39 player930 is killed by player279
+01:39 player488 is killed by player363
+01:39 player571 is killed by player522
+01:39 player181 is killed by player640
+01:39 player673 is killed by player400
+01:39 player252 is killed by player777
+01:39 player428 is killed by player367
+01:39 player696 is killed by player949
+01:40 player766 is killed by player419
+01:40 player961 is killed by player602
+01:40 player720 is killed by player687
+01:40 player621 is killed by player704
+01:40 player886 is killed by player185
+01:40 player721 is killed by player488
+01:40 player992 is killed by player169
+01:40 player712 is killed by player965
+01:40 player195 is killed by player742
+01:40 player850 is killed by player539
+01:41 player263 is killed by player472
+01:41 player736 is killed by player997
+01:41 player345 is killed by player736
+01:41 player320 is killed by player309
+01:41 player92 is killed by player201
+01:41 player53 is killed by player550
+01:41 player908 is killed by player787
+01:41 player448 is killed by player331
+01:41 player44 is killed by player343
+01:41 player724 is killed by player121
+01:42 player192 is killed by player781
+01:42 player998 is killed by player437
+01:42 player869 is killed by player580
+01:42 player364 is killed by player421
+01:42 player544 is killed by player347
+01:42 player601 is killed by player110
+01:42 player932 is killed by player853
+01:42 player838 is killed by player901
+01:42 player752 is killed by player889
+01:42 player346 is killed by player765
+01:43 player656 is killed by player89
+01:43 player436 is killed by player797
+01:43 player234 is killed by player635
+01:43 player256 is killed by player835
+01:43 player300 is killed by player41
+01:43 player633 is killed by player88
+01:43 player245 is killed by player98
+01:43 player911 is killed by player690
+01:43 player833 is killed by player818
+01:43 player985 is killed by player342
+01:44 player481 is killed by player162
+01:44 player108 is killed by player163
+01:44 player738 is killed by player533
+01:44 player916 is killed by player319
+01:44 player644 is killed by player413
+01:44 player610 is killed by player427
+01:44 player238 is killed by player489
+01:44 player135 is killed by player178
+01:44 player240 is killed by player667
+01:44 player841 is killed by player472
+01:45 player66 is killed by player171
+01:45 player988 is killed by player807
+01:45 player939 is killed by player570
+01:45 player978 is killed by player647
+01:45 player876 is killed by player245
+01:45 player61 is killed by player298
+01:45 player262 is killed by player917
+01:45 player380 is killed by player329
+01:45 player209 is killed by player730
+01:45 player124 is killed by player149
+01:46 player295 is killed by player224
+01:46 player105 is killed by player580
+01:46 player632 is killed by player591
+01:46 player766 is killed by player341
+01:46 player407 is killed by player404
+01:46 player530 is killed by player915
+01:46 player516 is killed by player165
+01:46 player755 is killed by player638
+01:46 player156 is killed by player587
+01:46 player359 is killed by player558
+01:47 player750 is killed by player417
+01:47 player800 is killed by player781
+01:47 player823 is killed by player226
+01:47 player64 is killed by player555
+01:47 player169 is killed by player324
+01:47 player942 is killed by player447
+01:47 player959 is killed by player818
+01:47 player391 is killed by player128
+01:47 player620 is killed by player91
+01:47 player201 is killed by player628
+01:48 player429 is killed by player484
+01:48 player827 is killed by player148
+01:48 player428 is killed by player657
+01:48 player393 is killed by player868
+01:48 player686 is killed by player589
+01:48 player855 is killed by player676
+01:48 player111 is killed by player632
+01:48 player972 is killed by player219
+01:48 player85 is killed by player526
+01:48 player753 is killed by player862
+01:49 player810 is killed by player235
+01:49 player337 is killed by player962
+01:49 player270 is killed by player113
+01:49 player276 is killed by player219
+01:49 player660 is killed by player191
+01:49 player567 is killed by player312
+01:49 player915 is killed by player666
+01:49 player342 is killed by player931
+01:49 player873 is killed by player86
+01:49 player380 is killed by player945
+01:50 player75 is killed by player138
+01:50 player906 is killed by player571
+01:50 player143 is killed by player458
+01:50 player598 is killed by player961
+01:50 player414 is killed by player667
+01:50 player374 is killed by player53
+01:50 player620 is killed by player351
+01:50 player70 is killed by player147
+01:50 player146 is killed by player381
+01:50 player134 is killed by player841
+01:51 player967 is killed by player290
+01:51 player784 is killed by player827
+01:51 player994 is killed by player369
+01:51 player624 is killed by player875
+01:51 player290 is killed by player323
+01:51 player989 is killed by player782
+01:51 player849 is killed by player450
+01:51 player895 is killed by player122
+01:51 player167 is killed by player198
+01:51 player729 is killed by player56
+01:52 player395 is killed by player558
+01:52 player800 is killed by player237
+01:52 player992 is killed by player65
+01:52 player157 is killed by player606
+01:52 player421 is killed by player712
+01:52 player752 is killed by player763
+01:52 player428 is killed by player59
+01:52 player797 is killed by player66
+01:52 player704 is killed by player57
+01:52 player100 is killed by player359
+01:53 player953 is killed by player744
+01:53 player515 is killed by player450
+01:53 player682 is killed by player321
+01:53 player542 is killed by player521
+01:53 player797 is killed by player126
+01:53 player434 is killed by player945
+01:53 player61 is killed by player292
+01:53 player543 is killed by player72
+01:53 player76 is killed by player733
+01:53 player637 is killed by player876
+01:54 player446 is killed by player383
+01:54 player624 is killed by player601
+01:54 player925 is killed by player906
+01:54 player806 is killed by player551
+01:54 player839 is killed by player384
+01:54 player599 is killed by player314
+01:54 player733 is killed by player232
+01:54 player743 is killed by player950
+01:54 player765 is killed by player212
+01:54 player281 is killed by player274
+01:55 player18 is killed by player17
+01:55 player812 is killed by player299
+01:55 player426 is killed by player781
+01:55 player522 is killed by player293
+01:55 player393 is killed by player760
+01:55 player110 is killed by player191
+01:55 player949 is killed by player494
+01:55 player46 is killed by player213
+01:55 player9 is killed by player744
+01:55 player802 is killed by player801
+01:56 player869 is killed by player822
+01:56 player364 is killed by player515
+01:56 player30 is killed by player399
+01:56 player784 is killed by player977
+01:56 player970 is killed by player623
+01:56 player878 is killed by player889
+01:56 player111 is killed by player150
+01:56 player749 is killed by player184
+01:56 player188 is killed by player59
+01:56 player762 is killed by player413
+01:57 player832 is killed by player743
+01:57 player897 is killed by player172
+01:57 player714 is killed by player25
+01:57 player563 is killed by player68
+01:57 player992 is killed by player455
+01:57 player34 is killed by player191
+01:57 player252 is killed by player197
+01:57 player273 is killed by player746
+01:57 player148 is killed by player601
+01:57 player239 is killed by player386
+01:58 player153 is killed by player252
+01:58 player45 is killed by player498
+01:58 player490 is killed by player541
+01:58 player621 is killed by player588
+01:58 player794 is killed by player813
+01:58 player462 is killed by player789
+01:58 player807 is killed by player788
+01:58 player878 is killed by player677
+01:58 player901 is killed by player82
+01:58 player287 is killed by player414
+01:59 player90 is killed by player419
+01:59 player541 is killed by player868
+01:59 player123 is killed by player524
+01:59 player78 is killed by player105
+01:59 player455 is killed by player226
+01:59 player499 is killed by player499
+01:59 player82 is killed by player381
+01:59 player367 is killed by player234
+01:59 player637 is killed by player712
+01:59 player597 is killed by player970
+02:00 player604 is killed by player313
+02:00 player999 is killed by player26
+02:00 player104 is killed by player499
+02:00 player188 is killed by player953
+02:00 player422 is killed by player891
+02:00 player41 is killed by player46
+02:00 player815 is killed by player294
+02:00 player620 is killed by player63
+02:00 player369 is killed by player866
+02:00 player477 is killed by player532
+02:01 player615 is killed by player564
+02:01 player445 is killed by player260
+02:01 player813 is killed by player638
+02:01 player835 is killed by player548
+02:01 player95 is killed by player382
+02:01 player637 is killed by player410
+02:01 player497 is killed by player186
+02:01 player852 is killed by player105
+02:01 player105 is killed by player226
+02:01 player756 is killed by player175
+02:02 player405 is killed by player256
+02:02 player986 is killed by player835
+02:02 player743 is killed by player400
+02:02 player358 is killed by player237
+02:02 player560 is killed by player175
+02:02 player35 is killed by player750
+02:02 player196 is killed by player247
+02:02 player749 is killed by player76
+02:02 player778 is killed by player545
+02:02 player618 is killed by player733
+02:03 player775 is killed by player310
+02:03 player420 is killed by player987
+02:03 player267 is killed by player480
+02:03 player446 is killed by player713
+02:03 player492 is killed by player275
+02:03 player765 is killed by player754
+02:03 player426 is killed by player875
+02:03 player993 is killed by player196
+02:03 player355 is killed by player400
+02:03 player100 is killed by player787
+02:04 player479 is killed by player294
+02:04 player731 is killed by player256
+02:04 player294 is killed by player571
+02:04 player642 is killed by player51
+02:04 player697 is killed by player742
+02:04 player220 is killed by player95
+02:04 player655 is killed by player226
+02:04 player723 is killed by player172
+02:04 player921 is killed by player288
+02:04 player541 is killed by player460
+02:05 player312 is killed by player235
+02:05 player424 is killed by player951
+02:05 player277 is killed by player100
+02:05 player271 is killed by player88
+02:05 player657 is killed by player624
+02:05 player982 is killed by player261
+02:05 player126 is killed by player643
+02:05 player178 is killed by player623
+02:05 player374 is killed by player639
+02:05 player845 is killed by player680
+02:06 player434 is killed by player221
+02:06 player856 is killed by player481
+02:06 player542 is killed by player591
+02:06 player41 is killed by player832
+02:06 player683 is killed by player132
+02:06 player840 is killed by player657
+02:06 player677 is killed by player424
+02:06 player733 is killed by player264
+02:06 player966 is killed by player331
+02:06 player972 is killed by player553
+02:07 player26 is killed by player903
+02:07 player627 is killed by player908
+02:07 player717 is killed by player768
+02:07 player635 is killed by player276
+02:07 player730 is killed by player989
+02:07 player333 is killed by player926
+02:07 player374 is killed by player861
+02:07 player847 is killed by player354
+02:07 player380 is killed by player145
+02:07 player663 is killed by player830
+02:08 player529 is killed by player118
+02:08 player456 is killed by player233
+02:08 player67 is killed by player896
+02:08 player179 is killed by player348
+02:08 player950 is killed by player623
+02:08 player887 is killed by player638
+02:08 player903 is killed by player108
+02:08 player988 is killed by player903
+02:08 player916 is killed by player869
+02:08 player532 is killed by player343
+02:09 player491 is killed by player426
+02:09 player643 is killed by player140
+02:09 player579 is killed by player128
+02:09 player688 is killed by player421
+02:09 player641 is killed by player588
+02:09 player133 is killed by player188
+02:09 player347 is killed by player234
+02:09 player604 is killed by player891
+02:09 player26 is killed by player213
+02:09 player810 is killed by player789
+02:10 player131 is killed by player154
+02:10 player449 is killed by player776
+02:10 player326 is killed by player545
+02:10 player504 is killed by player353
+02:10 player372 is killed by player731
+02:10 player941 is killed by player874
+02:10 player618 is killed by player265
+02:10 player566 is killed by player137
+02:10 player563 is killed by player140
+02:10 player748 is killed by player231
+02:11 player397 is killed by player130
+02:11 player554 is killed by player554
+02:11 player474 is killed by player825
+02:11 player445 is killed by player414
+02:11 player162 is killed by player905
+02:11 player931 is killed by player864
+02:11 player935 is killed by player450
+02:11 player729 is killed by player870
+02:11 player401 is killed by player556
+02:11 player872 is killed by player521
+02:12 player179 is killed by player254
+02:12 player807 is killed by player618
+02:12 player902 is killed by player785
+02:12 player919 is killed by player892
+02:12 player588 is killed by player833
+02:12 player571 is killed by player114
+02:12 player320 is killed by player947
+02:12 player518 is killed by player579
+02:12 player764 is killed by player357
+02:12 player10 is killed by player365
+02:13 player451 is killed by player536
+02:13 player870 is killed by player245
+02:13 player928 is killed by player927
+02:13 player975 is killed by player672
+02:13 player366 is killed by player685
+02:13 player347 is killed by player364
+02:13 player114 is killed by player699
+02:13 player250 is killed by player945
+02:13 player734 is killed by player771
+02:13 player542 is killed by player79
+02:14 player832 is killed by player337
+02:14 player108 is killed by player479
+02:14 player146 is killed by player487
+02:14 player410 is killed by player69
+02:14 player754 is killed by player413
+02:14 player740 is killed by player381
+02:14 player469 is killed by player340
+02:14 player978 is killed by player839
+02:14 player664 is killed by player587
+02:14 player309 is killed by player478
+02:15 player991 is killed by player518
+02:15 player210 is killed by player311
+02:15 player705 is killed by player744
+02:15 player29 is killed by player766
+02:15 player340 is killed by player507
+02:15 player66 is killed by player297
+02:15 player221 is killed by player596
+02:15 player647 is killed by player274
+02:15 player747 is killed by player934
+02:15 player638 is killed by player993
+02:16 player661 is killed by player696
+02:16 player946 is killed by player881
+02:16 player320 is killed by player125
+02:16 player400 is killed by player941
+02:16 player677 is killed by player84
+02:16 player257 is killed by player898
+02:16 player179 is killed by player68
+02:16 player228 is killed by player405
+02:16 player929 is killed by player884
+02:16 player313 is killed by player536
+02:17 player775 is killed by player486
+02:17 player611 is killed by player538
+02:17 player365 is killed by player902
+02:17 player190 is killed by player999
+02:17 player755 is killed by player440
+02:17 player97 is killed by player14
+02:17 player451 is killed by player30
+02:17 player653 is killed by player126
+02:17 player12 is killed by player129
+02:17 player0 is killed by player773
+02:18 player185 is killed by player892
+02:18 player755 is killed by player80
+02:18 player361 is killed by player396
+02:18 player962 is killed by player393
+02:18 player976 is killed by player969
+02:18 player909 is killed by player258
+02:18 player926 is killed by player465
+02:18 player90 is killed by player27
+02:18 player855 is killed by player212
+02:18 player606 is killed by player459
+02:19 player707 is killed by player198
+02:19 player780 is killed by player723
+02:19 player310 is killed by player593
+02:19 player453 is killed by player622
+02:19 player82 is killed by player869
+02:19 player737 is killed by player24
+02:19 player387 is killed by player672
+02:19 player612 is killed by player493
+02:19 player107 is killed by player56
+02:19 player764 is killed by player947
+02:20 player256 is killed by player37
+02:20 player498 is killed by player779
+02:20 player283 is killed by player478
+02:20 player207 is killed by player380
+02:20 player498 is killed by player827
+02:20 player409 is killed by player776
+02:20 player433 is killed by player828
+02:20 player631 is killed by player874
+02:20 player100 is killed by player449
+02:20 player649 is killed by player256
+02:21 player432 is killed by player587
+02:21 player291 is killed by player776
+02:21 player163 is killed by player372
+02:21 player812 is killed by player141
+02:21 player816 is killed by player275
+02:21 player241 is killed by player970
+02:21 player855 is killed by player408
+02:21 player471 is killed by player952
+02:21 player397 is killed by player986
+02:21 player386 is killed by player675
+02:22 player784 is killed by player173
+02:22 player55 is killed by player380
+02:22 player366 is killed by player231
+02:22 player385 is killed by player452
+02:22 player903 is killed by player244
+02:22 player650 is killed by player157
+02:22 player799 is killed by player40
+02:22 player135 is killed by player802
+02:22 player145 is killed by player124
+02:22 player978 is killed by player113
+02:23 player184 is killed by player623
+02:23 player258 is killed by player455
+02:23 player847 is killed by player596
+02:23 player557 is killed by player948
+02:23 player420 is killed by player495
+02:23 player145 is killed by player386
+02:23 player184 is killed by player791
+02:23 player336 is killed by player713
+02:23 player771 is killed by player340
+02:23 player106 is killed by player293
+02:24 player549 is killed by player282
+02:24 player807 is killed by player532
+02:24 player752 is killed by player177
+02:24 player765 is killed by player574
+02:24 player644 is killed by player651
+02:24 player374 is killed by player41
+02:24 player43 is killed by player328
+02:24 player238 is killed by player393
+02:24 player519 is killed by player158
+02:24 player660 is killed by player783
+02:25 player104 is killed by player477
+02:25 player495 is killed by player448
+02:25 player618 is killed by player811
+02:25 player219 is killed by player832
+02:25 player510 is killed by player987
+02:25 player43 is killed by player240
+02:25 player16 is killed by player451
+02:25 player577 is killed by player132
+02:25 player690 is killed by player991
+02:25 player700 is killed by player959
+02:26 player191 is killed by player24
+02:26 player442 is killed by player333
+02:26 player521 is killed by player896
+02:26 player862 is killed by player167
+02:26 player607 is killed by player850
+02:26 player91 is killed by player712
+02:26 player265 is killed by player140
+02:26 player162 is killed by player957
+02:26 player222 is killed by player553
+02:26 player848 is killed by player565
+02:27 player513 is killed by player814
+02:27 player540 is killed by player525
+02:27 player799 is killed by player298
+02:27 player591 is killed by player560
+02:27 player612 is killed by player441
+02:27 player485 is killed by player284
+02:27 player527 is killed by player970
+02:27 player955 is killed by player478
+02:27 player115 is killed by player336
+02:27 player834 is killed by player627
+02:28 player831 is killed by player468
+02:28 player35 is killed by player840
+02:28 player551 is killed by player196
+02:28 player506 is killed by player171
+02:28 player116 is killed by player617
+02:28 player704 is killed by player291
+02:28 player539 is killed by player428
+02:28 player428 is killed by player307
+02:28 player74 is killed by player947
+02:28 player890 is killed by player653
+02:29 player584 is killed by player993
+02:29 player919 is killed by player36
+02:29 player613 is killed by player802
+02:29 player172 is killed by player277
+02:29 player383 is killed by player388
+02:29 player113 is killed by player14
+02:29 player590 is killed by player471
+02:29 player851 is killed by player814
+02:29 player211 is killed by player862
+02:29 player73 is killed by player342
+02:30 player333 is killed by player260
+02:30 player747 is killed by player698
+02:30 player715 is killed by player708
+02:30 player564 is killed by player675
+02:30 player233 is killed by player418
+02:30 player618 is killed by player333
+02:30 player37 is killed by player844
+02:30 player595 is killed by player398
+02:30 player625 is killed by player952
+02:30 player683 is killed by player70
+02:31 player486 is killed by player1
+02:31 player219 is killed by player28
+02:31 player502 is killed by player667
+02:31 player772 is killed by player595
+02:31 player91 is killed by player88
+02:31 player732 is killed by player819
+02:31 player423 is killed by player392
+02:31 player504 is killed by player553
+02:31 player235 is killed by player734
+02:31 player595 is killed by player178
+02:32 player884 is killed by player539
+02:32 player94 is killed by player599
+02:32 player699 is killed by player934
+02:32 player129 is killed by player716
+02:32 player419 is killed by player740
+02:32 player256 is killed by player517
+02:32 player648 is killed by player925
+02:32 player161 is killed by player536
+02:32 player398 is killed by player517
+02:32 player437 is killed by player684
+02:33 player336 is killed by player793
+02:33 player78 is killed by player173
+02:33 player83 is killed by player974
+02:33 player448 is killed by player401
+02:33 player890 is killed by player629
+02:33 player658 is killed by player765
+02:33 player83 is killed by player104
+02:33 player47 is killed by player228
+02:33 player433 is killed by player700
+02:33 player160 is killed by player29
+02:34 player604 is killed by player604
+02:34 player300 is killed by player47
+02:34 player694 is killed by player111
+02:34 player739 is killed by player562
+02:34 player863 is killed by player766
+02:34 player663 is killed by player902
+02:34 player459 is killed by player172
+02:34 player28 is killed by player679
+02:34 player298 is killed by player621
+02:34 player690 is killed by player327
+02:35 player536 is killed by player173
+02:35 player217 is killed by player72
+02:35 player870 is killed by player185
+02:35 player844 is killed by player307
+02:35 player865 is killed by player550
+02:35 player584 is killed by player539
+02:35 player698 is killed by player805
+02:35 player631 is killed by player942
+02:35 player814 is killed by player17
+02:35 player544 is killed by player361
+02:36 player855 is killed by player120
+02:36 player370 is killed by player837
+02:36 player802 is killed by player385
+02:36 player993 is killed by player0
+02:36 player194 is killed by player69
+02:36 player983 is killed by player272
+02:36 player861 is killed by player496
+02:36 player223 is killed by player668
+02:36 player965 is killed by player278
+02:36 player494 is killed by player235
+02:37 player290 is killed by player933
+02:37 player90 is killed by player139
+02:37 player742 is killed by player785
+02:37 player704 is killed by player257
+02:37 player962 is killed by player833
+02:37 player889 is killed by player580
+02:37 player391 is killed by player866
+02:37 player653 is killed by player698
+02:37 player775 is killed by player94
+02:37 player171 is killed by player496
+02:38 player884 is killed by player409
+02:38 player254 is killed by player943
+02:38 player689 is killed by player392
+02:38 player652 is killed by player49
+02:38 player841 is killed by player462
+02:38 player412 is killed by player959
+02:38 player532 is killed by player729
+02:38 player390 is killed by player421
+02:38 player921 is killed by player44
+02:38 player384 is killed by player127
+02:39 player992 is killed by player23
+02:39 player645 is killed by player798
+02:39 player95 is killed by player876
+02:39 player248 is killed by player165
+02:39 player152 is killed by player235
+02:39 player786 is killed by player457
+02:39 player697 is killed by player846
+02:39 player537 is killed by player368
+02:39 player372 is killed by player921
+02:39 player737 is killed by player874
+02:40 player648 is killed by player707
+02:40 player655 is killed by player964
+02:40 player16 is killed by player627
+02:40 player451 is killed by player372
+02:40 player706 is killed by player501
+02:40 player406 is killed by player931
+02:40 player826 is killed by player253
+02:40 player709 is killed by player284
+02:40 player648 is killed by player677
+02:40 player533 is killed by player72
+02:41 player775 is killed by player178
+02:41 player319 is killed by player328
+02:41 player176 is killed by player941
+02:41 player37 is killed by player344
+02:41 player631 is killed by player652
+02:41 player38 is killed by player25
+02:41 player987 is killed by player564
+02:41 player454 is killed by player589
+02:41 player764 is killed by player745
+02:41 player34 is killed by player671
+02:42 player712 is killed by player891
+02:42 player683 is killed by player194
+02:42 player215 is killed by player688
+02:42 player769 is killed by player240
+02:42 player640 is killed by player919
+02:42 player57 is killed by player952
+02:42 player315 is killed by player330
+02:42 player274 is killed by player791
+02:42 player312 is killed by player677
+02:42 player372 is killed by player291
+02:43 player248 is killed by player123
+02:43 player834 is killed by player19
+02:43 player979 is killed by player240
+02:43 player146 is killed by player175
+02:43 player633 is killed by player476
+02:43 player155 is killed by player692
+02:43 player309 is killed by player376
+02:43 player766 is killed by player687
+02:43 player511 is killed by player4
+02:43 player232 is killed by player793
+02:44 player648 is killed by player831
+02:44 player479 is killed by player494
+02:44 player812 is killed by player65
+02:44 player714 is killed by player381
+02:44 player83 is killed by player86
+02:44 player30 is killed by player91
+02:44 player376 is killed by player605
+02:44 player966 is killed by player831
+02:44 player118 is killed by player63
+02:44 player475 is killed by player148
+02:45 player311 is killed by player948
+02:45 player621 is killed by player204
+02:45 player544 is killed by player163
+02:45 player616 is killed by player719
+02:45 player361 is killed by player374
+02:45 player298 is killed by player233
+02:45 player161 is killed by player304
+02:45 player164 is killed by player91
+02:45 player370 is killed by player267
+02:45 player424 is killed by player403
+02:46 player376 is killed by player627
+02:46 player674 is killed by player789
+02:46 player231 is killed by player640
+02:46 player762 is killed by player363
+02:46 player958 is killed by player947
+02:46 player128 is killed by player475
+02:46 player783 is killed by player792
+02:46 player496 is killed by player207
+02:46 player449 is killed by player882
+02:46 player65 is killed by player220
+02:47 player783 is killed by player174
+02:47 player497 is killed by player308
+02:47 player186 is killed by player809
+02:47 player819 is killed by player286
+02:47 player388 is killed by player547
+02:47 player747 is killed by player246
+02:47 player599 is killed by player568
+02:47 player73 is killed by player896
+02:47 player94 is killed by player513
+02:47 player109 is killed by player912
+02:48 player425 is killed by player924
+02:48 player898 is killed by player205
+02:48 player703 is killed by player608
+02:48 player869 is killed by player328
+02:48 player271 is killed by player288
+02:48 player120 is killed by player357
+02:48 player160 is killed by player823
+02:48 player538 is killed by player165
+02:48 player410 is killed by player937
+02:48 player322 is killed by player631
+02:49 player940 is killed by player263
+02:49 player52 is killed by player307
+02:49 player72 is killed by player72
+02:49 player706 is killed by player537
+02:49 player147 is killed by player466
+02:49 player383 is killed by player6
+02:49 player201 is killed by player910
+02:49 player984 is killed by player625
+02:49 player489 is killed by player270
+02:49 player388 is killed by player417
+02:50 player940 is killed by player179
+02:50 player430 is killed by player147
+02:50 player636 is killed by player933
+02:50 player0 is killed by player181
+02:50 player739 is killed by player938
+02:50 player961 is killed by player456
+02:50 player625 is killed by player34
+02:50 player194 is killed by player365
+02:50 player867 is killed by player186
+02:50 player158 is killed by player85
+02:51 player336 is killed by player791
+02:51 player521 is killed by player568
+02:51 player949 is killed by player718
+02:51 player227 is killed by player406
+02:51 player691 is killed by player618
+02:51 player420 is killed by player727
+02:51 player367 is killed by player316
+02:51 player282 is killed by player149
+02:51 player491 is killed by player394
+02:51 player640 is killed by player585
+02:52 player292 is killed by player643
+02:52 player898 is killed by player933
+02:52 player876 is killed by player917
+02:52 player358 is killed by player673
+02:52 player736 is killed by player309
+02:52 player653 is killed by player752
+02:52 player972 is killed by player439
+02:52 player715 is killed by player976
+02:52 player477 is killed by player432
+02:52 player642 is killed by player463
+02:53 player391 is killed by player224
+02:53 player894 is killed by player433
+02:53 player681 is killed by player508
+02:53 player605 is killed by player700
+02:53 player606 is killed by player61
+02:53 player317 is killed by player378
+02:53 player405 is killed by player234
+02:53 player466 is killed by player785
+02:53 player491 is killed by player546
+02:53 player448 is killed by player329
+02:54 player647 is killed by player194
+02:54 player358 is killed by player67
+02:54 player734 is killed by player937
+02:54 player180 is killed by player243
+02:54 player113 is killed by player872
+02:54 player118 is killed by player321
+02:54 player572 is killed by player709
+02:54 player225 is killed by player406
+02:54 player688 is killed by player449
+02:54 player270 is killed by player749
+02:55 player387 is killed by player832
+02:55 player373 is killed by player416
+02:55 player94 is killed by player555
+02:55 player876 is killed by player45
+02:55 player567 is killed by player216
+02:55 player927 is killed by player978
+02:55 player784 is killed by player481
+02:55 player546 is killed by player101
+02:55 player64 is killed by player247
+02:55 player389 is killed by player376
+02:56 player633 is killed by player898
+02:56 player719 is killed by player750
+02:56 player514 is killed by player119
+02:56 player158 is killed by player981
+02:56 player717 is killed by player724
+02:56 player486 is killed by player493
+02:56 player379 is killed by player266
+02:56 player944 is killed by player251
+02:56 player127 is killed by player794
+02:56 player509 is killed by player518
+02:57 player336 is killed by player263
+02:57 player516 is killed by player347
+02:57 player315 is killed by player930
+02:57 player664 is killed by player705
+02:57 player73 is killed by player366
+02:57 player605 is killed by player6
+02:57 player261 is killed by player496
+02:57 player844 is killed by player133
+02:57 player328 is killed by player773
+02:57 player925 is killed by player584
+02:58 player472 is killed by player501
+02:58 player172 is killed by player199
+02:58 player958 is killed by player499
+02:58 player656 is killed by player901
+02:58 player720 is killed by player497
+02:58 player392 is killed by player93
+02:58 player327 is killed by player758
+02:58 player958 is killed by player627
+02:58 player89 is killed by player884
+02:58 player801 is killed by player574
+02:59 player401 is killed by player730
+02:59 player117 is killed by player228
+02:59 player437 is killed by player308
+02:59 player374 is killed by player863
+02:59 player496 is killed by player495
+02:59 player13 is killed by player174
+02:59 player713 is killed by player836
+02:59 player585 is killed by player222
+02:59 player797 is killed by player330
+02:59 player690 is killed by player771
+03:00 player537 is killed by player96
+03:00 player651 is killed by player738
+03:00 player434 is killed by player975
+03:00 player790 is killed by player475
+03:00 player400 is killed by player577
+03:00 player684 is killed by player179
+03:00 player288 is killed by player575
+03:00 player236 is killed by player301
+03:00 player49 is killed by player786
+03:00 player60 is killed by player411
+03:01 player25 is killed by player310
+03:01 player470 is killed by player799
+03:01 player577 is killed by player136
+03:01 player925 is killed by player690
+03:01 player702 is killed by player137
+03:01 player257 is killed by player968
+03:01 player690 is killed by player375
+03:01 player894 is killed by player894
+03:01 player851 is killed by player992
+03:01 player35 is killed by player168
+03:02 player297 is killed by player896
+03:02 player450 is killed by player303
+03:02 player806 is killed by player111
+03:02 player67 is killed by player406
+03:02 player737 is killed by player44
+03:02 player759 is killed by player792
+03:02 player595 is killed by player52
+03:02 player602 is killed by player741
+03:02 player718 is killed by player465
+03:02 player263 is killed by player274
+03:03 player779 is killed by player190
+03:03 player50 is killed by player521
+03:03 player43 is killed by player238
+03:03 player834 is killed by player385
+03:03 player368 is killed by player89
+03:03 player278 is killed by player687
+03:03 player277 is killed by player776
+03:03 player874 is killed by player45
+03:03 player395 is killed by player746
+03:03 player666 is killed by player425
+03:04 player53 is killed by player544
+03:04 player502 is killed by player569
+03:04 player878 is killed by player213
+03:04 player502 is killed by player205
+03:04 player474 is killed by player937
+03:04 player848 is killed by player495
+03:04 player498 is killed by player105
+03:04 player328 is killed by player159
+03:04 player908 is killed by player477
+03:04 player55 is killed by player578
+03:05 player147 is killed by player52
+03:05 player359 is killed by player700
+03:05 player282 is killed by player809
+03:05 player909 is killed by player810
+03:05 player23 is killed by player696
+03:05 player952 is killed by player397
+03:05 player534 is killed by player875
+03:05 player266 is killed by player379
+03:05 player218 is killed by player99
+03:05 player989 is killed by player560
+03:06 player395 is killed by player856
+03:06 player799 is killed by player112
+03:06 player397 is killed by player396
+03:06 player369 is killed by player2
+03:06 player278 is killed by player467
+03:06 player316 is killed by player81
+03:06 player642 is killed by player631
+03:06 player373 is killed by player40
+03:06 player706 is killed by player709
+03:06 player611 is killed by player784
+03:07 player562 is killed by player377
+03:07 player566 is killed by player825
+03:07 player930 is killed by player735
+03:07 player362 is killed by player177
+03:07 player720 is killed by player981
+03:07 player972 is killed by player871
+03:07 player19 is killed by player570
+03:07 player645 is killed by player268
+03:07 player611 is killed by player148
+03:07 player173 is killed by player868
+03:08 player895 is killed by player242
+03:08 player322 is killed by player653
+03:08 player679 is killed by player620
+03:08 player744 is killed by player3
+03:08 player460 is killed by player539
+03:08 player979 is killed by player230
+03:08 player644 is killed by player709
+03:08 player171 is killed by player840
+03:08 player210 is killed by player953
+03:08 player279 is killed by player152
+03:09 player390 is killed by player101
+03:09 player86 is killed by player363
+03:09 player793 is killed by player628
+03:09 player553 is killed by player350
+03:09 player108 is killed by player117
+03:09 player837 is killed by player266
+03:09 player185 is killed by player648
+03:09 player576 is killed by player529
+03:09 player377 is killed by player778
+03:09 player850 is killed by player277
+03:10 player599 is killed by player714
+03:10 player118 is killed by player189
+03:10 player806 is killed by player115
+03:10 player992 is killed by player801
+03:10 player255 is killed by player702
+03:10 player145 is killed by player650
+03:10 player765 is killed by player738
+03:10 player521 is killed by player952
+03:10 player685 is killed by player620
+03:10 player868 is killed by player819
+03:11 player919 is killed by player628
+03:11 player177 is killed by player638
+03:11 player322 is killed by player189
+03:11 player831 is killed by player788
+03:11 player224 is killed by player599
+03:11 player160 is killed by player481
+03:11 player165 is killed by player74
+03:11 player307 is killed by player316
+03:11 player878 is killed by player989
+03:11 player972 is killed by player225
+03:12 player231 is killed by player278
+03:12 player495 is killed by player718
+03:12 player982 is killed by player371
+03:12 player189 is killed by player488
+03:12 player574 is killed by player25
+03:12 player806 is killed by player685
+03:12 player446 is killed by player673
+03:12 player568 is killed by player815
+03:12 player628 is killed by player491
+03:12 player406 is killed by player51
+03:13 player540 is killed by player551
+03:13 player101 is killed by player690
+03:13 player181 is killed by player46
+03:13 player467 is killed by player738
+03:13 player61 is killed by player226
+03:13 player616 is killed by player333
+03:13 player220 is killed by player867
+03:13 player506 is killed by player557
+03:13 player311 is killed by player986
+03:13 player99 is killed by player516
+03:14 player94 is killed by player979
+03:14 player990 is killed by player803
+03:14 player152 is killed by player287
+03:14 player643 is killed by player860
+03:14 player941 is killed by player760
+03:14 player566 is killed by player259
+03:14 player709 is killed by player670
+03:14 player423 is killed by player146
+03:14 player351 is killed by player866
+03:14 player925 is killed by player434
+03:15 player852 is killed by player225
+03:15 player220 is killed by player961
+03:15 player517 is killed by player236
+03:15 player761 is killed by player70
+03:15 player554 is killed by player837
+03:15 player979 is killed by player204
+03:15 player788 is killed by player435
+03:15 player685 is killed by player502
+03:15 player869 is killed by player234
+03:15 player289 is killed by player232
+03:16 player783 is killed by player862
+03:16 player215 is killed by player118
+03:16 player251 is killed by player126
+03:16 player134 is killed by player19
+03:16 player595 is killed by player736
+03:16 player418 is killed by player457
+03:16 player345 is killed by player122
+03:16 player31 is killed by player182
+03:16 player866 is killed by player807
+03:16 player717 is killed by player312
+03:17 player341 is killed by player380
+03:17 player348 is killed by player719
+03:17 player952 is killed by player3
+03:17 player562 is killed by player261
+03:17 player725 is killed by player252
+03:17 player187 is killed by player82
+03:17 player657 is killed by player242
+03:17 player896 is killed by player195
+03:17 player446 is killed by player431
+03:17 player499 is killed by player634
+03:18 player817 is killed by player674
+03:18 player786 is killed by player641
+03:18 player6 is killed by player23
+03:18 player162 is killed by player997
+03:18 player762 is killed by player359
+03:18 player5 is killed by player582
+03:18 player210 is killed by player577
+03:18 player751 is killed by player854
+03:18 player98 is killed by player103
+03:18 player934 is killed by player263
+03:19 player449 is killed by player580
+03:19 player808 is killed by player487
+03:19 player515 is killed by player240
+03:19 player562 is killed by player819
+03:19 player246 is killed by player297
+03:19 player574 is killed by player553
+03:19 player369 is killed by player812
+03:19 player44 is killed by player593
+03:19 player826 is killed by player303
+03:19 player676 is killed by player333
+03:20 player383 is killed by player252
+03:20 player898 is killed by player485
+03:20 player688 is killed by player889
+03:20 player987 is killed by player862
+03:20 player651 is killed by player352
+03:20 player520 is killed by player847
+03:20 player367 is killed by player732
+03:20 player881 is killed by player460
+03:20 player525 is killed by player308
+03:20 player572 is killed by player643
+03:21 player363 is killed by player636
+03:21 player206 is killed by player727
+03:21 player51 is killed by player408
+03:21 player384 is killed by player769
+03:21 player701 is killed by player840
+03:21 player430 is killed by player509
+03:21 player888 is killed by player499
+03:21 player844 is killed by player479
+03:21 player974 is killed by player289
+03:21 player649 is killed by player932
+03:22 player785 is killed by player648
+03:22 player449 is killed by player586
+03:22 player872 is killed by player419
+03:22 player390 is killed by player931
+03:22 player535 is killed by player490
+03:22 player159 is killed by player626
+03:22 player646 is killed by player935
+03:22 player963 is killed by player268
+03:22 player880 is killed by player837
+03:22 player336 is killed by player171
+03:23 player286 is killed by player949
+03:23 player71 is killed by player312
+03:23 player349 is killed by player238
+03:23 player626 is killed by player27
+03:23 player798 is killed by player939
+03:23 player121 is killed by player636
+03:23 player125 is killed by player78
+03:23 player953 is killed by player138
+03:23 player956 is killed by player625
+03:23 player110 is killed by player771
+03:24 player913 is killed by player478
+03:24 player194 is killed by player501
+03:24 player237 is killed by player884
+03:24 player743 is killed by player290
+03:24 player854 is killed by player829
+03:24 player905 is killed by player108
+03:24 player143 is killed by player982
+03:24 player272 is killed by player219
+03:24 player590 is killed by player959
+03:24 player973 is killed by player906
+03:25 player255 is killed by player282
+03:25 player506 is killed by player783
+03:25 player279 is killed by player314
+03:25 player975 is killed by player936
+03:25 player444 is killed by player533
+03:25 player842 is killed by player765
+03:25 player939 is killed by player90
+03:25 player262 is killed by player857
+03:25 player417 is killed by player370
+03:25 player928 is killed by player757
+03:26 player886 is killed by player765
+03:26 player902 is killed by player437
+03:26 player895 is killed by player792
+03:26 player192 is killed by player337
+03:26 player651 is killed by player498
+03:26 player252 is killed by player203
+03:26 player273 is killed by player496
+03:26 player237 is killed by player574
+03:26 player768 is killed by player147
+03:26 player795 is killed by player256
+03:27 player758 is killed by player137
+03:27 player409 is killed by player174
+03:27 player109 is killed by player958
+03:27 player283 is killed by player282
+03:27 player763 is killed by player856
+03:27 player694 is killed by player105
+03:27 player409 is killed by player850
+03:27 player380 is killed by player791
+03:27 player462 is killed by player437
+03:27 player320 is killed by player999
+03:28 player21 is killed by player352
+03:28 player472 is killed by player317
+03:28 player76 is killed by player489
+03:28 player233 is killed by player904
+03:28 player630 is killed by player489
+03:28 player406 is killed by player925
+03:28 player620 is killed by player625
+03:28 player892 is killed by player877
+03:28 player671 is killed by player138
+03:28 player584 is killed by player985
+03:29 player449 is killed by player6
+03:29 player474 is killed by player459
+03:29 player533 is killed by player702
+03:29 player966 is killed by player417
+03:29 player668 is killed by player247
+03:29 player96 is killed by player703
+03:29 player634 is killed by player603
+03:29 player48 is killed by player963
+03:29 player792 is killed by player447
+03:29 player438 is killed by player597
+03:30 player51 is killed by player838
+03:30 player136 is killed by player775
+03:30 player884 is killed by player163
+03:30 player930 is killed by player447
+03:30 player18 is killed by player269
+03:30 player669 is killed by player646
+03:30 player253 is killed by player454
+03:30 player259 is killed by player574
+03:30 player820 is killed by player765
+03:30 player226 is killed by player571
+03:31 player865 is killed by player282
+03:31 player55 is killed by player872
+03:31 player411 is killed by player450
+03:31 player573 is killed by player626
+03:31 player309 is killed by player754
+03:31 player358 is killed by player405
+03:31 player733 is killed by player882
+03:31 player488 is killed by player251
+03:31 player704 is killed by player715
+03:31 player884 is killed by player697
+03:32 player828 is killed by player881
+03:32 player915 is killed by player330
+03:32 player478 is killed by player103
+03:32 player762 is killed by player199
+03:32 player580 is killed by player365
+03:32 player369 is killed by player822
+03:32 player774 is killed by player343
+03:32 player454 is killed by player627
+03:32 player721 is killed by player748
+03:32 player206 is killed by player877
+03:33 player187 is killed by player66
+03:33 player983 is killed by player10
+03:33 player62 is killed by player123
+03:33 player143 is killed by player350
+03:33 player599 is killed by player680
+03:33 player441 is killed by player518
+03:33 player926 is killed by player83
+03:33 player874 is killed by player877
+03:33 player99 is killed by player360
+03:33 player255 is killed by player712
+03:34 player271 is killed by player952
+03:34 player474 is killed by player817
+03:34 player945 is killed by player968
+03:34 player876 is killed by player709
+03:34 player146 is killed by player401
+03:34 player588 is killed by player57
+03:34 player747 is killed by player6
+03:34 player329 is killed by player784
+03:34 player405 is killed by player416
+03:34 player117 is killed by player68
+03:35 player153 is killed by player502
+03:35 player546 is killed by player577
+03:35 player889 is killed by player414
+03:35 player202 is killed by player133
+03:35 player854 is killed by player601
+03:35 player33 is killed by player184
+03:35 player404 is killed by player93
+03:35 player333 is killed by player750
+03:35 player995 is killed by player964
+03:35 player858 is killed by player635
+03:36 player720 is killed by player739
+03:36 player463 is killed by player360
+03:36 player443 is killed by player472
+03:36 player437 is killed by player500
+03:36 player42 is killed by player509
+03:36 player137 is killed by player254
+03:36 player549 is killed by player818
+03:36 player399 is killed by player394
+03:36 player971 is killed by player458
+03:36 player497 is killed by player100
+03:37 player614 is killed by player709
+03:37 player417 is killed by player150
+03:37 player99 is killed by player706
+03:37 player308 is killed by player817
+03:37 player909 is killed by player338
+03:37 player495 is killed by player2
+03:37 player457 is killed by player442
+03:37 player982 is killed by player985
+03:37 player28 is killed by player559
+03:37 player906 is killed by player617
+03:38 player540 is killed by player799
+03:38 player35 is killed by player70
+03:38 player269 is killed by player772
+03:38 player455 is killed by player488
+03:38 player182 is killed by player221
+03:38 player466 is killed by player481
+03:38 player315 is killed by player528
+03:38 player214 is killed by player5
+03:38 player764 is killed by player603
+03:38 player468 is killed by player605
+03:39 player501 is killed by player370
+03:39 player444 is killed by player177
+03:39 player55 is killed by player308
+03:39 player474 is killed by player213
+03:39 player855 is killed by player402
+03:39 player826 is killed by player835
+03:39 player845 is killed by player734
+03:39 player588 is killed by player681
+03:39 player696 is killed by player783
+03:39 player267 is killed by player4
+03:40 player441 is killed by player294
+03:40 player523 is killed by player596
+03:40 player725 is killed by player948
+03:40 player793 is killed by player906
+03:40 player486 is killed by player939
+03:40 player992 is killed by player705
+03:40 player884 is killed by player847
+03:40 player81 is killed by player386
+03:40 player960 is killed by player489
+03:40 player370 is killed by player635
+03:41 player642 is killed by player873
+03:41 player306 is killed by player935
+03:41 player188 is killed by player421
+03:41 player140 is killed by player103
+03:41 player742 is killed by player463
+03:41 player106 is killed by player549
+03:41 player419 is killed by player162
+03:41 player420 is killed by player311
+03:41 player980 is killed by player291
+03:41 player778 is killed by player103
+03:42 player803 is killed by player232
+03:42 player998 is killed by player485
+03:42 player307 is killed by player982
+03:42 player573 is killed by player84
+03:42 player302 is killed by player257
+03:42 player511 is killed by player386
+03:42 player175 is killed by player278
+03:42 player484 is killed by player703
+03:42 player713 is killed by player80
+03:42 player282 is killed by player899
+03:43 player455 is killed by player470
+03:43 player501 is killed by player122
+03:43 player470 is killed by player651
+03:43 player87 is killed by player30
+03:43 player744 is killed by player681
+03:43 player584 is killed by player613
+03:43 player3 is killed by player644
+03:43 player710 is killed by player699
+03:43 player81 is killed by player568
+03:43 player112 is killed by player119
+03:44 player424 is killed by player775
+03:44 player912 is killed by player149
+03:44 player533 is killed by player728
+03:44 player56 is killed by player313
+03:44 player780 is killed by player521
+03:44 player943 is killed by player172
+03:44 player412 is killed by player891
+03:44 player308 is killed by player957
+03:44 player929 is killed by player718
+03:44 player89 is killed by player710
+03:45 player585 is killed by player680
+03:45 player651 is killed by player72
+03:45 player52 is killed by player699
+03:45 player529 is killed by player104
+03:45 player349 is killed by player60
+03:45 player916 is killed by player37
+03:45 player886 is killed by player551
+03:45 player230 is killed by player913
+03:45 player931 is killed by player70
+03:45 player670 is killed by player409
+03:46 player734 is killed by player975
+03:46 player690 is killed by player337
+03:46 player555 is killed by player856
+03:46 player870 is killed by player909
+03:46 player348 is killed by player199
+03:46 player172 is killed by player913
+03:46 player832 is killed by player887
+03:46 player140 is killed by player819
+03:46 player367 is killed by player268
+03:46 player495 is killed by player238
+03:47 player89 is killed by player722
+03:47 player454 is killed by player307
+03:47 player464 is killed by player221
+03:47 player993 is killed by player752
+03:47 player187 is killed by player354
+03:47 player301 is killed by player250
+03:47 player597 is killed by player492
+03:47 player804 is killed by player121
+03:47 player429 is killed by player460
+03:47 player555 is killed by player300
+03:48 player959 is killed by player752
+03:48 player184 is killed by player917
+03:48 player483 is killed by player104
+03:48 player307 is killed by player118
+03:48 player116 is killed by player111
+03:48 player287 is killed by player484
+03:48 player644 is killed by player253
+03:48 player529 is killed by player98
+03:48 player614 is killed by player533
+03:48 player904 is killed by player745
+03:49 player876 is killed by player665
+03:49 player717 is killed by player104
+03:49 player378 is killed by player7
+03:49 player133 is killed by player30
+03:49 player642 is killed by player303
+03:49 player756 is killed by player143
+03:49 player978 is killed by player459
+03:49 player149 is killed by player142
+03:49 player299 is killed by player168
+03:49 player663 is killed by player392
+03:50 player147 is killed by player572
+03:50 player994 is killed by player537
+03:50 player654 is killed by player385
+03:50 player123 is killed by player972
+03:50 player544 is killed by player825
+03:50 player540 is killed by player821
+03:50 player246 is killed by player63
+03:50 player639 is killed by player624
+03:50 player301 is killed by player808
+03:50 player236 is killed by player415
+03:51 player635 is killed by player720
+03:51 player425 is killed by player80
+03:51 player69 is killed by player748
+03:51 player730 is killed by player253
+03:51 player177 is killed by player356
+03:51 player441 is killed by player296
+03:51 player525 is killed by player650
+03:51 player111 is killed by player104
+03:51 player359 is killed by player826
+03:51 player84 is killed by player949
+03:52 player910 is killed by player857
+03:52 player420 is killed by player683
+03:52 player73 is killed by player336
+03:52 player115 is killed by player628
+03:52 player39 is killed by player70
+03:52 player545 is killed by player406
+03:52 player214 is killed by player551
+03:52 player465 is killed by player214
+03:52 player880 is killed by player637
+03:52 player999 is killed by player764
+03:53 player75 is killed by player742
+03:53 player201 is killed by player112
+03:53 player528 is killed by player699
+03:53 player775 is killed by player504
+03:53 player831 is killed by player12
+03:53 player749 is killed by player216
+03:53 player584 is killed by player973
+03:53 player401 is killed by player346
+03:53 player733 is killed by player782
+03:53 player448 is killed by player627
+03:54 player710 is killed by player859
+03:54 player134 is killed by player671
+03:54 player485 is killed by player374
+03:54 player645 is killed by player344
+03:54 player739 is killed by player798
+03:54 player437 is killed by player192
+03:54 player19 is killed by player842
+03:54 player525 is killed by player816
+03:54 player654 is killed by player189
+03:54 player994 is killed by player295
+03:55 player510 is killed by player425
+03:55 player174 is killed by player653
+03:55 player351 is killed by player636
+03:55 player50 is killed by player141
+03:55 player970 is killed by player201
+03:55 player967 is killed by player364
+03:55 player420 is killed by player517
+03:55 player480 is killed by player733
+03:55 player150 is killed by player733
+03:55 player148 is killed by player433
+03:56 player959 is killed by player254
+03:56 player860 is killed by player907
+03:56 player935 is killed by player206
+03:56 player488 is killed by player847
+03:56 player845 is killed by player944
+03:56 player719 is killed by player886
+03:56 player132 is killed by player209
+03:56 player46 is killed by player67
+03:56 player281 is killed by player432
+03:56 player40 is killed by player707
+03:57 player56 is killed by player593
+03:57 player791 is killed by player674
+03:57 player951 is killed by player116
+03:57 player242 is killed by player121
+03:57 player747 is killed by player442
+03:57 player791 is killed by player366
+03:57 player298 is killed by player383
+03:57 player563 is killed by player52
+03:57 player513 is killed by player356
+03:57 player952 is killed by player37
+03:58 player263 is killed by player678
+03:58 player774 is killed by player229
+03:58 player33 is killed by player316
+03:58 player238 is killed by player427
+03:58 player359 is killed by player64
+03:58 player450 is killed by player457
+03:58 player399 is killed by player766
+03:58 player529 is killed by player620
+03:58 player609 is killed by player778
+03:58 player178 is killed by player439
+03:59 player947 is killed by player820
+03:59 player342 is killed by player961
+03:59 player734 is killed by player215
+03:59 player715 is killed by player852
+03:59 player576 is killed by player547
+03:59 player574 is killed by player147
+03:59 player283 is killed by player454
+03:59 player392 is killed by player589
+03:59 player381 is killed by player666
+03:59 player413 is killed by player396
+04:00 player554 is killed by player587
+04:00 player537 is killed by player122
+04:00 player471 is killed by player192
+04:00 player580 is killed by player959
+04:00 player609 is killed by player740
+04:00 player456 is killed by player843
+04:00 player414 is killed by player623
+04:00 player360 is killed by player961
+04:00 player225 is killed by player134
+04:00 player587 is killed by player72
+04:01 player244 is killed by player537
+04:01 player497 is killed by player632
+04:01 player496 is killed by player455
+04:01 player677 is killed by player6
+04:01 player945 is killed by player914
+04:01 player564 is killed by player797
+04:01 player744 is killed by player945
+04:01 player661 is killed by player278
+04:01 player345 is killed by player150
+04:01 player137 is killed by player80
+04:02 player382 is killed by player133
+04:02 player653 is killed by player562
+04:02 player483 is killed by player176
+04:02 player429 is killed by player808
+04:02 player877 is killed by player342
+04:02 player164 is killed by player261
+04:02 player540 is killed by player593
+04:02 player426 is killed by player877
+04:02 player944 is killed by player755
+04:02 player444 is killed by player599
+04:03 player323 is killed by player454
+04:03 player866 is killed by player689
+04:03 player99 is killed by player204
+04:03 player589 is killed by player740
+04:03 player387 is killed by player122
+04:03 player880 is killed by player361
+04:03 player578 is killed by player437
+04:03 player520 is killed by player837
+04:03 player20 is killed by player471
+04:03 player927 is killed by player98
+04:04 player80 is killed by player997
+04:04 player533 is killed by player806
+04:04 player482 is killed by player715
+04:04 player320 is killed by player193
+04:04 player114 is killed by player7
+04:04 player78 is killed by player31
+04:04 player413 is killed by player716
+04:04 player592 is killed by player981
+04:04 player697 is killed by player12
+04:04 player34 is killed by player941
+04:05 player103 is killed by player626
+04:05 player48 is killed by player48
+04:05 player60 is killed by player785
+04:05 player147 is killed by player758
+04:05 player24 is killed by player541
+04:05 player715 is killed by player130
+04:05 player908 is killed by player309
+04:05 player959 is killed by player648
+04:05 player989 is killed by player100
+04:05 player396 is killed by player819
+04:06 player246 is killed by player757
+04:06 player907 is killed by player48
+04:06 player13 is killed by player566
+04:06 player502 is killed by player819
+04:06 player68 is killed by player669
+04:06 player811 is killed by player552
+04:06 player59 is killed by player616
+04:06 player601 is killed by player610
+04:06 player140 is killed by player365
+04:06 player331 is killed by player954
+04:07 player23 is killed by player156
+04:07 player452 is killed by player129
+04:07 player112 is killed by player605
+04:07 player578 is killed by player495
+04:07 player813 is killed by player758
+04:07 player893 is killed by player926
+04:07 player260 is killed by player903
+04:07 player666 is killed by player171
+04:07 player221 is killed by player138
+04:07 player147 is killed by player274
+04:08 player259 is killed by player68
+04:08 player145 is killed by player92
+04:08 player657 is killed by player314
+04:08 player597 is killed by player678
+04:08 player114 is killed by player549
+04:08 player210 is killed by player603
+04:08 player682 is killed by player47
+04:08 player584 is killed by player243
+04:08 player963 is killed by player636
+04:08 player469 is killed by player908
+04:09 player770 is killed by player129
+04:09 player380 is killed by player375
+04:09 player524 is killed by player225
+04:09 player963 is killed by player460
+04:09 player731 is killed by player304
+04:09 player335 is killed by player580
+04:09 player462 is killed by player981
+04:09 player899 is killed by player164
+04:09 player127 is killed by player448
+04:09 player41 is killed by player814
+04:10 player494 is killed by player763
+04:10 player632 is killed by player425
+04:10 player727 is killed by player226
+04:10 player815 is killed by player20
+04:10 player647 is killed by player202
+04:10 player49 is killed by player454
+04:10 player741 is killed by player462
+04:10 player145 is killed by player656
+04:10 player926 is killed by player861
+04:10 player815 is killed by player830
+04:11 player537 is killed by player442
+04:11 player900 is killed by player125
+04:11 player621 is killed by player76
+04:11 player346 is killed by player837
+04:11 player71 is killed by player484
+04:11 player272 is killed by player275
+04:11 player936 is killed by player87
+04:11 player781 is killed by player218
+04:11 player719 is killed by player436
+04:11 player338 is killed by player769
+04:12 player331 is killed by player994
+04:12 player677 is killed by player320
+04:12 player508 is killed by player435
+04:12 player267 is killed by player24
+04:12 player498 is killed by player835
+04:12 player878 is killed by player969
+04:12 player766 is killed by player893
+04:12 player231 is killed by player536
+04:12 player128 is killed by player61
+04:12 player166 is killed by player801
+04:13 player616 is killed by player83
+04:13 player880 is killed by player473
+04:13 player153 is killed by player488
+04:13 player552 is killed by player327
+04:13 player818 is killed by player621
+04:13 player441 is killed by player892
+04:13 player399 is killed by player352
+04:13 player354 is killed by player161
+04:13 player616 is killed by player767
+04:13 player83 is killed by player590
+04:14 player257 is killed by player754
+04:14 player751 is killed by player876
+04:14 player377 is killed by player276
+04:14 player675 is killed by player596
+04:14 player591 is killed by player842
+04:14 player446 is killed by player55
+04:14 player794 is killed by player489
+04:14 player713 is killed by player754
+04:14 player231 is killed by player752
+04:14 player945 is killed by player410
+04:15 player17 is killed by player532
+04:15 player131 is killed by player252
+04:15 player915 is killed by player206
+04:15 player719 is killed by player782
+04:15 player514 is killed by player615
+04:15 player720 is killed by player701
+04:15 player969 is killed by player348
+04:15 player603 is killed by player96
+04:15 player396 is killed by player175
+04:15 player438 is killed by player251
+04:16 player66 is killed by player909
+04:16 player611 is killed by player376
+04:16 player933 is killed by player602
+04:16 player644 is killed by player929
+04:16 player547 is killed by player550
+04:16 player369 is killed by player432
+04:16 player138 is killed by player123
+04:16 player440 is killed by player409
+04:16 player695 is killed by player836
+04:16 player821 is killed by player700
+04:17 player944 is killed by player165
+04:17 player331 is killed by player324
+04:17 player779 is killed by Roshan
+04:17 player313 is killed by player716
+04:17 player910 is killed by player907
+04:17 player912 is killed by player369
+04:17 player593 is killed by player98
+04:17 player564 is killed by player83
+04:17 player193 is killed by player600
+04:17 player105 is killed by player194
+04:18 player622 is killed by player441
+04:18 player872 is killed by player371
+04:18 player838 is killed by player615
+04:18 player730 is killed by player853
+04:18 player235 is killed by player410
+04:18 player580 is killed by player575
+04:18 player483 is killed by player118
+04:18 player323 is killed by player890
+04:18 player120 is killed by player677
+04:18 player634 is killed by player439
+04:19 player911 is killed by player834
+04:19 player586 is killed by player59
+04:19 player660 is killed by player139
+04:19 player546 is killed by player343
+04:19 player334 is killed by player933
+04:19 player15 is killed by player678
+04:19 player958 is killed by player571
+04:19 player445 is killed by player50
+04:19 player606 is killed by player435
+04:19 player542 is killed by player229
+04:20 player16 is killed by player217
+04:20 player859 is killed by player544
+04:20 player76 is killed by player367
+04:20 player897 is killed by player526
+04:20 player870 is killed by player467
+04:20 player725 is killed by player444
+04:20 player687 is killed by player748
+04:20 player668 is killed by player275
+04:20 player203 is killed by player646
+04:20 player740 is killed by player103
+04:21 player948 is killed by player709
+04:21 player87 is killed by player972
+04:21 player813 is killed by player970
+04:21 player417 is killed by player604
+04:21 player529 is killed by player278
+04:21 player287 is killed by player114
+04:21 player196 is killed by player663
+04:21 player626 is killed by player591
+04:21 player962 is killed by player311
+04:21 player45 is killed by player754
+04:22 player55 is killed by player348
+04:22 player155 is killed by player520
+04:22 player590 is killed by player713
+04:22 player925 is killed by player214
+04:22 player911 is killed by player56
+04:22 player203 is killed by player850
+04:22 player459 is killed by player386
+04:22 player288 is killed by player831
+04:22 player585 is killed by player790
+04:22 player291 is killed by player180
+04:23 player294 is killed by player343
+04:23 player323 is killed by player780
+04:23 player688 is killed by player507
+04:23 player258 is killed by player13
+04:23 player748 is killed by player859
+04:23 player710 is killed by player557
+04:23 player521 is killed by player880
+04:23 player364 is killed by player5
+04:23 player341 is killed by player530
+04:23 player381 is killed by player996
+04:24 player614 is killed by player683
+04:24 player630 is killed by player149
+04:24 player123 is killed by player316
+04:24 player147 is killed by player932
+04:24 player428 is killed by player537
+04:24 player748 is killed by player537
+04:24 player119 is killed by player32
+04:24 player338 is killed by player429
+04:24 player85 is killed by player632
+04:24 player75 is killed by player114
+04:25 player108 is killed by player413
+04:25 player932 is killed by player311
+04:25 player726 is killed by player275
+04:25 player199 is killed by player10
+04:25 player722 is killed by player269
+04:25 player86 is killed by player129
+04:25 player665 is killed by player508
+04:25 player126 is killed by player115
+04:25 player332 is killed by player659
+04:25 player143 is killed by player886
+04:26 player941 is killed by player832
+04:26 player803 is killed by player672
+04:26 player123 is killed by player16
+04:26 player509 is killed by player418
+04:26 player193 is killed by player38
+04:26 player732 is killed by player813
+04:26 player313 is killed by player354
+04:26 player8 is killed by player857
+04:26 player645 is killed by player570
+04:26 player685 is killed by player958
+04:27 player654 is killed by player203
+04:27 player110 is killed by player823
+04:27 player97 is killed by player320
+04:27 player739 is killed by player172
+04:27 player471 is killed by player774
+04:27 player621 is killed by player226
+04:27 player939 is killed by player192
+04:27 player185 is killed by player206
+04:27 player490 is killed by player469
+04:27 player804 is killed by player573
+04:28 player38 is killed by player611
+04:28 player830 is killed by player37
+04:28 player235 is killed by player790
+04:28 player722 is killed by player195
+04:28 player934 is killed by player217
+04:28 player949 is killed by player356
+04:28 player586 is killed by player107
+04:28 player549 is killed by player752
+04:28 player924 is killed by player31
+04:28 player316 is killed by player287
+04:29 player594 is killed by player61
+04:29 player877 is killed by player186
+04:29 player688 is killed by player707
+04:29 player494 is killed by player757
+04:29 player699 is killed by player538
+04:29 player446 is killed by player877
+04:29 player858 is killed by player823
+04:29 player73 is killed by player796
+04:29 player42 is killed by player341
+04:29 player418 is killed by player251
+04:30 player232 is killed by player491
+04:30 player296 is killed by player19
+04:30 player564 is killed by player493
+04:30 player292 is killed by player977
+04:30 player612 is killed by player211
+04:30 player954 is killed by player973
+04:30 player286 is killed by player123
+04:30 player998 is killed by player157
+04:30 player203 is killed by player132
+04:30 player201 is killed by player36
+04:31 player368 is killed by player333
+04:31 player452 is killed by player473
+04:31 player343 is killed by player36
+04:31 player108 is killed by player641
+04:31 player270 is killed by player891
+04:31 player230 is killed by player419
+04:31 player629 is killed by player88
+04:31 player669 is killed by player0
+04:31 player238 is killed by player147
+04:31 player714 is killed by player493
+04:32 player72 is killed by player11
+04:32 player852 is killed by player821
+04:32 player268 is killed by player829
+04:32 player632 is killed by player461
+04:32 player644 is killed by player37
+04:32 player954 is killed by player53
+04:32 player944 is killed by player545
+04:32 player861 is killed by player740
+04:32 player396 is killed by player193
+04:32 player455 is killed by player438
+04:33 player519 is killed by player762
+04:33 player249 is killed by player714
+04:33 player428 is killed by player749
+04:33 player653 is killed by player976
+04:33 player86 is killed by player821
+04:33 player985 is killed by player752
+04:33 player200 is killed by player469
+04:33 player83 is killed by player734
+04:33 player555 is killed by player484
+04:33 player917 is killed by player878
+04:34 player691 is killed by player410
+04:34 player579 is killed by player834
+04:34 player404 is killed by player753
+04:34 player202 is killed by player909
+04:34 player136 is killed by player429
+04:34 player43 is killed by player824
+04:34 player989 is killed by player314
+04:34 player889 is killed by player616
+04:34 player149 is killed by player412
+04:34 player776 is killed by player927
+04:35 player422 is killed by player1
+04:35 player62 is killed by player607
+04:35 player107 is killed by player212
+04:35 player430 is killed by player627
+04:35 player994 is killed by player967
+04:35 player242 is killed by player587
+04:35 player472 is killed by player61
+04:35 player233 is killed by player252
+04:35 player162 is killed by player121
+04:35 player562 is killed by player209
+04:36 player901 is killed by player392
+04:36 player672 is killed by player57
+04:36 player480 is killed by player643
+04:36 player590 is killed by player303
+04:36 player760 is killed by player61
+04:36 player133 is killed by player78
+04:36 player388 is killed by player447
+04:36 player395 is killed by player598
+04:36 player819 is killed by player520
+04:36 player14 is killed by player489
+04:37 player571 is killed by player360
+04:37 player330 is killed by player459
+04:37 player27 is killed by player686
+04:37 player791 is killed by player722
+04:37 player859 is killed by player472
+04:37 player54 is killed by player35
+04:37 player474 is killed by player461
+04:37 player853 is killed by player862
+04:37 player856 is killed by player813
+04:37 player50 is killed by player339
+04:38 player678 is killed by player105
+04:38 player68 is killed by player501
+04:38 player730 is killed by player119
+04:38 player224 is killed by player965
+04:38 player879 is killed by player22
+04:38 player131 is killed by player162
+04:38 player565 is killed by player476
+04:38 player619 is killed by player296
+04:38 player685 is killed by player638
+04:38 player459 is killed by player974
+04:39 player39 is killed by player670
+04:39 player814 is killed by player171
+04:39 player87 is killed by player288
+04:39 player435 is killed by player356
+04:39 player813 is killed by player160
+04:39 player754 is killed by player993
+04:39 player837 is killed by player766
+04:39 player959 is killed by player350
+04:39 player255 is killed by player20
+04:39 player812 is killed by player575
+04:40 player743 is killed by player704
+04:40 player252 is killed by player957
+04:40 player319 is killed by player870
+04:40 player341 is killed by player590
+04:40 player684 is killed by player313
+04:40 player389 is killed by player276
+04:40 player847 is killed by player82
+04:40 player697 is killed by player864
+04:40 player724 is killed by player187
+04:40 player674 is killed by player655
+04:41 player648 is killed by player219
+04:41 player913 is killed by player452
+04:41 player318 is killed by player923
+04:41 player195 is killed by player14
+04:41 player371 is killed by player346
+04:41 player680 is killed by player57
+04:41 player387 is killed by player440
+04:41 player185 is killed by player570
+04:41 player83 is killed by player134
+04:41 player289 is killed by player466
+04:42 player481 is killed by player540
+04:42 player606 is killed by player449
+04:42 player185 is killed by player510
+04:42 player424 is killed by player59
+04:42 player49 is killed by player590
+04:42 player769 is killed by player194
+04:42 player487 is killed by player568
+04:42 player596 is killed by player839
+04:42 player186 is killed by player813
+04:42 player739 is killed by player502
+04:43 player86 is killed by player805
+04:43 player676 is killed by player135
+04:43 player699 is killed by player218
+04:43 player452 is killed by player939
+04:43 player632 is killed by player289
+04:43 player975 is killed by player270
+04:43 player517 is killed by player956
+04:43 player310 is killed by player151
+04:43 player862 is killed by player327
+04:43 player898 is killed by player91
+04:44 player943 is killed by player514
+04:44 player256 is killed by player713
+04:44 player292 is killed by player749
+04:44 player62 is killed by player969
+04:44 player719 is killed by player550
+04:44 player957 is killed by player830
+04:44 player704 is killed by player369
+04:44 player599 is killed by player756
+04:44 player16 is killed by player615
+04:44 player674 is killed by player77
+04:45 player342 is killed by player401
+04:45 player702 is killed by player287
+04:45 player910 is killed by player627
+04:45 player340 is killed by player291
+04:45 player751 is killed by player576
+04:45 player120 is killed by player993
+04:45 player500 is killed by player397
+04:45 player848 is killed by player271
+04:45 player853 is killed by player810
+04:45 player893 is killed by player818
+04:46 player183 is killed by player74
+04:46 player161 is killed by player864
+04:46 player665 is killed by player216
+04:46 player809 is killed by player802
+04:46 player192 is killed by player633
+04:46 player886 is killed by player81
+04:46 player957 is killed by player736
+04:46 player799 is killed by player724
+04:46 player998 is killed by player431
+04:46 player409 is killed by player388
+04:47 player787 is killed by player336
+04:47 player809 is killed by player722
+04:47 player265 is killed by player262
+04:47 player433 is killed by player700
+04:47 player332 is killed by player769
+04:47 player929 is killed by player60
+04:47 player752 is killed by player745
+04:47 player768 is killed by player473
+04:47 player705 is killed by player794
+04:47 player692 is killed by player83
+04:48 player764 is killed by player319
+04:48 player294 is killed by player825
+04:48 player750 is killed by player593
+04:48 player617 is killed by player412
+04:48 player99 is killed by player904
+04:48 player404 is killed by player969
+04:48 player809 is killed by player654
+04:48 player246 is killed by player171
+04:48 player998 is killed by player721
+04:48 player770 is killed by player679
+04:49 player184 is killed by player145
+04:49 player35 is killed by player756
+04:49 player356 is killed by player503
+04:49 player370 is killed by player379
+04:49 player928 is killed by player519
+04:49 player653 is killed by player564
+04:49 player949 is killed by player144
+04:49 player210 is killed by player721
+04:49 player359 is killed by player712
+04:49 player301 is killed by player950
+04:50 player983 is killed by player168
+04:50 player854 is killed by player641
+04:50 player651 is killed by player84
+04:50 player966 is killed by player919
+04:50 player212 is killed by player571
+04:50 player492 is killed by player897
+04:50 player464 is killed by player729
+04:50 player99 is killed by player204
+04:50 player601 is killed by player418
+04:50 player430 is killed by player77
+04:51 player734 is killed by player311
+04:51 player591 is killed by player910
+04:51 player481 is killed by player932
+04:51 player891 is killed by player268
+04:51 player793 is killed by player636
+04:51 player250 is killed by player565
+04:51 player632 is killed by player229
+04:51 player694 is killed by player327
+04:51 player48 is killed by player913
+04:51 player531 is killed by player714
+04:52 player561 is killed by player662
+04:52 player406 is killed by player887
+04:52 player62 is killed by player513
+04:52 player32 is killed by player91
+04:52 player81 is killed by player668
+04:52 player821 is killed by player376
+04:52 player124 is killed by player825
+04:52 player495 is killed by player946
+04:52 player10 is killed by player93
+04:52 player697 is killed by player274
+04:53 player820 is killed by player109
+04:53 player121 is killed by player174
+04:53 player712 is killed by player217
+04:53 player733 is killed by player720
+04:53 player800 is killed by player699
+04:53 player522 is killed by player225
+04:53 player455 is killed by player496
+04:53 player497 is killed by player198
+04:53 player465 is killed by player996
+04:53 player771 is killed by player568
+04:54 player67 is killed by player330
+04:54 player822 is killed by player395
+04:54 player464 is killed by player759
+04:54 player312 is killed by player727
+04:54 player934 is killed by player459
+04:54 player163 is killed by player322
+04:54 player881 is killed by player378
+04:54 player362 is killed by player859
+04:54 player638 is killed by player609
+04:54 player955 is killed by player598
+04:55 player306 is killed by player437
+04:55 player549 is killed by player822
+04:55 player748 is killed by player697
+04:55 player852 is killed by player217
+04:55 player993 is killed by player942
+04:55 player43 is killed by player182
+04:55 player351 is killed by player824
+04:55 player354 is killed by player29
+04:55 player188 is killed by player703
+04:55 player544 is killed by player167
+04:56 player567 is killed by player676
+04:56 player234 is killed by player309
+04:56 player174 is killed by player427
+04:56 player212 is killed by player395
+04:56 player42 is killed by player777
+04:56 player215 is killed by player512
+04:56 player264 is killed by player157
+04:56 player12 is killed by player33
+04:56 player746 is killed by player475
+04:56 player736 is killed by player117
+04:57 player30 is killed by player555
+04:57 player297 is killed by player172
+04:57 player637 is killed by player930
+04:57 player512 is killed by player793
+04:57 player790 is killed by player595
+04:57 player719 is killed by player174
+04:57 player971 is killed by player48
+04:57 player725 is killed by player210
+04:57 player37 is killed by player746
+04:57 player400 is killed by player23
+04:58 player700 is killed by player437
+04:58 player314 is killed by player631
+04:58 player737 is killed by player630
+04:58 player30 is killed by player849
+04:58 player504 is killed by player923
+04:58 player285 is killed by player142
+04:58 player560 is killed by player71
+04:58 player308 is killed by player703
+04:58 player845 is killed by player540
+04:58 player729 is killed by player436
+04:59 player904 is killed by player31
+04:59 player854 is killed by player519
+04:59 player660 is killed by player463
+04:59 player861 is killed by player8
+04:59 player100 is killed by player559
+04:59 player445 is killed by player838
+04:59 player676 is killed by player663
+04:59 player387 is killed by player594
+04:59 player390 is killed by player587
+04:59 player820 is killed by player653
+05:00 player758 is killed by player261
+05:00 player42 is killed by player317
+05:00 player935 is killed by player236
+05:00 player341 is killed by player644
+05:00 player111 is killed by player440
+05:00 player149 is killed by player560
+05:00 player920 is killed by player657
+05:00 player293 is killed by player738
+05:00 player361 is killed by player468
+05:00 player505 is killed by player538
+05:01 player901 is killed by player54
+05:01 player892 is killed by player401
+05:01 player714 is killed by player415
+05:01 player283 is killed by player424
+05:01 player949 is killed by player40
+05:01 player86 is killed by player759
+05:01 player459 is killed by player590
+05:01 player728 is killed by player745
+05:01 player803 is killed by player226
+05:01 player988 is killed by player245
+05:02 player787 is killed by player534
+05:02 player19 is killed by player540
+05:02 player904 is killed by player75
+05:02 player867 is killed by player454
+05:02 player250 is killed by player419
+05:02 player466 is killed by player405
+05:02 player967 is killed by player236
+05:02 player308 is killed by player501
+05:02 player6 is killed by player541
+05:02 player953 is killed by player620
+05:03 player207 is killed by player964
+05:03 player19 is killed by player942
+05:03 player777 is killed by player62
+05:03 player934 is killed by player309
+05:03 player644 is killed by player257
+05:03 player24 is killed by player999
+05:03 player673 is killed by player310
+05:03 player763 is killed by player66
+05:03 player447 is killed by player402
+05:03 player201 is killed by player60
+05:04 player719 is killed by player336
+05:04 player120 is killed by player67
+05:04 player729 is killed by player766
+05:04 player518 is killed by player23
+05:04 player960 is killed by player705
+05:04 player758 is killed by player61
+05:04 player860 is killed by player607
+05:04 player139 is killed by player908
+05:04 player559 is killed by player792
+05:04 player893 is killed by player736
+05:05 player539 is killed by player280
+05:05 player322 is killed by player785
+05:05 player321 is killed by player144
+05:05 player446 is killed by player133
+05:05 player509 is killed by player484
+05:05 player406 is killed by player33
+05:05 player608 is killed by player351
+05:05 player554 is killed by player219
+05:05 player453 is killed by player350
+05:05 player137 is killed by player74
+05:06 player737 is killed by player228
+05:06 player697 is killed by player864
+05:06 player597 is killed by player416
+05:06 player223 is killed by player982
+05:06 player173 is killed by player168
+05:06 player12 is killed by player759
+05:06 player166 is killed by player985
+05:06 player9 is killed by player642
+05:06 player196 is killed by player299
+05:06 player540 is killed by player827
+05:07 player345 is killed by player672
+05:07 player387 is killed by player626
+05:07 player509 is killed by player186
+05:07 player496 is killed by player405
+05:07 player698 is killed by player657
+05:07 player574 is killed by player465
+05:07 player639 is killed by player778
+05:07 player716 is killed by player769
+05:07 player776 is killed by player881
+05:07 player71 is killed by player494
+05:08 player900 is killed by player7
+05:08 player572 is killed by player967
+05:08 player271 is killed by player794
+05:08 player238 is killed by player611
+05:08 player976 is killed by player857
+05:08 player389 is killed by player464
+05:08 player349 is killed by player286
+05:08 player376 is killed by player707
+05:08 player694 is killed by player217
+05:08 player548 is killed by player715
+05:09 player392 is killed by player403
+05:09 player957 is killed by player628
+05:09 player723 is killed by player920
+05:09 player860 is killed by player749
+05:09 player286 is killed by player687
+05:09 player506 is killed by player163
+05:09 player234 is killed by player479
+05:09 player261 is killed by player948
+05:09 player196 is killed by player635
+05:09 player648 is killed by player353
+05:10 player326 is killed by player553
+05:10 player511 is killed by player214
+05:10 player976 is killed by player151
+05:10 player788 is killed by player77
+05:10 player651 is killed by player404
+05:10 player251 is killed by player546
+05:10 player295 is killed by player960
+05:10 player973 is killed by player226
+05:10 player262 is killed by player27
+05:10 player819 is killed by player398
+05:11 player152 is killed by player29
+05:11 player841 is killed by player404
+05:11 player424 is killed by player103
+05:11 player942 is killed by player375
+05:11 player119 is killed by player174
+05:11 player208 is killed by player465
+05:11 player359 is killed by player242
+05:11 player301 is killed by player556
+05:11 player978 is killed by player363
+05:11 player599 is killed by player0
+05:12 player317 is killed by player594
+05:12 player720 is killed by player843
+05:12 player999 is killed by player282
+05:12 player335 is killed by player316
+05:12 player206 is killed by player667
+05:12 player225 is killed by player84
+05:12 player693 is killed by player370
+05:12 player483 is killed by player28
+05:12 player630 is killed by player287
+05:12 player583 is killed by player0
+05:13 player46 is killed by player811
+05:13 player142 is killed by player231
+05:13 player169 is killed by player364
+05:13 player93 is killed by player748
+05:13 player780 is killed by player451
+05:13 player346 is killed by player901
+05:13 player610 is killed by player989
+05:13 player313 is killed by player864
+05:13 player928 is killed by player985
+05:13 player778 is killed by player417
+05:14 player261 is killed by player458
+05:14 player581 is killed by player948
+05:14 player60 is killed by player373
+05:14 player793 is killed by player304
+05:14 player997 is killed by player558
+05:14 player561 is killed by player816
+05:14 player819 is killed by player446
+05:14 player161 is killed by player636
+05:14 player766 is killed by player17
+05:14 player791 is killed by player122
+05:15 player564 is killed by player981
+05:15 player285 is killed by player900
+05:15 player899 is killed by player676
+05:15 player958 is killed by player173
+05:15 player107 is killed by player724
+05:15 player527 is killed by player440
+05:15 player810 is killed by player903
+05:15 player264 is killed by player755
+05:15 player775 is killed by player976
+05:15 player691 is killed by player202
+05:16 player115 is killed by player798
+05:16 player428 is killed by player199
+05:16 player109 is killed by player492
+05:16 player305 is killed by player824
+05:16 player909 is killed by player880
+05:16 player549 is killed by player562
+05:16 player115 is killed by player258
+05:16 player463 is killed by player740
+05:16 player769 is killed by player94
+05:16 player296 is killed by player349
+05:17 player622 is killed by player661
+05:17 player133 is killed by player764
+05:17 player684 is killed by player161
+05:17 player594 is killed by player269
+05:17 player421 is killed by player82
+05:17 player888 is killed by player81
+05:17 player561 is killed by player236
+05:17 player607 is killed by player764
+05:17 player723 is killed by player554
+05:17 player104 is killed by player867
+05:18 player806 is killed by player519
+05:18 player852 is killed by player489
+05:18 player353 is killed by player320
+05:18 player721 is killed by player932
+05:18 player250 is killed by player35
+05:18 player303 is killed by player352
+05:18 player162 is killed by player155
+05:18 player637 is killed by player922
+05:18 player469 is killed by player442
+05:18 player530 is killed by player571
+05:19 player182 is killed by player97
+05:19 player817 is killed by player998
+05:19 player360 is killed by player763
+05:19 player931 is killed by player206
+05:19 player463 is killed by player512
+05:19 player107 is killed by player536
+05:19 player112 is killed by player625
+05:19 player831 is killed by player408
+05:19 player727 is killed by player180
+05:19 player155 is killed by player848
+05:20 player360 is killed by player717
+05:20 player130 is killed by player381
+05:20 player248 is killed by player69
+05:20 player871 is killed by player380
+05:20 player428 is killed by player143
+05:20 player904 is killed by player823
+05:20 player74 is killed by player703
+05:20 player469 is killed by player936
+05:20 player983 is killed by player618
+05:20 player872 is killed by player535
+05:21 player568 is killed by player985
+05:21 player893 is killed by player986
+05:21 player237 is killed by player237
+05:21 player787 is killed by player600
+05:21 player51 is killed by player112
+05:21 player116 is killed by player315
+05:21 player561 is killed by player404
+05:21 player874 is killed by player717
+05:21 player998 is killed by player773
+05:21 player154 is killed by player297
+05:22 player809 is killed by player484
+05:22 player957 is killed by player190
+05:22 player176 is killed by player245
+05:22 player860 is killed by player575
+05:22 player117 is killed by player624
+05:22 player77 is killed by player534
+05:22 player38 is killed by player857
+05:22 player596 is killed by player843
+05:22 player268 is killed by player515
+05:22 player203 is killed by player424
+05:23 player439 is killed by player904
+05:23 player516 is killed by player327
+05:23 player767 is killed by player12
+05:23 player198 is killed by player951
+05:23 player598 is killed by player137
+05:23 player135 is killed by player762
+05:23 player308 is killed by player797
+05:23 player873 is killed by player458
+05:23 player939 is killed by player410
+05:23 player496 is killed by player221
+05:24 player204 is killed by player31
+05:24 player66 is killed by player837
+05:24 player473 is killed by player450
+05:24 player840 is killed by player661
+05:24 player973 is killed by player506
+05:24 player125 is killed by player786
+05:24 player905 is killed by player772
+05:24 player756 is killed by player341
+05:24 player641 is killed by player818
+05:24 player711 is killed by player682
+05:25 player830 is killed by player1
+05:25 player181 is killed by player22
+05:25 player69 is killed by player308
+05:25 player403 is killed by player418
+05:25 player640 is killed by player781
+05:25 player975 is killed by player942
+05:25 player827 is killed by player438
+05:25 player0 is killed by player849
+05:25 player609 is killed by player356
+05:25 player506 is killed by player917
+05:26 player408 is killed by player75
+05:26 player81 is killed by player130
+05:26 player995 is killed by player504
+05:26 player564 is killed by player437
+05:26 player991 is killed by player978
+05:26 player660 is killed by player897
+05:26 player312 is killed by player711
+05:26 player989 is killed by player252
+05:26 player220 is killed by player593
+05:26 player244 is killed by player173
+05:27 player856 is killed by player751
+05:27 player849 is killed by player670
+05:27 player322 is killed by player259
+05:27 player215 is killed by player524
+05:27 player942 is killed by player439
+05:27 player802 is killed by player21
+05:27 player5 is killed by player280
+05:27 player936 is killed by player987
+05:27 player852 is killed by player329
+05:27 player851 is killed by player694
+05:28 player145 is killed by player8
+05:28 player702 is killed by player817
+05:28 player490 is killed by player577
+05:28 player206 is killed by player863
+05:28 player105 is killed by player116
+05:28 player267 is killed by player142
+05:28 player299 is killed by player680
+05:28 player463 is killed by player26
+05:28 player473 is killed by player338
+05:28 player918 is killed by player661
+05:29 player105 is killed by player764
+05:29 player655 is killed by player772
+05:29 player485 is killed by player220
+05:29 player498 is killed by player661
+05:29 player451 is killed by player972
+05:29 player394 is killed by player585
+05:29 player879 is killed by player768
+05:29 player133 is killed by player748
+05:29 player646 is killed by player953
+05:29 player577 is killed by player116
+05:30 player980 is killed by player925
+05:30 player449 is killed by player50
+05:30 player745 is killed by player432
+05:30 player953 is killed by player100
+05:30 player48 is killed by player863
+05:30 player494 is killed by player67
+05:30 player560 is killed by player897
+05:30 player553 is killed by player970
+05:30 player478 is killed by player659
+05:30 player214 is killed by player767
+05:31 player906 is killed by player667
+05:31 player456 is killed by player971
+05:31 player417 is killed by player780
+05:31 player888 is killed by player305
+05:31 player427 is killed by player388
+05:31 player333 is killed by player510
+05:31 player622 is killed by player725
+05:31 player406 is killed by player939
+05:31 player803 is killed by player70
+05:31 player478 is killed by player603
+05:32 player495 is killed by player148
+05:32 player967 is killed by player864
+05:32 player604 is killed by player909
+05:32 player242 is killed by player809
+05:32 player601 is killed by player708
+05:32 player637 is killed by player2
+05:32 player320 is killed by player379
+05:32 player558 is killed by player721
+05:32 player199 is killed by player150
+05:32 player311 is killed by player114
+05:33 player9 is killed by player942
+05:33 player731 is killed by player698
+05:33 player253 is killed by player32
+05:33 player697 is killed by player88
+05:33 player911 is killed by player468
+05:33 player686 is killed by player479
+05:33 player478 is killed by player857
+05:33 player999 is killed by player20
+05:33 player830 is killed by player611
+05:33 player256 is killed by player869
+05:34 player150 is killed by player597
+05:34 player30 is killed by player835
+05:34 player237 is killed by player816
+05:34 player244 is killed by player87
+05:34 player881 is killed by player98
+05:34 player388 is killed by player179
+05:34 player472 is killed by player171
+05:34 player51 is killed by player498
+05:34 player10 is killed by player795
+05:34 player754 is killed by player931
+05:35 player647 is killed by player696
+05:35 player787 is killed by player832
+05:35 player877 is killed by player774
+05:35 player129 is killed by player510
+05:35 player500 is killed by player779
+05:35 player851 is killed by player506
+05:35 player174 is killed by player681
+05:35 player530 is killed by player55
+05:35 player193 is killed by player414
+05:35 player385 is killed by player254
+05:36 player567 is killed by player738
+05:36 player276 is killed by player751
+05:36 player424 is killed by player373
+05:36 player596 is killed by player725
+05:36 player550 is killed by player539
+05:36 player651 is killed by player136
+05:36 player577 is killed by player562
+05:36 player242 is killed by player697
+05:36 player556 is killed by player571
+05:36 player603 is killed by player622
+05:37 player872 is killed by player227
+05:37 player380 is killed by player925
+05:37 player399 is killed by player200
+05:37 player145 is killed by player754
+05:37 player628 is killed by player655
+05:37 player805 is killed by player104
+05:37 player577 is killed by player764
+05:37 player10 is killed by player389
+05:37 player73 is killed by player580
+05:37 player463 is killed by player284
+05:38 player975 is killed by player914
+05:38 player865 is killed by player690
+05:38 player711 is killed by player148
+05:38 player542 is killed by player261
+05:38 player59 is killed by player272
+05:38 player774 is killed by player957
+05:38 player104 is killed by player971
+05:38 player682 is killed by player801
+05:38 player539 is killed by player208
+05:38 player826 is killed by player573
+05:39 player278 is killed by player683
+05:39 player889 is killed by player442
+05:39 player216 is killed by player301
+05:39 player28 is killed by player735
+05:39 player763 is killed by player560
+05:39 player235 is killed by player310
+05:39 player71 is killed by player684
+05:39 player287 is killed by player658
+05:39 player47 is killed by player268
+05:39 player965 is killed by player414
+05:40 player147 is killed by player252
+05:40 player401 is killed by player194
+05:40 player654 is killed by player533
+05:40 player622 is killed by player963
+05:40 player753 is killed by player418
+05:40 player397 is killed by player464
+05:40 player479 is killed by player218
+05:40 player45 is killed by player236
+05:40 player698 is killed by player511
+05:40 player642 is killed by player737
+05:41 player598 is killed by player353
+05:41 player57 is killed by player866
+05:41 player373 is killed by player510
+05:41 player442 is killed by player877
+05:41 player491 is killed by player708
+05:41 player47 is killed by player510
+05:41 player562 is killed by player545
+05:41 player653 is killed by player22
+05:41 player345 is killed by player936
+05:41 player320 is killed by player941
+05:42 player648 is killed by player661
+05:42 player91 is killed by player692
+05:42 player168 is killed by player643
+05:42 player704 is killed by player385
+05:42 player760 is killed by player991
+05:42 player341 is killed by player358
+05:42 player51 is killed by player200
+05:42 player560 is killed by player947
+05:42 player96 is killed by player861
+05:42 player269 is killed by player268
+05:43 player10 is killed by player755
+05:43 player581 is killed by player522
+05:43 player962 is killed by player765
+05:43 player569 is killed by player206
+05:43 player297 is killed by player938
+05:43 player687 is killed by player422
+05:43 player818 is killed by player123
+05:43 player12 is killed by player65
+05:43 player343 is killed by player384
+05:43 player555 is killed by player16
+05:44 player819 is killed by player146
+05:44 player789 is killed by player638
+05:44 player960 is killed by player377
+05:44 player937 is killed by player702
+05:44 player442 is killed by player635
+05:44 player574 is killed by player527
+05:44 player636 is killed by player431
+05:44 player687 is killed by player892
+05:44 player521 is killed by player648
+05:44 player366 is killed by player831
+05:45 player766 is killed by player807
+05:45 player196 is killed by player557
+05:45 player70 is killed by player337
+05:45 player207 is killed by player934
+05:45 player605 is killed by player368
+05:45 player310 is killed by player111
+05:45 player737 is killed by player808
+05:45 player985 is killed by player464
+05:45 player694 is killed by player369
+05:45 player636 is killed by player749
+05:46 player290 is killed by player541
+05:46 player341 is killed by player198
+05:46 player769 is killed by player802
+05:46 player204 is killed by player987
+05:46 player329 is killed by player820
+05:46 player131 is killed by player516
+05:46 player535 is killed by player2
+05:46 player502 is killed by player893
+05:46 player892 is killed by player499
+05:46 player829 is killed by player730
+05:47 player387 is killed by player954
+05:47 player239 is killed by player888
+05:47 player596 is killed by player627
+05:47 player106 is killed by player429
+05:47 player758 is killed by player925
+05:47 player592 is killed by player95
+05:47 player40 is killed by player719
+05:47 player427 is killed by player68
+05:47 player641 is killed by player366
+05:47 player997 is killed by player566
+05:48 player224 is killed by player255
+05:48 player897 is killed by player666
+05:48 player294 is killed by player33
+05:48 player894 is killed by player435
+05:48 player756 is killed by player381
+05:48 player973 is killed by player664
+05:48 player183 is killed by player310
+05:48 player105 is killed by player722
+05:48 player227 is killed by player906
+05:48 player503 is killed by player44
+05:49 player718 is killed by player997
+05:49 player606 is killed by player445
+05:49 player468 is killed by player117
+05:49 player632 is killed by player531
+05:49 player780 is killed by player119
+05:49 player257 is killed by player624
+05:49 player728 is killed by player51
+05:49 player800 is killed by player61
+05:49 player258 is killed by player367
+05:49 player844 is killed by player585
+05:50 player350 is killed by player649
+05:50 player608 is killed by player789
+05:50 player859 is killed by player806
+05:50 player690 is killed by player685
+05:50 player606 is killed by player531
+05:50 player865 is killed by player524
+05:50 player208 is killed by player347
+05:50 player893 is killed by player198
+05:50 player870 is killed by player345
+05:50 player91 is killed by player768
+05:51 player618 is killed by player335
+05:51 player897 is killed by player310
+05:51 player576 is killed by player653
+05:51 player383 is killed by player190
+05:51 player244 is killed by player213
+05:51 player383 is killed by player208
+05:51 player42 is killed by player319
+05:51 player574 is killed by player403
+05:51 player109 is killed by player314
+05:51 player571 is killed by player240
+05:52 player996 is killed by player281
+05:52 player359 is killed by player472
+05:52 player995 is killed by player398
+05:52 player766 is killed by player145
+05:52 player758 is killed by player595
+05:52 player653 is killed by player266
+05:52 player115 is killed by player254
+05:52 player620 is killed by player171
+05:52 player720 is killed by player401
+05:52 player367 is killed by player924
+05:53 player666 is killed by player53
+05:53 player567 is killed by player324
+05:53 player184 is killed by player295
+05:53 player654 is killed by player419
+05:53 player695 is killed by player206
+05:53 player579 is killed by player318
+05:53 player39 is killed by player284
+05:53 player490 is killed by player493
+05:53 player142 is killed by player149
+05:53 player792 is killed by player313
+05:54 player324 is killed by player181
+05:54 player270 is killed by player55
+05:54 player599 is killed by player620
+05:54 player155 is killed by player516
+05:54 player328 is killed by player515
+05:54 player575 is killed by player146
+05:54 player773 is killed by player334
+05:54 player477 is killed by player656
+05:54 player344 is killed by player65
+05:54 player273 is killed by player288
+05:55 player744 is killed by player599
+05:55 player339 is killed by player774
+05:55 player894 is killed by player321
+05:55 player170 is killed by player741
+05:55 player547 is killed by player34
+05:55 player564 is killed by player347
+05:55 player744 is killed by player65
+05:55 player532 is killed by player249
+05:55 player694 is killed by player377
+05:55 player486 is killed by player979
+05:56 player552 is killed by player271
+05:56 player8 is killed by player583
+05:56 player877 is killed by player8
+05:56 player449 is killed by player316
+05:56 player306 is killed by player773
+05:56 player726 is killed by player479
+05:56 player680 is killed by player569
+05:56 player730 is killed by player391
+05:56 player169 is killed by player994
+05:56 player718 is killed by player983
+05:57 player241 is killed by player986
+05:57 player929 is killed by player362
+05:57 player875 is killed by player38
+05:57 player746 is killed by player735
+05:57 player929 is killed by player44
+05:57 player924 is killed by player727
+05:57 player920 is killed by player129
+05:57 player305 is killed by player202
+05:57 player427 is killed by player762
+05:57 player378 is killed by player647
+05:58 player766 is killed by player147
+05:58 player486 is killed by player303
+05:58 player294 is killed by player471
+05:58 player657 is killed by player344
+05:58 player688 is killed by player561
+05:58 player862 is killed by player229
+05:58 player784 is killed by player217
+05:58 player529 is killed by player396
+05:58 player555 is killed by player536
+05:58 player550 is killed by player945
+05:59 player358 is killed by player39
+05:59 player734 is killed by player17
+05:59 player784 is killed by player371
+05:59 player283 is killed by player354
+05:59 player165 is killed by player254
+05:59 player649 is killed by player384
+05:59 player709 is killed by player802
+05:59 player664 is killed by player383
+05:59 player212 is killed by player393
+05:59 player815 is killed by player44
+06:00 player955 is killed by player858
+06:00 player972 is killed by player331
+06:00 player104 is killed by player363
+06:00 player25 is killed by player648
+06:00 player609 is killed by player350
+06:00 player993 is killed by player928
+06:00 player639 is killed by player352
+06:00 player739 is killed by player104
+06:00 player872 is killed by player165
+06:00 player93 is killed by player400
+06:01 player901 is killed by player178
+06:01 player670 is killed by player961
+06:01 player261 is killed by player708
+06:01 player13 is killed by player118
+06:01 player121 is killed by player924
+06:01 player157 is killed by player56
+06:01 player995 is killed by player614
+06:01 player285 is killed by player924
+06:01 player961 is killed by player874
+06:01 player339 is killed by player784
+06:02 player774 is killed by player395
+06:02 player298 is killed by player739
+06:02 player26 is killed by player175
+06:02 player788 is killed by player869
+06:02 player896 is killed by player799
+06:02 player601 is killed by player246
+06:02 player345 is killed by player198
+06:02 player407 is killed by player738
+06:02 player536 is killed by player719
+06:02 player692 is killed by player223
+06:03 player77 is killed by player90
+06:03 player659 is killed by player878
+06:03 player206 is killed by player679
+06:03 player756 is killed by player951
+06:03 player947 is killed by player632
+06:03 player183 is killed by player860
+06:03 player768 is killed by player935
+06:03 player561 is killed by player978
+06:03 player609 is killed by player438
+06:03 player752 is killed by player421
+06:04 player553 is killed by player680
+06:04 player540 is killed by player105
+06:04 player739 is killed by player716
+06:04 player319 is killed by player2
+06:04 player628 is killed by player43
+06:04 player270 is killed by player719
+06:04 player201 is killed by player260
+06:04 player320 is killed by player933
+06:04 player45 is killed by player252
+06:04 player903 is killed by player438
+06:05 player486 is killed by player321
+06:05 player524 is killed by player625
+06:05 player529 is killed by player120
+06:05 player56 is killed by player325
+06:05 player770 is killed by player571
+06:05 player528 is killed by player269
+06:05 player985 is killed by player802
+06:05 player56 is killed by player43
+06:05 player689 is killed by player866
+06:05 player884 is killed by player969
+06:06 player547 is killed by player242
+06:06 player419 is killed by player944
+06:06 player443 is killed by player696
+06:06 player933 is killed by player572
+06:06 player113 is killed by player420
+06:06 player726 is killed by player181
+06:06 player834 is killed by player829
+06:06 player891 is killed by player764
+06:06 player440 is killed by player221
+06:06 player925 is killed by player774
+06:07 player567 is killed by player512
+06:07 player500 is killed by player609
+06:07 player785 is killed by player578
+06:07 player165 is killed by player364
+06:07 player869 is killed by player826
+06:07 player375 is killed by player16
+06:07 player820 is killed by player531
+06:07 player522 is killed by player241
+06:07 player124 is killed by player935
+06:07 player545 is killed by player846
+06:08 player224 is killed by player623
+06:08 player562 is killed by player527
+06:08 player615 is killed by player784
+06:08 player532 is killed by player649
+06:08 player636 is killed by player99
+06:08 player720 is killed by player321
+06:08 player47 is killed by player164
+06:08 player147 is killed by player802
+06:08 player762 is killed by player243
+06:08 player290 is killed by player987
+06:09 player550 is killed by player203
+06:09 player319 is killed by player750
+06:09 player886 is killed by player709
+06:09 player68 is killed by player339
+06:09 player92 is killed by player551
+06:09 player461 is killed by player194
+06:09 player948 is killed by player423
+06:09 player155 is killed by player900
+06:09 player982 is killed by player313
+06:09 player22 is killed by player49
+06:10 player631 is killed by player28
+06:10 player634 is killed by player355
+06:10 player394 is killed by player701
+06:10 player901 is killed by player672
+06:10 player170 is killed by player917
+06:10 player32 is killed by player839
+06:10 player836 is killed by player875
+06:10 player37 is killed by player172
+06:10 player171 is killed by player464
+06:10 player952 is killed by player971
+06:11 player100 is killed by player325
+06:11 player312 is killed by player517
+06:11 player531 is killed by player732
+06:11 player192 is killed by player35
+06:11 player989 is killed by player44
+06:11 player657 is killed by player966
+06:11 player992 is killed by player341
+06:11 player267 is killed by player728
+06:11 player392 is killed by player269
+06:11 player755 is killed by player204
+06:12 player787 is killed by player838
+06:12 player631 is killed by player162
+06:12 player663 is killed by player460
+06:12 player872 is killed by player441
+06:12 player314 is killed by player839
+06:12 player479 is killed by player654
+06:12 player194 is killed by player995
+06:12 player683 is killed by player420
+06:12 player671 is killed by player116
+06:12 player698 is killed by player213
+06:13 player222 is killed by player349
+06:13 player526 is killed by player21
+06:13 player199 is killed by player18
+06:13 player626 is killed by player377
+06:13 player121 is killed by player750
+06:13 player957 is killed by player542
+06:13 player532 is killed by player599
+06:13 player198 is killed by player509
+06:13 player799 is killed by player80
+06:13 player425 is killed by player948
+06:14 player635 is killed by player758
+06:14 player360 is killed by player745
+06:14 player256 is killed by player581
+06:14 player486 is killed by player123
+06:14 player814 is killed by player727
+06:14 player640 is killed by player489
+06:14 player399 is killed by player564
+06:14 player45 is killed by player72
+06:14 player180 is killed by player933
+06:14 player359 is killed by player854
+06:15 player29 is killed by player292
+06:15 player546 is killed by player291
+06:15 player76 is killed by player447
+06:15 player253 is killed by player276
+06:15 player380 is killed by player819
+06:15 player319 is killed by player480
+06:15 player438 is killed by player737
+06:15 player412 is killed by player915
+06:15 player764 is killed by player369
+06:15 player656 is killed by player315
+06:16 player90 is killed by player837
+06:16 player859 is killed by player766
+06:16 player2 is killed by player63
+06:16 player813 is killed by player596
+06:16 player847 is killed by player774
+06:16 player988 is killed by player415
+06:16 player860 is killed by player17
+06:16 player587 is killed by player224
+06:16 player5 is killed by player678
+06:16 player725 is killed by player570
+06:17 player838 is killed by player39
+06:17 player203 is killed by player514
+06:17 player11 is killed by player172
+06:17 player627 is killed by player614
+06:17 player32 is killed by player81
+06:17 player850 is killed by player381
+06:17 player610 is killed by player841
+06:17 player370 is killed by player495
+06:17 player949 is killed by player422
+06:17 player759 is killed by player310
+06:18 player328 is killed by player655
+06:18 player742 is killed by player701
+06:18 player494 is killed by player549
+06:18 player400 is killed by player801
+06:18 player422 is killed by player551
+06:18 player950 is killed by player415
+06:18 player205 is killed by player68
+06:18 player517 is killed by player460
+06:18 player554 is killed by player353
+06:18 player172 is killed by player601
+06:19 player971 is killed by player476
+06:19 player819 is killed by player328
+06:19 player398 is killed by player15
+06:19 player62 is killed by player897
+06:19 player922 is killed by player723
+06:19 player66 is killed by player83
+06:19 player431 is killed by player732
+06:19 player424 is killed by player361
+06:19 player107 is killed by player248
+06:19 player328 is killed by player647
+06:20 player111 is killed by player830
+06:20 player135 is killed by player538
+06:20 player113 is killed by player738
+06:20 player956 is killed by player885
+06:20 player19 is killed by player384
+06:20 player319 is killed by player948
+06:20 player788 is killed by player513
+06:20 player268 is killed by player163
+06:20 player998 is killed by player995
+06:20 player231 is killed by player278
+06:21 player200 is killed by player779
+06:21 player711 is killed by player946
+06:21 player484 is killed by player591
+06:21 player776 is killed by player119
+06:21 player243 is killed by player210
+06:21 player507 is killed by player84
+06:21 player304 is killed by player13
+06:21 player897 is killed by player282
+06:21 player259 is killed by player616
+06:21 player9 is killed by player820
+06:22 player39 is killed by player24
+06:22 player518 is killed by player273
+06:22 player597 is killed by player194
+06:22 player228 is killed by player521
+06:22 player866 is killed by player761
+06:22 player812 is killed by player253
+06:22 player663 is killed by player682
+06:22 player926 is killed by player629
+06:22 player959 is killed by player934
+06:22 player718 is killed by player251
+06:23 player511 is killed by player802
+06:23 player330 is killed by player589
+06:23 player753 is killed by player110
+06:23 player27 is killed by player538
+06:23 player169 is killed by player8
+06:23 player651 is killed by player692
+06:23 player228 is killed by player387
+06:23 player86 is killed by player501
+06:23 player501 is killed by player716
+06:23 player220 is killed by player495
+06:24 player978 is killed by player187
+06:24 player917 is killed by player984
+06:24 player23 is killed by player484
+06:24 player966 is killed by player555
+06:24 player81 is killed by player286
+06:24 player507 is killed by player338
+06:24 player349 is killed by player594
+06:24 player213 is killed by player108
+06:24 player586 is killed by player549
+06:24 player422 is killed by player735
+06:25 player740 is killed by player489
+06:25 player419 is killed by player156
+06:25 player651 is killed by player472
+06:25 player522 is killed by player105
+06:25 player44 is killed by player553
+06:25 player323 is killed by player576
+06:25 player222 is killed by player497
+06:25 player764 is killed by player171
+06:25 player823 is killed by player980
+06:25 player111 is killed by player310
+06:26 player520 is killed by player585
+06:26 player575 is killed by player510
+06:26 player799 is killed by player656
+06:26 player363 is killed by player206
+06:26 player451 is killed by player652
+06:26 player154 is killed by player619
+06:26 player701 is killed by player834
+06:26 player104 is killed by player723
+06:26 player589 is killed by player862
+06:26 player960 is killed by player407
+06:27 player530 is killed by player147
+06:27 player338 is killed by player481
+06:27 player934 is killed by player803
+06:27 player510 is killed by player833
+06:27 player442 is killed by player697
+06:27 player666 is killed by player403
+06:27 player398 is killed by player595
+06:27 player529 is killed by player206
+06:27 player499 is killed by player100
+06:27 player13 is killed by player456
+06:28 player444 is killed by player555
+06:28 player934 is killed by player245
+06:28 player306 is killed by player91
+06:28 player523 is killed by player904
+06:28 player536 is killed by player797
+06:28 player944 is killed by player963
+06:28 player863 is killed by player206
+06:28 player161 is killed by player324
+06:28 player739 is killed by player568
+06:28 player190 is killed by player65
+06:29 player853 is killed by player970
+06:29 player727 is killed by player42
+06:29 player585 is killed by player964
+06:29 player850 is killed by player177
+06:29 player619 is killed by player704
+06:29 player114 is killed by player279
+06:29 player110 is killed by player513
+06:29 player883 is killed by player678
+06:29 player485 is killed by player814
+06:29 player516 is killed by player837
+06:30 player670 is killed by player335
+06:30 player891 is killed by player184
+06:30 player315 is killed by player644
+06:30 player639 is killed by player144
+06:30 player867 is killed by player610
+06:30 player474 is killed by player973
+06:30 player865 is killed by player32
+06:30 player645 is killed by player830
+06:30 player867 is killed by player994
+06:30 player889 is killed by player954
+06:31 player997 is killed by player50
+06:31 player715 is killed by player98
+06:31 player743 is killed by player208
+06:31 player760 is killed by player365
+06:31 player925 is killed by player986
+06:31 player946 is killed by player657
+06:31 player685 is killed by player954
+06:31 player857 is killed by player254
+06:31 player454 is killed by player413
+06:31 player949 is killed by player678
+06:32 player607 is killed by player168
+06:32 player978 is killed by player737
+06:32 player350 is killed by player155
+06:32 player29 is killed by player366
+06:32 player778 is killed by player805
+06:32 player943 is killed by player910
+06:32 player467 is killed by player156
+06:32 player584 is killed by player731
+06:32 player784 is killed by player133
+06:32 player198 is killed by player995
+06:33 player217 is killed by player166
+06:33 player469 is killed by player588
+06:33 player423 is killed by player720
+06:33 player609 is killed by player204
+06:33 player217 is killed by player664
+06:33 player986 is killed by player589
+06:33 player392 is killed by player761
+06:33 player655 is killed by player856
+06:33 player780 is killed by player883
+06:33 player47 is killed by player336
+06:34 player768 is killed by player639
+06:34 player947 is killed by player200
+06:34 player532 is killed by player611
+06:34 player48 is killed by player153
+06:34 player426 is killed by player675
+06:34 player540 is killed by player567
+06:34 player715 is killed by player578
+06:34 player230 is killed by player855
+06:34 player243 is killed by player48
+06:34 player19 is killed by player74
+06:35 player602 is killed by player823
+06:35 player975 is killed by player468
+06:35 player404 is killed by player101
+06:35 player169 is killed by player138
+06:35 player996 is killed by player191
+06:35 player122 is killed by player197
+06:35 player804 is killed by player621
+06:35 player942 is killed by player517
+06:35 player224 is killed by player907
+06:35 player692 is killed by player573
+06:36 player844 is killed by player801
+06:36 player235 is killed by player696
+06:36 player674 is killed by player489
+06:36 player165 is killed by player842
+06:36 player185 is killed by player8
+06:36 player833 is killed by player986
+06:36 player978 is killed by player281
+06:36 player627 is killed by player838
+06:36 player509 is killed by player254
+06:36 player519 is killed by player398
+06:37 player364 is killed by player97
+06:37 player934 is killed by player31
+06:37 player534 is killed by player3
+06:37 player448 is killed by player639
+06:37 player943 is killed by player336
+06:37 player123 is killed by player822
+06:37 player357 is killed by player136
+06:37 player370 is killed by player705
+06:37 player414 is killed by player895
+06:37 player234 is killed by player859
+06:38 player736 is killed by player27
+06:38 player505 is killed by player368
+06:38 player242 is killed by player701
+06:38 player679 is killed by player144
+06:38 player785 is killed by player100
+06:38 player650 is killed by player301
+06:38 player389 is killed by player582
+06:38 player956 is killed by player611
+06:38 player54 is killed by player613
+06:38 player552 is killed by player653
+06:39 player153 is killed by player166
+06:39 player205 is killed by player964
+06:39 player575 is killed by player652
+06:39 player210 is killed by player63
+06:39 player551 is killed by player766
+06:39 player187 is killed by player380
+06:39 player370 is killed by player649
+06:39 player827 is killed by player432
+06:39 player656 is killed by player715
+06:39 player427 is killed by player996
