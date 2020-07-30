@@ -1,0 +1,5 @@
+name: "[NOI2009]植物大战僵尸"
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 64
