@@ -1,0 +1,6 @@
+name: |
+  [Ahoi2005]SHUFFLE 洗牌
+source: bzoj (OI-Archive)
+time_limit: 3000
+timing_mode: total
+space_limit: 64
