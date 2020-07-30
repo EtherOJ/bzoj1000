@@ -1,0 +1,9019 @@
+1002
+Test 1
+4 5 4
+B W B W
+B W B B W
+W B W W
+2 4 3
+W B
+W W W W
+W W W
+Test 2
+5 3 1
+B W B W B
+B W B
+W
+0 1 1
+
+W
+B
+Test 3
+3 4 1
+B W B
+B B W B
+W
+5 3 5
+B W B W W
+W B B
+W B W W W
+Test 4
+4 3 0
+B W W B
+B B B
+
+5 5 1
+B B W W B
+W W W W W
+W
+Test 5
+0 2 5
+
+B W
+B W B W B
+2 2 3
+B W
+W W
+B B B
+Test 6
+2 3 5
+B W
+B B B
+W B B W W
+1 3 2
+W
+W B W
+B B
+Test 7
+5 4 2
+B W B W B
+B W B B
+B W
+1 4 3
+B
+W W B B
+W B W
+Test 8
+5 1 1
+B B B B B
+B
+W
+2 2 2
+W W
+W W
+W W
+Test 9
+4 2 3
+W W B W
+W B
+B W W
+1 5 3
+B
+W B W W W
+B W B
+Test 10
+4 5 1
+W B B B
+W W B B B
+W
+4 0 1
+W B B B
+
+B
+Test 11
+5 4 3
+W W B W W
+B B B B
+W B B
+1 1 3
+B
+W
+B W B
+Test 12
+3 4 4
+B B W
+B B W B
+W B B B
+4 3 1
+B B B B
+W B B
+W
+Test 13
+5 5 0
+W B W W B
+B B B B W
+
+3 3 0
+W B B
+W W W
+
+Test 14
+3 5 5
+W B W
+B B W B W
+B W B W B
+3 1 2
+W B W
+B
+B B
+Test 15
+0 4 3
+
+W B B W
+W B W
+5 1 0
+W W B W W
+B
+
+Test 16
+3 5 1
+W W B
+W B W B B
+B
+4 5 1
+B B B W
+W B W B W
+B
+Test 17
+4 3 2
+B W W W
+B B B
+W W
+4 3 5
+W W W W
+B B W
+W W W W W
+Test 18
+3 2 0
+B W B
+B W
+
+5 4 3
+B W W W B
+B W B B
+W B W
+Test 19
+0 0 1
+
+
+W
+2 4 2
+W B
+W B W W
+B B
+Test 20
+4 1 1
+W W W W
+B
+W
+2 0 4
+B B
+
+B W W B
+Test 21
+0 2 0
+
+W W
+
+3 0 2
+W W W
+
+B B
+Test 22
+0 3 2
+
+W W B
+W B
+2 0 3
+W W
+
+B W B
+Test 23
+5 1 4
+W W W B W
+W
+W W W B
+2 0 3
+W B
+
+W W B
+Test 24
+3 0 0
+W W B
+
+
+3 1 3
+W B B
+W
+W B W
+Test 25
+2 4 0
+B B
+W B W W
+
+3 2 4
+W B B
+W W
+W B W W
+Test 26
+5 1 0
+W W W B W
+B
+
+3 0 5
+W W W
+
+W B W W B
+Test 27
+5 1 2
+W B B W B
+W
+W W
+1 3 3
+B
+B W W
+B W W
+Test 28
+5 5 1
+W B W W W
+W W W W B
+W
+2 5 0
+W B
+B W B W B
+
+Test 29
+2 5 3
+B W
+W B W B B
+W B W
+0 2 5
+
+W B
+W W B B W
+Test 30
+2 2 1
+W B
+W B
+W
+4 5 1
+W W B W
+B W B B B
+B
+Test 31
+4 4 3
+B W B W
+B B W B
+B W W
+0 0 1
+
+
+B
+Test 32
+1 1 3
+W
+W
+W W W
+3 1 4
+W W W
+W
+W W B B
+Test 33
+4 1 0
+B W W W
+W
+
+5 2 0
+B W W B B
+W B
+
+Test 34
+1 4 4
+W
+B W B B
+W B W B
+1 4 0
+W
+B W B W
+
+Test 35
+2 2 0
+B B
+B B
+
+3 2 1
+W B W
+W W
+W
+Test 36
+3 4 4
+B W B
+B W B W
+W B W B
+3 4 0
+B W W
+B W B W
+
+Test 37
+1 3 0
+B
+B B B
+
+3 0 5
+B B B
+
+B W B B B
+Test 38
+4 5 1
+B B W B
+B B W B W
+B
+2 5 2
+W B
+W W B W W
+B W
+Test 39
+1 3 3
+B
+W W W
+B W B
+1 1 4
+W
+W
+B W W B
+Test 40
+0 5 3
+
+W W B B W
+B B B
+2 2 2
+W B
+W W
+W W
+Test 41
+1 4 0
+B
+W W B W
+
+4 5 1
+W W B B
+W B W B W
+B
+Test 42
+1 0 4
+W
+
+B W B B
+1 2 5
+W
+B W
+W W W B W
+Test 43
+5 4 3
+W B W B W
+B W B W
+B W B
+3 5 4
+W B B
+W B B W B
+B B B B
+Test 44
+0 1 4
+
+B
+W W B B
+3 1 3
+B B W
+W
+W B W
+Test 45
+2 5 2
+W B
+B B B W W
+W W
+3 2 4
+B W W
+W B
+B B B B
+Test 46
+4 2 4
+B W B B
+B B
+W B W W
+0 1 1
+
+W
+B
+Test 47
+3 0 4
+W W B
+
+W W B W
+2 0 4
+B B
+
+W W W W
+Test 48
+2 0 4
+W B
+
+B W W B
+5 3 3
+B W B B B
+B W W
+B B B
+Test 49
+2 1 2
+B B
+W
+W B
+1 1 2
+W
+W
+B B
+Test 50
+2 2 5
+B B
+B W
+B W B B W
+2 2 5
+W B
+W B
+W W B B B
+Test 51
+0 2 0
+
+W W
+
+4 1 3
+B B B B
+B
+W W B
+Test 52
+3 3 2
+W B W
+W B W
+W W
+4 3 2
+W W B B
+W B B
+W W
+Test 53
+3 0 1
+W B B
+
+W
+3 0 5
+W B W
+
+B B B B W
+Test 54
+2 0 3
+B W
+
+B W B
+4 0 1
+B B W W
+
+B
+Test 55
+2 0 0
+W B
+
+
+3 2 3
+B B W
+B W
+W B W
+Test 56
+1 2 0
+B
+B B
+
+3 3 1
+W B W
+W W B
+W
+Test 57
+5 2 4
+B W W B B
+B B
+B W B B
+5 1 2
+B W B B W
+W
+B B
+Test 58
+1 5 0
+B
+B W B W W
+
+5 3 5
+B W W B B
+W B B
+B W W B W
+Test 59
+5 5 1
+B W W W W
+W B B W B
+W
+2 2 3
+W B
+B B
+B B W
+Test 60
+4 4 5
+B W B W
+B W W W
+W W W B W
+0 2 1
+
+B W
+W
+Test 61
+2 1 4
+W W
+B
+W B B B
+3 2 5
+B W W
+B W
+W B B W W
+Test 62
+5 5 2
+W W W W B
+W W W W B
+B B
+5 2 5
+W B W W B
+W B
+B W W B W
+Test 63
+0 5 2
+
+W B W B W
+W W
+2 1 3
+B B
+W
+B W W
+Test 64
+2 3 1
+B B
+B W W
+W
+1 3 4
+B
+W B W
+W W B B
+Test 65
+3 4 0
+W B W
+W B W W
+
+0 2 0
+
+W W
+
+Test 66
+1 5 0
+B
+B B W B B
+
+3 4 0
+B W W
+W B B W
+
+Test 67
+2 0 3
+B W
+
+B B B
+4 5 3
+B W W B
+B B B B B
+B W W
+Test 68
+0 0 2
+
+
+B W
+5 0 2
+B W W B B
+
+B B
+Test 69
+4 0 2
+B B W B
+
+W B
+1 5 4
+W
+B B B B W
+W B W B
+Test 70
+0 1 2
+
+B
+B B
+3 4 5
+W B W
+B W W B
+W B W W W
+Test 71
+5 4 4
+W B W B B
+B B W W
+W B B B
+3 1 4
+B B B
+B
+W B B W
+Test 72
+1 0 3
+W
+
+W B W
+2 4 0
+B W
+W B W B
+
+Test 73
+5 4 5
+W W B B W
+B W W B
+W W B B B
+5 0 2
+W B W W W
+
+B W
+Test 74
+3 5 2
+W W B
+B B W B W
+B B
+0 0 4
+
+
+W B B B
+Test 75
+3 0 1
+W B B
+
+B
+3 4 4
+B B W
+B W B W
+B B B B
+Test 76
+4 4 1
+W W W W
+W W B W
+W
+2 2 1
+W B
+B W
+W
+Test 77
+3 0 2
+W B B
+
+W W
+3 3 3
+W W B
+W B B
+W W W
+Test 78
+3 0 0
+W B B
+
+
+2 0 0
+W W
+
+
+Test 79
+3 4 5
+W W B
+B B W W
+W B B B B
+0 5 1
+
+B B B B B
+B
+Test 80
+0 0 3
+
+
+W B W
+3 2 3
+B W B
+B B
+B W B
+Test 81
+5 2 5
+W B W B W
+W W
+W W B B W
+3 4 2
+B B B
+W B W W
+W W
+Test 82
+0 5 5
+
+W W W W B
+B W B W B
+4 5 0
+B W W B
+B W B B B
+
+Test 83
+4 5 0
+B B W W
+B W W B W
+
+5 3 5
+W B W W W
+B B B
+B B W B B
+Test 84
+2 1 5
+W W
+W
+W W W B W
+4 1 5
+W B W W
+B
+B B B W W
+Test 85
+4 2 4
+W W B B
+B W
+W B W B
+0 3 5
+
+B B W
+B B W B B
+Test 86
+4 4 4
+W W B B
+B B W B
+B B W B
+3 0 3
+B B B
+
+B B W
+Test 87
+1 5 0
+B
+W W B W W
+
+2 0 2
+W W
+
+B W
+Test 88
+1 1 1
+W
+W
+B
+1 5 0
+B
+W W W B B
+
+Test 89
+4 0 2
+W W W B
+
+B W
+3 3 3
+W W W
+W W B
+W W B
+Test 90
+1 4 5
+B
+B W W B
+B W W B B
+1 5 5
+B
+B W B W B
+B B W B B
+Test 91
+3 5 3
+B B W
+B W W W W
+B W B
+1 4 1
+W
+W W B W
+W
+Test 92
+2 2 3
+B W
+W B
+W B B
+0 4 5
+
+W W B W
+B B B W B
+Test 93
+1 3 2
+W
+B B W
+B W
+2 4 1
+W W
+B W W B
+B
+Test 94
+4 2 4
+W W W W
+W B
+B W W B
+3 5 1
+B B W
+B W W B B
+B
+Test 95
+5 4 2
+B B W B B
+W W W W
+W B
+1 2 1
+W
+B W
+W
+Test 96
+2 1 3
+W B
+W
+B W W
+0 2 1
+
+B B
+B
+Test 97
+4 0 3
+W W B B
+
+B B B
+5 0 5
+W W W W W
+
+B W B B B
+Test 98
+1 1 0
+W
+W
+
+1 0 1
+B
+
+B
+Test 99
+0 4 5
+
+B W B W
+B W B B B
+4 4 1
+B W W B
+B B B B
+W
+Test 100
+5 5 1
+B B B W W
+B B B W W
+W
+1 1 5
+W
+W
+B B W W B
+Test 101
+3 2 2
+B W B
+B B
+B B
+2 5 2
+W W
+W B B W W
+B W
+Test 102
+3 4 4
+W W W
+B B W B
+B B B W
+1 2 1
+B
+W W
+W
+Test 103
+5 1 5
+B W W W B
+B
+B B W W B
+2 1 4
+B B
+W
+W B W W
+Test 104
+2 3 0
+B W
+W W W
+
+5 0 2
+B W W W B
+
+B W
+Test 105
+2 5 4
+W B
+W W B B B
+B B W W
+5 3 2
+W B B W B
+B B B
+B B
+Test 106
+2 5 5
+B B
+B B W W W
+B B W B B
+0 4 5
+
+W B W B
+B B W B W
+Test 107
+1 0 0
+B
+
+
+5 2 0
+W W W B B
+W W
+
+Test 108
+2 2 3
+B W
+B B
+W B B
+1 1 5
+W
+W
+B W B B W
+Test 109
+5 5 3
+B B B B B
+W B B W W
+W W W
+1 4 0
+W
+B W W W
+
+Test 110
+1 1 1
+B
+B
+W
+3 3 2
+W B W
+B W B
+W W
+Test 111
+1 1 4
+W
+W
+W W W B
+1 2 3
+B
+B W
+W B B
+Test 112
+5 5 4
+W B W W B
+W B B W W
+B B B W
+1 3 4
+B
+W W B
+W B W W
+Test 113
+3 5 3
+B W B
+W B W B B
+B B W
+2 3 2
+W B
+W W W
+B B
+Test 114
+5 3 5
+B B W W W
+B W W
+B W W W B
+3 0 4
+B B B
+
+B B B W
+Test 115
+1 0 0
+B
+
+
+5 4 0
+B B B B B
+B W B W
+
+Test 116
+2 5 2
+W W
+B B W B W
+W B
+0 0 4
+
+
+B B W B
+Test 117
+4 0 0
+B B W W
+
+
+2 3 4
+B B
+W W B
+B B B B
+Test 118
+1 2 1
+W
+W W
+W
+5 4 5
+B B W B W
+W W W W
+B W W W B
+Test 119
+5 5 4
+W B W W W
+W B W W B
+B W W B
+5 4 3
+B B B W W
+B W W B
+W B W
+Test 120
+1 0 4
+B
+
+B W B B
+4 5 2
+B B W B
+W B W W B
+B B
+Test 121
+0 4 3
+
+W W B W
+B B B
+5 5 0
+W B W B W
+B W B B W
+
+Test 122
+5 5 5
+W W W W B
+W W B B W
+B W B B B
+1 2 3
+B
+W W
+B W B
+Test 123
+1 2 4
+B
+B W
+W W W B
+0 3 5
+
+W W W
+W B W B B
+Test 124
+5 3 1
+B W B B B
+B W W
+B
+3 0 0
+B B B
+
+
+Test 125
+1 2 2
+W
+W W
+B B
+4 0 1
+B B W W
+
+W
+Test 126
+4 0 2
+B W B B
+
+B W
+1 3 2
+W
+W B B
+W W
+Test 127
+2 2 4
+W B
+W W
+W B W B
+5 4 1
+W B B W B
+W W B W
+B
+Test 128
+5 4 1
+W B B W W
+W B B W
+B
+5 5 5
+W W W W W
+W B W B W
+W W W W B
+Test 129
+1 5 4
+W
+B B B W B
+W B B B
+2 0 4
+B B
+
+W B B B
+Test 130
+1 5 2
+W
+B B B W W
+W B
+2 4 5
+W W
+B B B B
+W B B B B
+Test 131
+4 2 3
+B W W W
+W B
+W B W
+1 3 5
+W
+B B W
+W B W B W
+Test 132
+2 0 2
+W W
+
+B B
+2 2 3
+W W
+W W
+W W B
+Test 133
+4 0 2
+B B B W
+
+W B
+3 2 3
+B B B
+B B
+B B W
+Test 134
+4 2 1
+W B W B
+B B
+B
+5 3 1
+W B B W W
+W B B
+W
+Test 135
+5 2 2
+B B W W B
+B W
+W W
+0 5 3
+
+B B B W W
+B B B
+Test 136
+5 5 3
+B W B W W
+B W B W B
+W B W
+4 0 2
+W W W B
+
+W W
+Test 137
+4 1 2
+W W B B
+B
+B B
+1 1 1
+W
+B
+B
+Test 138
+2 4 0
+B B
+W B B W
+
+1 0 4
+W
+
+B W W B
+Test 139
+0 5 1
+
+B B B B B
+W
+5 1 2
+W W W W W
+W
+W B
+Test 140
+2 2 3
+B W
+W B
+W W B
+1 0 1
+W
+
+B
+Test 141
+0 2 3
+
+W B
+W B B
+5 5 2
+B B B W W
+W W W W W
+B B
+Test 142
+1 0 4
+B
+
+B B W W
+5 0 5
+W B B W B
+
+W W B W W
+Test 143
+0 3 2
+
+B W W
+W B
+2 4 0
+W W
+W W B W
+
+Test 144
+0 5 0
+
+W W B B W
+
+5 1 2
+W B W W W
+B
+B B
+Test 145
+5 5 5
+W B W W B
+B B W W W
+W W W B W
+4 5 0
+W B B W
+B B B B B
+
+Test 146
+1 5 3
+W
+W W W B W
+W W B
+3 2 3
+B W B
+W B
+W W W
+Test 147
+1 2 4
+W
+B B
+B W B W
+2 4 0
+B B
+W B W W
+
+Test 148
+2 3 1
+W W
+B B W
+B
+1 2 2
+B
+W W
+W B
+Test 149
+2 2 5
+B B
+B W
+W B W B B
+5 0 4
+B W B W B
+
+B W B B
+Test 150
+2 4 4
+W W
+W W B W
+W W B B
+5 0 0
+B B W B W
+
+
+Test 151
+5 3 5
+B W W W W
+B W W
+B W B W B
+3 4 2
+W W W
+W W B W
+B B
+Test 152
+5 4 0
+W W W B B
+W W W W
+
+3 1 4
+B B W
+B
+W B W W
+Test 153
+3 5 2
+B B W
+B B W B B
+B W
+2 2 0
+W W
+W W
+
+Test 154
+0 3 3
+
+W B B
+W W B
+0 5 3
+
+B B B B W
+W W B
+Test 155
+4 1 5
+B W W W
+W
+W W B W W
+3 2 3
+W B W
+W B
+W W W
+Test 156
+5 3 5
+B W W W B
+W W B
+W B B W B
+3 1 4
+B B W
+B
+W W W W
+Test 157
+5 1 3
+W B W W W
+W
+W B B
+4 3 3
+B W W B
+B W W
+B B B
+Test 158
+2 2 2
+W W
+W B
+W B
+4 1 0
+W B W W
+W
+
+Test 159
+2 4 0
+W W
+B B B B
+
+5 1 1
+W W W W W
+W
+W
+Test 160
+4 0 1
+W B B W
+
+W
+3 1 0
+W W W
+B
+
+Test 161
+0 2 2
+
+B W
+B W
+1 4 3
+B
+W W B B
+W B W
+Test 162
+0 4 0
+
+W W B B
+
+1 1 3
+B
+B
+W B B
+Test 163
+1 2 5
+B
+B W
+B B W B B
+2 2 3
+B W
+W W
+B B W
+Test 164
+3 4 4
+B B B
+B W W B
+B W B W
+1 1 2
+W
+B
+W B
+Test 165
+5 3 0
+B B W B W
+B W B
+
+3 0 1
+B B W
+
+B
+Test 166
+2 5 5
+W W
+B W W W B
+W B B B W
+2 2 1
+B B
+W W
+B
+Test 167
+4 5 3
+W W B B
+W W W W W
+B B W
+3 5 2
+W B B
+B B W W B
+B B
+Test 168
+3 5 2
+B B W
+W W W B B
+W B
+4 1 0
+W W B W
+B
+
+Test 169
+2 1 5
+B W
+W
+B B W B B
+2 1 2
+B W
+B
+W B
+Test 170
+3 0 2
+B B W
+
+W B
+5 5 0
+W B W W B
+B B W B B
+
+Test 171
+1 1 2
+B
+B
+B W
+2 3 4
+W W
+B W W
+W W B B
+Test 172
+3 3 1
+W W W
+B B B
+B
+1 4 0
+B
+W W W B
+
+Test 173
+2 0 1
+B B
+
+B
+3 5 0
+B B B
+W W W W B
+
+Test 174
+4 1 0
+W B B B
+B
+
+5 2 1
+W W W B B
+W B
+B
+Test 175
+5 2 3
+W B W B B
+W B
+W B W
+4 5 4
+B B B B
+B W B B W
+W B W W
+Test 176
+3 2 5
+W W B
+B W
+B B B W B
+2 4 3
+W B
+B W W B
+B B W
+Test 177
+4 0 2
+B W B W
+
+W W
+4 2 3
+B B B B
+W W
+W W B
+Test 178
+2 0 5
+B B
+
+W W B B W
+4 4 4
+W B W W
+B B W W
+B B W B
+Test 179
+1 4 4
+B
+W W W B
+B B B B
+5 3 5
+B B B B B
+W B W
+W B W B B
+Test 180
+5 0 4
+B B W W W
+
+W W B W
+5 2 2
+W B B W B
+W W
+W W
+Test 181
+4 3 2
+W W B B
+W W W
+B B
+1 3 3
+B
+W W W
+B B W
+Test 182
+1 0 2
+W
+
+B W
+3 5 1
+W B B
+W B B W B
+B
+Test 183
+5 0 0
+W B B B W
+
+
+3 2 0
+B W W
+B B
+
+Test 184
+3 5 0
+W B W
+B B B B B
+
+5 0 5
+B W B B B
+
+B B B W B
+Test 185
+3 3 4
+W B W
+B W B
+B B B W
+2 4 0
+B B
+W B B B
+
+Test 186
+2 4 2
+B B
+W B W W
+W B
+5 2 4
+W B W B W
+W B
+W B W W
+Test 187
+2 2 1
+B W
+W W
+W
+2 0 0
+W W
+
+
+Test 188
+3 4 3
+W W B
+W B W B
+W B B
+5 3 4
+W B B B W
+B W W
+W B B W
+Test 189
+3 0 4
+B B B
+
+B W B B
+1 1 2
+B
+W
+W W
+Test 190
+4 1 0
+W W B W
+W
+
+4 3 2
+B B W B
+B B B
+W B
+Test 191
+3 0 1
+W B W
+
+W
+0 4 0
+
+W W W W
+
+Test 192
+0 5 2
+
+W W B W W
+W B
+4 3 3
+W W W B
+W B B
+W W W
+Test 193
+2 3 4
+W W
+W W W
+W B W B
+1 2 2
+W
+W W
+B B
+Test 194
+0 1 4
+
+B
+B B B B
+2 3 5
+B B
+W W W
+B W B W W
+Test 195
+0 1 5
+
+B
+B W B W W
+2 5 3
+B W
+B W B B B
+W B B
+Test 196
+1 5 1
+B
+B W B W W
+B
+3 5 4
+B B B
+B W B W B
+B W B B
+Test 197
+1 2 1
+W
+W W
+B
+4 3 4
+B W W W
+W B B
+B W B W
+Test 198
+5 0 2
+W B B W B
+
+B B
+4 3 5
+B W B B
+W B W
+W W W B W
+Test 199
+3 0 1
+W W W
+
+B
+5 4 3
+B W B W W
+W B B W
+W B W
+Test 200
+4 0 1
+B W B B
+
+W
+5 0 2
+W B W B B
+
+B B
+Test 201
+2 5 0
+B W
+B B B W B
+
+0 5 1
+
+W B B B B
+B
+Test 202
+0 0 5
+
+
+W W B W W
+5 2 0
+B W B W B
+B B
+
+Test 203
+4 1 0
+B W W W
+B
+
+0 4 5
+
+B W B B
+W W W W W
+Test 204
+1 2 5
+B
+B W
+W B B B B
+3 1 4
+B B W
+B
+W W W B
+Test 205
+4 0 4
+B B W B
+
+W W B W
+1 5 4
+W
+W B W B W
+B W B W
+Test 206
+4 5 5
+B W B B
+B W B B W
+W B B B W
+5 0 2
+B B B W B
+
+W W
+Test 207
+5 1 5
+B B B B W
+B
+B B W W B
+1 4 4
+B
+B B W B
+W W B W
+Test 208
+4 5 1
+W W W B
+W B B W B
+W
+1 0 1
+W
+
+B
+Test 209
+0 3 4
+
+B B B
+B B W W
+5 0 4
+W W W B W
+
+W W B B
+Test 210
+3 3 4
+W W W
+B W B
+B B W W
+3 0 1
+W W B
+
+B
+Test 211
+1 1 1
+W
+B
+W
+1 0 1
+W
+
+B
+Test 212
+1 4 4
+B
+W W B B
+W B W B
+5 3 4
+B W B W B
+W B B
+W W W B
+Test 213
+0 2 5
+
+B W
+W W W W W
+4 5 5
+W W B B
+B W W W B
+B B B W B
+Test 214
+1 3 0
+B
+W W B
+
+0 0 5
+
+
+B B B W W
+Test 215
+0 0 3
+
+
+W B B
+0 1 0
+
+W
+
+Test 216
+2 1 5
+B W
+B
+B B W B W
+3 0 0
+B B B
+
+
+Test 217
+2 0 2
+W W
+
+W W
+4 1 0
+W W W B
+W
+
+Test 218
+3 1 5
+W W W
+W
+B B W B B
+4 3 0
+W W B W
+W W B
+
+Test 219
+3 0 1
+W W W
+
+W
+3 1 3
+B B B
+B
+B W B
+Test 220
+1 0 2
+W
+
+W B
+0 2 2
+
+W B
+W B
+Test 221
+0 4 1
+
+W B B B
+W
+2 1 5
+B W
+B
+W B W B B
+Test 222
+0 0 3
+
+
+B B W
+4 0 1
+B W W W
+
+W
+Test 223
+5 5 2
+B W W W W
+W B B B W
+W W
+4 2 4
+W B W B
+W B
+W W B B
+Test 224
+1 1 4
+B
+B
+W B W W
+5 5 0
+B B W B W
+W B W B B
+
+Test 225
+4 0 1
+B W B B
+
+B
+1 3 1
+B
+W W B
+W
+Test 226
+4 2 2
+W B W W
+W B
+W W
+3 5 2
+W W W
+B W B W W
+B W
+Test 227
+3 5 1
+B W W
+W B B B W
+W
+3 0 2
+B B W
+
+B B
+Test 228
+5 2 2
+W B B W B
+B B
+B W
+5 3 4
+B W W B B
+B B W
+W W W B
+Test 229
+3 5 2
+W W B
+W W W B W
+W W
+3 0 4
+W W W
+
+B W W B
+Test 230
+4 1 0
+B B W W
+B
+
+3 0 3
+W B B
+
+W W B
+Test 231
+5 4 1
+B B B W B
+W W W B
+B
+1 3 1
+W
+W W W
+W
+Test 232
+1 5 1
+B
+B B B B W
+W
+0 2 2
+
+W B
+B W
+Test 233
+3 2 3
+B B B
+W W
+W B B
+0 2 2
+
+W B
+W B
+Test 234
+0 3 3
+
+B W W
+W W W
+5 5 2
+B B B W B
+W W B W W
+B W
+Test 235
+4 3 2
+B B W W
+B B B
+W B
+5 2 5
+B W W B W
+B B
+W W W W W
+Test 236
+2 3 3
+W B
+W W B
+W W B
+1 2 0
+W
+W B
+
+Test 237
+0 1 2
+
+B
+W B
+5 1 0
+B W W W W
+W
+
+Test 238
+4 2 5
+W B W W
+B W
+B B W B B
+4 5 4
+B B B W
+B B W B W
+W B W W
+Test 239
+5 4 0
+B W W W W
+W W B B
+
+4 3 5
+W W B W
+B W W
+W W W B W
+Test 240
+3 4 5
+W B B
+B W W W
+B W B W W
+5 0 5
+W B B B B
+
+B B B B B
+Test 241
+4 4 4
+W W B B
+B W W B
+W B B W
+0 5 2
+
+W B W W W
+W W
+Test 242
+5 5 2
+W W W B W
+B B B W W
+B B
+1 0 5
+B
+
+B B W B W
+Test 243
+3 4 4
+B W W
+B W B W
+B W B W
+3 4 1
+W W W
+W W W B
+B
+Test 244
+1 4 3
+B
+B B W B
+B W W
+3 4 1
+W W W
+W B B B
+B
+Test 245
+3 3 5
+W W B
+W W W
+W W B W W
+5 3 2
+W B B B B
+W W B
+W W
+Test 246
+4 3 4
+W B W B
+W B W
+W B B W
+4 0 2
+W W W W
+
+B B
+Test 247
+4 4 5
+B B B B
+W W B W
+B B B W W
+3 0 5
+W W W
+
+W W W B B
+Test 248
+2 5 5
+B B
+W W W W B
+W W W B B
+2 5 5
+B B
+B B W W W
+B B W W W
+Test 249
+5 4 4
+W B W W B
+B B B W
+B B W B
+1 0 0
+B
+
+
+Test 250
+3 2 1
+W W B
+W B
+W
+0 0 0
+
+
+
+Test 251
+2 1 5
+W B
+W
+B W B W W
+1 5 2
+W
+W W B W W
+W W
+Test 252
+0 5 4
+
+B B B B B
+W W B W
+3 0 1
+B W W
+
+B
+Test 253
+5 2 0
+W B W B W
+B W
+
+4 2 3
+B W W W
+B B
+W B W
+Test 254
+0 4 2
+
+W B B W
+B B
+2 1 0
+B B
+B
+
+Test 255
+1 2 1
+B
+B B
+W
+2 0 1
+W W
+
+B
+Test 256
+3 4 0
+W B B
+B W B B
+
+0 5 1
+
+B B B W W
+B
+Test 257
+3 5 2
+W W W
+B B W B B
+W W
+1 5 4
+W
+W B B W B
+B B B W
+Test 258
+3 2 5
+W W W
+W B
+W B W W B
+5 5 3
+B B W W B
+W W W B B
+B B B
+Test 259
+1 4 2
+W
+B W B W
+W W
+4 5 1
+B B W B
+W W W W B
+B
+Test 260
+2 4 5
+W B
+W W W B
+W W W W W
+2 1 5
+W B
+W
+B W W B B
+Test 261
+5 4 0
+W B W W B
+W W W W
+
+0 1 1
+
+W
+B
+Test 262
+5 3 2
+B W W W B
+W B W
+B B
+4 0 4
+W B B B
+
+B B B W
+Test 263
+0 2 5
+
+B B
+B B B B W
+1 0 3
+B
+
+W B W
+Test 264
+4 3 1
+W W W B
+W W B
+W
+4 0 2
+W W B B
+
+B B
+Test 265
+5 1 1
+W B W B B
+W
+W
+0 5 5
+
+B B B B B
+B B W B B
+Test 266
+4 2 1
+W W W W
+B W
+W
+2 1 5
+W B
+B
+W W B W B
+Test 267
+3 1 5
+B W W
+B
+B B B B W
+0 0 0
+
+
+
+Test 268
+2 1 3
+B B
+W
+B W W
+5 0 5
+W W B B B
+
+W W W B W
+Test 269
+2 0 1
+W B
+
+B
+1 0 5
+B
+
+W B B W B
+Test 270
+2 2 4
+B W
+W B
+B B W W
+2 4 1
+B B
+B B W B
+W
+Test 271
+4 5 3
+W W B B
+B B B B W
+W B W
+0 5 4
+
+W W W B B
+B W B B
+Test 272
+5 2 3
+B W W B B
+W B
+B B B
+0 2 3
+
+B B
+B B W
+Test 273
+2 0 1
+W W
+
+W
+2 4 3
+W B
+W B B B
+B B W
+Test 274
+4 5 5
+B W B W
+B W B B B
+B B B W W
+4 1 0
+B B B B
+B
+
+Test 275
+4 3 1
+B B W W
+B W W
+B
+4 2 3
+B W W W
+W W
+B B W
+Test 276
+0 4 1
+
+W B B W
+B
+0 4 4
+
+B W W B
+W B B W
+Test 277
+4 1 1
+W W W W
+B
+W
+2 4 4
+B W
+W B W B
+B W W B
+Test 278
+3 0 5
+B W W
+
+B B W B B
+2 0 0
+B W
+
+
+Test 279
+0 5 4
+
+W W B B W
+W B B W
+1 4 0
+W
+B B W B
+
+Test 280
+2 0 3
+B W
+
+W B W
+0 2 4
+
+W B
+W B W W
+Test 281
+4 5 3
+B W W B
+B W B W W
+B B B
+1 2 0
+B
+B B
+
+Test 282
+2 5 0
+B W
+W W B W W
+
+2 3 4
+W W
+B B W
+W W B B
+Test 283
+2 4 0
+B B
+B B W B
+
+2 2 2
+B W
+B B
+B W
+Test 284
+3 4 2
+W B B
+B B W B
+W W
+4 1 1
+W W B W
+B
+B
+Test 285
+5 0 0
+B B B B W
+
+
+2 0 3
+B W
+
+B W W
+Test 286
+2 3 1
+B W
+W B W
+W
+1 0 1
+W
+
+B
+Test 287
+3 0 0
+W W B
+
+
+0 4 2
+
+W B B W
+W W
+Test 288
+5 0 1
+B B B W W
+
+B
+4 3 1
+W W B B
+B W W
+W
+Test 289
+4 5 5
+B W B B
+B W B B W
+B B B B W
+1 2 2
+W
+W W
+B B
+Test 290
+4 4 3
+B B W B
+B W B W
+W B B
+1 2 3
+W
+W W
+B B W
+Test 291
+3 2 4
+W W B
+B W
+W W W B
+4 1 1
+W W W B
+B
+B
+Test 292
+3 1 2
+B B W
+B
+B W
+3 5 1
+W B W
+B B B B W
+W
+Test 293
+2 3 2
+B B
+W W W
+W B
+5 5 4
+W B B B W
+W B W B B
+B W W B
+Test 294
+5 5 0
+W B B W W
+B W W B W
+
+4 0 2
+B B W W
+
+W W
+Test 295
+4 1 0
+B W B B
+W
+
+5 3 1
+B W W B B
+B B B
+W
+Test 296
+3 2 5
+W B B
+B B
+B W W W B
+3 2 0
+W B B
+W B
+
+Test 297
+5 0 5
+W B B B B
+
+W W W W W
+1 2 2
+W
+W B
+B B
+Test 298
+2 2 4
+B B
+W W
+B W W B
+1 3 0
+B
+W B B
+
+Test 299
+2 4 5
+W B
+W B B W
+W B B W W
+4 2 0
+W B W B
+W B
+
+Test 300
+3 0 1
+B B B
+
+W
+3 3 3
+B B W
+B W W
+B W B
+Test 301
+4 3 1
+B W W B
+B W W
+W
+3 4 4
+W W B
+B B B W
+W B W B
+Test 302
+0 3 1
+
+W B B
+B
+2 3 3
+W B
+W W W
+W B B
+Test 303
+1 3 0
+W
+W W W
+
+0 0 0
+
+
+
+Test 304
+4 3 3
+W B W W
+B W B
+B B W
+4 3 5
+W W W W
+B B W
+W B W W W
+Test 305
+5 2 2
+W W W W W
+B B
+W W
+4 2 3
+B W W W
+W W
+B W W
+Test 306
+4 1 1
+B W B W
+W
+B
+3 4 5
+B W W
+B B B B
+B W W B B
+Test 307
+5 3 4
+W W B B B
+W W W
+B B B W
+3 2 3
+W B B
+W W
+B B B
+Test 308
+3 4 3
+W B B
+B B W B
+B B W
+4 3 0
+W W W W
+W W W
+
+Test 309
+1 1 1
+W
+B
+W
+3 4 1
+W W B
+W W W B
+W
+Test 310
+1 3 2
+B
+B B W
+W B
+4 4 0
+B W B W
+B W W W
+
+Test 311
+3 0 1
+B B B
+
+B
+0 2 1
+
+B W
+B
+Test 312
+1 1 4
+W
+B
+B B B W
+0 1 5
+
+W
+W W W W W
+Test 313
+3 4 4
+B W W
+W W W W
+W B B B
+3 1 0
+W B W
+W
+
+Test 314
+3 5 1
+W B W
+W W W B W
+B
+3 4 4
+B B B
+W B B W
+W B B W
+Test 315
+0 3 0
+
+B W W
+
+0 0 2
+
+
+B W
+Test 316
+3 2 3
+W B W
+W B
+W B B
+1 5 5
+B
+W W W W W
+W B W W W
+Test 317
+5 5 0
+B W W B W
+B B W B W
+
+3 0 0
+W B W
+
+
+Test 318
+1 4 5
+B
+B B W W
+B W B B B
+3 2 1
+W B W
+B W
+B
+Test 319
+1 5 3
+W
+B B B W B
+B B W
+0 5 1
+
+B W W B B
+W
+Test 320
+2 3 3
+B W
+W B W
+B B W
+0 4 1
+
+B B W B
+W
+Test 321
+4 0 0
+B B W B
+
+
+4 1 5
+B W B B
+B
+B B B B B
+Test 322
+1 4 0
+W
+B W B B
+
+2 5 5
+B B
+W W W W B
+W B W W B
+Test 323
+4 0 5
+B B B B
+
+W B B W W
+2 2 1
+B W
+B B
+W
+Test 324
+3 2 1
+B W W
+B B
+W
+3 3 0
+B B W
+B W B
+
+Test 325
+5 1 5
+W W B B B
+B
+W W B B W
+5 5 3
+W W W W W
+B B B B B
+B B W
+Test 326
+5 5 4
+W B B W W
+B B B B B
+W B W W
+4 0 1
+W W B W
+
+B
+Test 327
+4 4 0
+W W B B
+W W B W
+
+4 3 3
+B W W B
+B W W
+W B B
+Test 328
+5 4 3
+B W B W B
+B B B W
+B W W
+5 2 4
+B B W W B
+B W
+W B W B
+Test 329
+4 0 0
+W W B W
+
+
+0 0 0
+
+
+
+Test 330
+3 1 0
+W B B
+W
+
+4 4 3
+W B W B
+B W W B
+W W W
+Test 331
+4 5 1
+B B W W
+W W B B B
+B
+2 5 3
+W W
+W B W B B
+B W B
+Test 332
+1 5 5
+B
+W B W W W
+B B B B B
+0 3 0
+
+B W W
+
+Test 333
+5 0 4
+B B W W B
+
+W B B W
+4 4 1
+W B B B
+W B B B
+W
+Test 334
+2 5 0
+W W
+B W B B W
+
+2 1 2
+W W
+W
+B B
+Test 335
+2 0 0
+B W
+
+
+1 1 0
+B
+B
+
+Test 336
+5 5 2
+W B W B W
+B W B W W
+W W
+4 1 2
+W B B W
+W
+W B
+Test 337
+1 4 0
+W
+W W B B
+
+0 1 2
+
+W
+B B
+Test 338
+3 4 1
+B B B
+B W W W
+B
+1 2 2
+W
+B B
+B W
+Test 339
+5 3 2
+B W B B W
+B W W
+W W
+4 2 1
+B B B B
+B B
+B
+Test 340
+4 2 2
+B B W W
+W W
+B B
+1 5 5
+B
+W W B B B
+B W B B B
+Test 341
+0 1 3
+
+W
+W B B
+3 5 5
+W B B
+B B W B W
+B B W W B
+Test 342
+2 4 0
+W W
+B W B W
+
+5 3 0
+B B W W W
+W B B
+
+Test 343
+3 0 3
+B W W
+
+B B W
+3 5 5
+B B B
+W B W W B
+B W B W B
+Test 344
+1 4 4
+W
+W B W B
+W B B W
+4 0 3
+B B W B
+
+B W B
+Test 345
+2 0 2
+B W
+
+B W
+2 0 0
+B B
+
+
+Test 346
+3 1 4
+B W B
+W
+B B W W
+3 2 3
+B B W
+B W
+B B W
+Test 347
+1 2 3
+W
+B W
+B W W
+2 0 1
+B W
+
+B
+Test 348
+3 0 2
+B W B
+
+W W
+4 2 0
+W B W W
+B B
+
+Test 349
+2 0 5
+W B
+
+W B B W W
+1 1 1
+W
+B
+W
+Test 350
+4 1 0
+W W W W
+W
+
+5 5 2
+B B B B B
+W B W B W
+W B
+Test 351
+5 0 1
+B W B W W
+
+B
+4 1 4
+B W B W
+W
+B W B W
+Test 352
+0 4 4
+
+B W B B
+B B B B
+4 3 5
+W W B W
+B B W
+W B B B W
+Test 353
+1 5 4
+W
+W W B W W
+B B W B
+1 4 2
+W
+W B B B
+W W
+Test 354
+3 0 5
+B W B
+
+B W W B W
+3 5 5
+W W B
+W W B B W
+W B W B B
+Test 355
+3 2 0
+W B W
+B B
+
+3 5 3
+B W W
+W B B W B
+B W B
+Test 356
+5 0 5
+B B B W W
+
+B B W B B
+1 5 3
+B
+B W W B W
+W W W
+Test 357
+2 4 3
+W B
+B W W W
+B W B
+1 5 3
+W
+B B W B W
+B B B
+Test 358
+2 5 2
+B B
+W W B B W
+W B
+4 0 4
+B W B B
+
+W B B B
+Test 359
+1 0 3
+B
+
+W B W
+3 1 1
+W W W
+W
+B
+Test 360
+3 0 1
+W B B
+
+B
+3 1 4
+B B B
+W
+W B B B
+Test 361
+1 5 4
+B
+B B W B W
+W W W B
+5 1 0
+W B B W W
+W
+
+Test 362
+3 3 2
+W B B
+W W W
+B W
+0 4 5
+
+W B W B
+B W B B B
+Test 363
+3 0 5
+B B W
+
+B W W B B
+1 0 2
+W
+
+B W
+Test 364
+0 1 1
+
+B
+W
+0 2 5
+
+W B
+B B B B B
+Test 365
+1 3 5
+W
+W W B
+W W B B B
+4 3 4
+W B W W
+B W B
+B W W B
+Test 366
+1 5 4
+B
+B W B B B
+W W B W
+1 1 3
+W
+B
+B B B
+Test 367
+5 2 0
+B W B B W
+W W
+
+2 3 3
+W B
+W W W
+B W B
+Test 368
+0 5 1
+
+W B W W W
+B
+0 3 2
+
+B W B
+B B
+Test 369
+5 3 1
+B W B B W
+B W W
+W
+4 2 1
+W W B W
+B W
+W
+Test 370
+2 1 0
+B W
+W
+
+0 5 5
+
+W W W B W
+B B B B W
+Test 371
+4 3 1
+W W W W
+W B W
+B
+2 1 4
+B B
+W
+W W B W
+Test 372
+4 0 2
+B B W W
+
+W B
+1 2 0
+W
+W B
+
+Test 373
+2 2 4
+W B
+B B
+B W B B
+5 3 2
+W W B B W
+B W B
+W W
+Test 374
+1 1 2
+B
+W
+B B
+2 0 3
+W W
+
+B W B
+Test 375
+2 5 3
+B W
+B B B B W
+B W W
+4 5 4
+W B B W
+B W W W W
+B B B W
+Test 376
+1 1 2
+W
+B
+B W
+3 3 0
+B W B
+B B B
+
+Test 377
+3 5 2
+W W W
+B B B W W
+B W
+2 0 0
+B W
+
+
+Test 378
+5 0 0
+B B W W B
+
+
+3 5 4
+B B B
+B B W W W
+W W B W
+Test 379
+4 4 0
+B B B W
+B W W B
+
+5 4 4
+B B B W W
+W B B W
+B W W W
+Test 380
+5 0 4
+W W W B W
+
+B W W B
+5 3 3
+W B W B B
+W W W
+B B W
+Test 381
+5 5 1
+B W B W B
+W B W B W
+W
+5 1 4
+B W B W B
+W
+W W B W
+Test 382
+4 0 3
+B B B B
+
+W W B
+1 1 2
+W
+W
+W W
+Test 383
+1 3 1
+W
+B B W
+B
+0 1 3
+
+W
+B B W
+Test 384
+1 1 0
+B
+B
+
+0 5 0
+
+W B B W W
+
+Test 385
+4 1 3
+W W B B
+B
+W W W
+4 5 0
+B B B W
+W W W W B
+
+Test 386
+1 1 3
+W
+W
+W B W
+3 0 5
+B B W
+
+W B B B B
+Test 387
+3 2 1
+W W W
+B W
+W
+3 2 1
+W B W
+B W
+W
+Test 388
+0 2 3
+
+W W
+W B B
+1 3 4
+B
+B W B
+W B W B
+Test 389
+1 3 5
+W
+W W B
+B B B B W
+4 1 3
+W B W W
+B
+W W B
+Test 390
+4 0 0
+W B B W
+
+
+0 3 1
+
+B B W
+W
+Test 391
+5 2 3
+B W B W W
+W B
+W W B
+3 3 4
+W B W
+B B B
+B W W W
+Test 392
+1 3 0
+W
+B W B
+
+2 2 0
+W W
+B B
+
+Test 393
+2 5 1
+W W
+W B B W W
+W
+4 1 4
+B B W B
+B
+B W B W
+Test 394
+5 3 4
+W B W W B
+B B B
+W W W W
+0 4 4
+
+W B W B
+W W W W
+Test 395
+4 3 2
+W W B B
+W B W
+B W
+2 4 1
+W W
+B W W W
+W
+Test 396
+0 4 0
+
+B W B W
+
+5 2 3
+W W W W B
+B W
+B B W
+Test 397
+3 3 3
+B B W
+B W B
+B B B
+0 4 4
+
+W W B W
+W B W W
+Test 398
+4 5 4
+B W B W
+B B B B W
+W W W W
+2 2 2
+B B
+W B
+B B
+Test 399
+0 2 0
+
+W B
+
+4 5 2
+B W W W
+W B W B B
+W W
+Test 400
+4 5 2
+B B W B
+W B B W W
+B W
+0 5 4
+
+W B W W B
+B B B W
+Test 401
+5 2 2
+B W W B W
+W W
+B B
+5 2 3
+W W B W B
+B B
+W W B
+Test 402
+4 1 3
+B W W B
+B
+W W B
+1 4 1
+W
+W B B W
+B
+Test 403
+4 5 1
+B B B W
+W W B W B
+B
+3 5 3
+B W W
+W B W B W
+W W W
+Test 404
+5 5 2
+B W B B W
+B B B B W
+B W
+2 2 4
+B B
+W B
+B W W B
+Test 405
+4 3 5
+B W B W
+W W B
+B B B W B
+0 1 5
+
+B
+W W B W B
+Test 406
+0 5 1
+
+B W W W W
+B
+1 0 3
+B
+
+W B W
+Test 407
+2 1 5
+W B
+B
+W B W B W
+0 1 4
+
+W
+B W W W
+Test 408
+4 4 3
+W B B B
+B W B B
+B B B
+1 1 2
+W
+W
+B B
+Test 409
+4 1 1
+B W B W
+B
+W
+5 0 2
+B W W W W
+
+B B
+Test 410
+5 0 4
+B B W B B
+
+W B W B
+5 4 4
+W W B W W
+W W W W
+W B W B
+Test 411
+5 0 2
+B W B B B
+
+W B
+3 4 2
+W W W
+W B B W
+W W
+Test 412
+1 1 2
+W
+B
+B B
+1 3 1
+B
+B W B
+B
+Test 413
+1 0 1
+B
+
+B
+4 4 1
+B W B B
+B B W W
+B
+Test 414
+2 1 5
+W B
+B
+B B W B B
+5 3 0
+B B B W B
+W B W
+
+Test 415
+2 5 1
+W W
+W W W B B
+W
+4 0 1
+W B W B
+
+W
+Test 416
+3 3 1
+W B B
+B W B
+B
+1 4 5
+W
+B B W W
+W B B W B
+Test 417
+1 5 5
+B
+B W B W W
+W W W W W
+1 1 0
+B
+B
+
+Test 418
+3 1 3
+W W W
+B
+B B W
+1 4 4
+B
+B W W B
+B B B B
+Test 419
+2 4 3
+B B
+W B W W
+B W W
+3 3 4
+W W W
+W B W
+W B B B
+Test 420
+2 4 3
+W W
+W W W W
+B B B
+5 3 0
+W W W W B
+W B B
+
+Test 421
+1 5 3
+W
+B B W B B
+W B B
+4 5 2
+W B W B
+W B W B W
+W W
+Test 422
+2 3 2
+B B
+W W W
+W B
+0 5 1
+
+B W B B W
+W
+Test 423
+1 3 4
+W
+B B W
+B B W B
+0 2 0
+
+B B
+
+Test 424
+1 5 1
+B
+B W B B B
+B
+1 1 0
+B
+B
+
+Test 425
+2 3 3
+B W
+W W B
+W W W
+0 2 1
+
+W B
+B
+Test 426
+4 1 2
+B W B B
+W
+B B
+3 2 1
+W W W
+W W
+B
+Test 427
+4 3 5
+W W W B
+B W W
+B B W B B
+4 2 3
+W B B B
+W B
+B B W
+Test 428
+3 1 0
+W W W
+B
+
+5 5 3
+B B B B W
+W W B W W
+B B B
+Test 429
+2 0 5
+B B
+
+B B W W W
+5 0 0
+B W W B B
+
+
+Test 430
+1 5 1
+B
+W B W B B
+B
+3 1 1
+W B B
+B
+B
+Test 431
+5 3 3
+B W B W B
+W B W
+W B W
+3 5 4
+B B B
+B B B W W
+W B B W
+Test 432
+3 0 2
+W W B
+
+B B
+4 2 3
+W W W W
+B W
+W W B
+Test 433
+1 2 5
+B
+W B
+W B W B B
+3 1 0
+B W B
+B
+
+Test 434
+2 0 2
+B B
+
+W W
+5 4 1
+B B B W W
+W W W W
+B
+Test 435
+4 1 2
+B W B W
+B
+B B
+3 0 2
+W B W
+
+W B
+Test 436
+0 1 0
+
+B
+
+1 2 4
+W
+B W
+W W B W
+Test 437
+5 2 0
+B W B B B
+W W
+
+2 5 3
+W W
+W B B B W
+B B B
+Test 438
+5 0 2
+W B W W B
+
+B W
+2 5 5
+B B
+W W W B B
+W B B B W
+Test 439
+4 0 5
+B W B B
+
+B B B W W
+1 1 3
+W
+W
+W B B
+Test 440
+2 2 2
+B W
+B B
+B B
+2 4 0
+W W
+W B B B
+
+Test 441
+0 3 2
+
+W B B
+B B
+0 4 5
+
+B B W B
+W W W B W
+Test 442
+1 1 2
+B
+B
+B W
+3 3 4
+W B W
+B W B
+B W B W
+Test 443
+4 4 1
+B W B B
+B W B B
+W
+0 3 4
+
+B W W
+B B W W
+Test 444
+0 4 2
+
+W B B B
+W B
+3 4 5
+W W W
+B B B B
+B B B B B
+Test 445
+5 4 5
+W W B W B
+B B W B
+B W W W B
+1 5 1
+B
+W B W W W
+W
+Test 446
+1 3 1
+B
+B B W
+W
+2 4 1
+B W
+W W W B
+B
+Test 447
+3 4 0
+B B W
+W W W B
+
+0 0 2
+
+
+B B
+Test 448
+0 1 1
+
+W
+B
+5 4 4
+B W W B B
+B W W W
+B W B B
+Test 449
+0 5 1
+
+B W W B B
+B
+1 4 0
+W
+B W B B
+
+Test 450
+4 0 3
+W W W B
+
+W W W
+2 5 5
+W B
+B W B B W
+B W B B W
+Test 451
+4 0 0
+W W B B
+
+
+2 1 1
+W W
+W
+W
+Test 452
+2 3 1
+W W
+W W W
+W
+4 5 3
+W B B B
+W W B W B
+B B B
+Test 453
+3 0 0
+W W W
+
+
+2 1 1
+W W
+B
+B
+Test 454
+0 1 4
+
+B
+W B W B
+3 3 3
+B B B
+B W W
+B W B
+Test 455
+0 1 3
+
+B
+B W W
+0 5 1
+
+B W B W W
+W
+Test 456
+0 4 1
+
+W B B B
+B
+2 3 2
+B B
+B B B
+W B
+Test 457
+2 0 4
+W W
+
+B W B B
+4 1 1
+B B W B
+B
+B
+Test 458
+0 4 3
+
+W W B W
+B W B
+0 3 2
+
+W B B
+W B
+Test 459
+4 0 3
+W W W W
+
+W B B
+3 5 5
+W W B
+B B W W B
+B W W B W
+Test 460
+5 2 2
+W B B W W
+B B
+W W
+1 4 3
+B
+B W B W
+B W W
+Test 461
+2 3 1
+B W
+W B W
+W
+5 5 3
+B W B W B
+W B W B B
+W W W
+Test 462
+2 3 4
+W B
+B B B
+B B B B
+4 2 0
+B W W W
+W B
+
+Test 463
+3 0 2
+B W W
+
+W B
+2 3 4
+W B
+B B W
+B B W W
+Test 464
+1 3 5
+B
+W B B
+W B W B W
+3 2 1
+W W W
+B W
+W
+Test 465
+1 0 5
+B
+
+W B W W W
+4 0 4
+B W W B
+
+B B B B
+Test 466
+4 4 4
+B B W B
+B W B W
+W W W B
+3 3 2
+W W W
+B B W
+W W
+Test 467
+2 1 2
+W B
+W
+B B
+5 3 4
+B B W B W
+B B B
+W B W B
+Test 468
+4 4 1
+W W W W
+W B B B
+B
+2 2 1
+W W
+B W
+W
+Test 469
+1 4 4
+W
+W B W W
+W W B B
+3 4 4
+B W B
+B W B B
+W W W B
+Test 470
+5 0 4
+W B B B W
+
+B B B W
+3 3 4
+W B W
+W W B
+B B W B
+Test 471
+5 0 4
+B B B W B
+
+B W B B
+3 2 3
+B B W
+B B
+B B W
+Test 472
+2 5 3
+B W
+W W B W W
+B B B
+4 4 0
+B W W W
+B B W B
+
+Test 473
+3 5 5
+B W W
+W W W B B
+W B W W W
+4 2 4
+B B B W
+B W
+W W B W
+Test 474
+0 5 4
+
+B W B W B
+B W B B
+3 5 2
+W B B
+B W W W W
+W B
+Test 475
+2 3 1
+B B
+W W B
+B
+1 2 2
+W
+B W
+B W
+Test 476
+2 2 2
+B B
+W W
+W B
+1 2 5
+W
+B W
+B B B W B
+Test 477
+0 5 5
+
+B W W B W
+W B B B W
+5 5 0
+B B W W B
+B B W W B
+
+Test 478
+3 0 0
+W W W
+
+
+2 4 1
+B B
+B W B B
+W
+Test 479
+3 3 5
+B B B
+B B B
+W B B B B
+5 1 2
+W W W B B
+W
+B B
+Test 480
+3 4 1
+B B B
+W B B B
+B
+3 3 5
+B B B
+B B B
+B W W W B
+Test 481
+3 0 3
+W W B
+
+B W W
+1 4 3
+W
+W B B B
+W B B
+Test 482
+4 0 5
+W B W W
+
+W W W B W
+4 0 0
+B B W B
+
+
+Test 483
+4 2 1
+B W W B
+W B
+W
+4 5 1
+B B B B
+W B W B W
+W
+Test 484
+3 5 4
+W W W
+W W B B W
+B W W W
+0 2 4
+
+W W
+B B B W
+Test 485
+0 1 3
+
+B
+W B W
+1 4 0
+B
+B W B B
+
+Test 486
+3 2 2
+W B B
+W W
+B W
+1 3 5
+W
+B B W
+W B W B W
+Test 487
+2 0 4
+W W
+
+B B W B
+5 0 1
+W B W W B
+
+B
+Test 488
+2 0 2
+W B
+
+B W
+5 5 5
+B W W W B
+W B W B W
+W W B B B
+Test 489
+3 4 5
+B W W
+B B W W
+W B W B B
+3 3 2
+B W W
+B W B
+B W
+Test 490
+5 1 1
+B B B W W
+W
+W
+3 2 2
+W B B
+W B
+W B
+Test 491
+0 2 5
+
+W W
+B W B B W
+2 3 4
+B W
+B W B
+W W W B
+Test 492
+0 1 0
+
+W
+
+1 1 0
+W
+W
+
+Test 493
+1 3 2
+W
+B B B
+B B
+0 4 2
+
+W W B W
+B W
+Test 494
+0 1 3
+
+W
+B W B
+1 3 4
+W
+B W B
+W B W B
+Test 495
+3 2 5
+W B W
+W B
+W W B W W
+0 5 1
+
+W W W W B
+B
+Test 496
+3 0 3
+B B W
+
+W B W
+5 4 4
+B B W B W
+W B B W
+B W W W
+Test 497
+4 3 2
+W B W W
+W B W
+B B
+0 2 1
+
+B B
+B
+Test 498
+2 0 1
+B W
+
+B
+0 2 3
+
+B B
+B W B
+Test 499
+5 3 0
+B W B W B
+W B B
+
+5 2 0
+W W B W W
+W W
+
+Test 500
+5 4 2
+W W W B B
+W W B B
+W B
+1 3 4
+W
+B W B
+B B B B
+Test 501
+2 4 4
+B W
+B B W B
+B B B B
+5 2 2
+W W B W B
+B B
+B B
+Test 502
+5 3 2
+W W B W B
+B B B
+W B
+3 3 3
+W B W
+W W B
+B W W
+Test 503
+0 5 2
+
+W W B B W
+B W
+5 5 5
+W W B B B
+W B W W B
+B W W B B
+Test 504
+2 3 2
+W B
+W W W
+B B
+4 2 3
+W B B W
+B W
+B B W
+Test 505
+3 0 3
+W W B
+
+B W W
+1 0 1
+W
+
+W
+Test 506
+5 3 5
+W B W W W
+W W B
+B B B W B
+2 1 5
+W B
+W
+W W W B W
+Test 507
+4 1 4
+B W W W
+B
+B B W B
+5 3 3
+B W W B W
+B B W
+B W W
+Test 508
+3 0 1
+W B B
+
+B
+4 0 2
+B B W B
+
+B B
+Test 509
+2 4 4
+B B
+B B B W
+W B W B
+0 1 4
+
+W
+W W B B
+Test 510
+0 1 3
+
+W
+W W B
+4 0 4
+W W W B
+
+B B B W
+Test 511
+2 1 3
+W W
+B
+W B B
+2 0 1
+W B
+
+B
+Test 512
+2 5 4
+W W
+W B B W B
+B W W B
+5 2 4
+W B W B B
+W W
+W W W B
+Test 513
+3 3 5
+W B W
+W W B
+W B B W B
+3 4 5
+B W W
+W W W B
+W B W B W
+Test 514
+2 4 0
+W W
+B B B B
+
+5 3 0
+W W W B B
+B W W
+
+Test 515
+2 1 2
+B W
+W
+B B
+4 5 1
+W W B W
+W W W W B
+W
+Test 516
+3 3 3
+B B B
+B B W
+W W B
+4 2 4
+W W B B
+B B
+W B W W
+Test 517
+5 0 2
+B B W W W
+
+W B
+2 4 0
+W W
+B B W B
+
+Test 518
+2 4 2
+W W
+B W B W
+W B
+3 3 0
+W B W
+W W B
+
+Test 519
+1 0 2
+W
+
+W B
+1 1 4
+W
+W
+B B B W
+Test 520
+1 2 4
+B
+B B
+B W B B
+1 1 2
+W
+B
+B W
+Test 521
+3 4 5
+W B B
+W B B W
+W B B B W
+0 2 2
+
+W W
+W W
+Test 522
+4 4 5
+B B B W
+W B W W
+B B B B B
+0 1 4
+
+W
+B B B B
+Test 523
+3 2 5
+B B W
+W B
+B W W W B
+4 3 0
+B W B W
+B B B
+
+Test 524
+0 2 3
+
+B B
+W W W
+4 3 5
+W W B B
+W B B
+B W B W W
+Test 525
+3 1 3
+W W B
+W
+B W W
+1 5 0
+B
+B B W B B
+
+Test 526
+0 2 0
+
+W W
+
+0 4 4
+
+B W W B
+W W B B
+Test 527
+5 0 2
+W B B W B
+
+B B
+0 4 3
+
+B B B W
+B W B
+Test 528
+4 2 4
+W W B B
+W W
+B W B B
+1 0 2
+W
+
+W W
+Test 529
+0 4 2
+
+W B W B
+B B
+3 1 3
+B W W
+B
+W B W
+Test 530
+0 2 5
+
+B B
+B B W W B
+5 4 5
+B B B B B
+W B W W
+B B W W B
+Test 531
+5 2 1
+W B W W W
+B B
+B
+4 1 2
+W W W W
+W
+W W
+Test 532
+1 0 1
+B
+
+W
+3 0 0
+B B W
+
+
+Test 533
+4 3 4
+W B B W
+W W W
+W B W B
+2 3 4
+B B
+W B B
+B B W W
+Test 534
+1 0 1
+W
+
+B
+2 5 3
+W W
+W B W W W
+B W B
+Test 535
+5 5 1
+B B W B B
+W W W W B
+W
+2 2 3
+W B
+B W
+B B W
+Test 536
+4 1 3
+W B W B
+W
+B B B
+0 4 5
+
+W W B W
+B W B B B
+Test 537
+4 5 4
+B W B W
+W W W B B
+B W B B
+4 4 5
+B B W B
+W W B B
+W B B W B
+Test 538
+4 0 5
+W B B W
+
+W W W B B
+0 5 3
+
+B W B W B
+B B W
+Test 539
+2 4 2
+W W
+W B W B
+W W
+4 3 2
+W B B B
+B W B
+W W
+Test 540
+5 4 1
+W B B W W
+W B W B
+W
+2 4 3
+B W
+B W W B
+B W B
+Test 541
+0 1 1
+
+W
+W
+4 1 3
+W W B W
+W
+B B W
+Test 542
+5 0 1
+B B W W W
+
+W
+2 2 0
+B W
+W B
+
+Test 543
+3 3 1
+B W W
+B B W
+B
+0 2 2
+
+B W
+B W
+Test 544
+5 3 1
+B W B W B
+B W W
+W
+3 0 2
+B W B
+
+W B
+Test 545
+1 1 5
+B
+B
+W B W B W
+0 5 5
+
+B W B W W
+W B B W B
+Test 546
+1 0 1
+B
+
+B
+2 0 3
+W B
+
+W B B
+Test 547
+5 4 0
+B W W B B
+B B W B
+
+0 3 3
+
+W B B
+W B B
+Test 548
+1 0 2
+W
+
+B W
+1 2 3
+W
+B W
+W W W
+Test 549
+3 2 0
+B B B
+W W
+
+4 1 0
+B W W W
+W
+
+Test 550
+2 0 4
+W B
+
+W B W B
+2 3 2
+W B
+W W W
+B W
+Test 551
+5 2 3
+W B W B B
+W B
+B B W
+1 3 2
+B
+W B B
+W W
+Test 552
+0 3 3
+
+W B B
+B W B
+1 2 1
+W
+B B
+W
+Test 553
+3 0 4
+B B B
+
+B B W B
+5 2 3
+B B W W B
+W W
+W W B
+Test 554
+0 3 4
+
+B W B
+B W W W
+5 5 1
+W B B W W
+B B B B W
+B
+Test 555
+2 0 1
+W B
+
+B
+5 4 2
+W B B W B
+W W W W
+W W
+Test 556
+5 3 2
+W W B B W
+B W B
+W W
+1 2 4
+B
+W B
+B W B W
+Test 557
+0 4 5
+
+B B B W
+B B W W W
+4 2 3
+W W W B
+B B
+B W B
+Test 558
+2 3 5
+B W
+W B B
+B W B W B
+2 2 5
+B B
+W B
+W B B W W
+Test 559
+5 3 0
+W B B W W
+W B B
+
+1 4 1
+B
+W W W W
+W
+Test 560
+1 1 2
+W
+B
+W W
+0 1 3
+
+W
+W W W
+Test 561
+5 4 2
+B B B B W
+W B W B
+W W
+1 4 2
+B
+W W B B
+B W
+Test 562
+3 0 3
+W W W
+
+B B B
+0 4 0
+
+B W B W
+
+Test 563
+3 4 3
+W W W
+B B B W
+W B W
+1 5 1
+B
+B W W W B
+W
+Test 564
+4 4 0
+B B W B
+B B W W
+
+5 3 0
+B W B W W
+W B W
+
+Test 565
+0 0 4
+
+
+B W B B
+1 2 3
+W
+W W
+B B B
+Test 566
+4 5 5
+B W W W
+B W B B B
+W W B W W
+5 5 0
+B W B W W
+B B W W W
+
+Test 567
+3 2 3
+B B W
+W B
+W B B
+4 3 5
+W B W B
+B W B
+B B W B B
+Test 568
+5 0 5
+W B W B W
+
+B B W W B
+3 0 0
+W B B
+
+
+Test 569
+4 4 2
+B W B W
+W B W B
+B B
+5 5 0
+B W B B W
+W W B B B
+
+Test 570
+2 0 3
+W W
+
+B W W
+3 4 4
+B B W
+B W B B
+W B W W
+Test 571
+4 0 5
+W B W W
+
+B W B W W
+3 1 2
+W B B
+W
+B B
+Test 572
+2 2 5
+B B
+W B
+B W B B B
+5 5 5
+W W W B B
+B B W B B
+B W W W W
+Test 573
+2 0 0
+W B
+
+
+2 2 5
+W B
+B W
+W B B W W
+Test 574
+4 4 5
+B W B W
+B W W B
+W W W B W
+4 5 5
+W B W W
+B W W B W
+W B B W B
+Test 575
+1 3 3
+B
+W B B
+W B W
+2 1 5
+W B
+W
+B W B B B
+Test 576
+1 1 3
+W
+B
+B B W
+5 5 0
+B B B B B
+W W B W B
+
+Test 577
+5 4 4
+B B W W B
+W B W B
+B W B W
+2 4 3
+B W
+W B B W
+W W B
+Test 578
+3 0 3
+B W B
+
+W B W
+2 2 4
+B B
+W B
+W W W W
+Test 579
+3 3 2
+W B W
+W W B
+B B
+0 5 4
+
+W B B W W
+B W W B
+Test 580
+0 3 0
+
+B W B
+
+3 1 4
+W W B
+B
+W B W W
+Test 581
+3 4 4
+W W W
+B W W W
+B B W W
+2 1 5
+B W
+W
+B B W B W
+Test 582
+1 0 3
+B
+
+B W B
+0 4 5
+
+B W W W
+B B W B B
+Test 583
+0 4 2
+
+W W W B
+W W
+3 2 5
+B B W
+B W
+W W W B W
+Test 584
+5 4 4
+B B W B W
+W W W W
+W W B B
+2 2 1
+W W
+B B
+B
+Test 585
+4 0 3
+B B W B
+
+W W W
+0 4 0
+
+W B W B
+
+Test 586
+2 2 0
+W B
+B W
+
+5 1 3
+B B B B W
+W
+B W W
+Test 587
+0 1 0
+
+B
+
+3 2 4
+W W B
+B B
+W W B W
+Test 588
+2 4 2
+W B
+W W W W
+B W
+4 5 0
+B B W W
+B W B B B
+
+Test 589
+2 0 0
+W W
+
+
+4 4 1
+W W W B
+B B W B
+W
+Test 590
+3 4 4
+B B W
+W B B B
+B W W W
+4 2 0
+B W W B
+W W
+
+Test 591
+3 5 5
+B B B
+B W W W B
+B W B B B
+3 4 4
+B B W
+W B W B
+W W B W
+Test 592
+2 4 3
+B B
+W B W B
+W W B
+2 0 4
+B B
+
+W W W B
+Test 593
+0 1 4
+
+W
+W W W B
+3 4 3
+B B B
+B W W B
+W W B
+Test 594
+1 2 0
+B
+W W
+
+0 4 4
+
+B W B W
+B W W B
+Test 595
+0 5 4
+
+W B B B B
+W W B W
+2 3 4
+B B
+B W W
+W B W B
+Test 596
+2 1 1
+W W
+B
+W
+1 4 2
+B
+W W W W
+B W
+Test 597
+2 2 1
+B W
+W B
+B
+1 4 5
+B
+W W W W
+W B B W W
+Test 598
+4 2 3
+B W B B
+B W
+W B W
+2 4 0
+B W
+B W W B
+
+Test 599
+2 2 2
+B B
+B B
+B B
+0 4 5
+
+W B B W
+W B B W W
+Test 600
+2 0 2
+B B
+
+B W
+1 4 2
+B
+B W B B
+W W
+Test 601
+5 3 2
+B W B W B
+W W B
+B W
+2 0 0
+B W
+
+
+Test 602
+0 0 2
+
+
+B W
+4 5 5
+W B W B
+B W B B B
+B B B B W
+Test 603
+1 1 2
+W
+W
+B W
+5 3 5
+W W B B W
+W W W
+B W W B W
+Test 604
+3 2 5
+B B W
+W B
+W B W W W
+5 2 5
+B B B B W
+B B
+W W W W B
+Test 605
+3 2 0
+B B W
+B B
+
+1 4 0
+B
+B B B B
+
+Test 606
+1 4 2
+B
+W W W B
+W B
+5 1 0
+W B W W W
+B
+
+Test 607
+1 4 5
+B
+B W B W
+W W B W W
+5 3 1
+B W B B B
+W W W
+W
+Test 608
+3 0 4
+W W B
+
+W W W W
+4 5 1
+W B W W
+B B B W W
+W
+Test 609
+0 4 1
+
+B B B B
+W
+4 2 2
+W B B B
+W W
+W W
+Test 610
+2 1 4
+B W
+W
+W B W B
+3 4 2
+W B B
+W B W W
+B B
+Test 611
+0 3 3
+
+W W W
+W B W
+1 0 5
+W
+
+B W W B B
+Test 612
+4 1 5
+W W B W
+W
+B B W W B
+5 2 4
+B B B W W
+B B
+W W W B
+Test 613
+5 2 4
+B B W B B
+B W
+B W B B
+0 2 5
+
+W B
+W W B W W
+Test 614
+3 2 4
+B B W
+B B
+W B W W
+1 5 1
+W
+B W W W W
+W
+Test 615
+2 3 3
+B B
+W W B
+W B W
+2 5 3
+W B
+B B W B B
+B W B
+Test 616
+4 1 0
+B B B B
+B
+
+4 2 5
+B B B W
+B W
+W W W B B
+Test 617
+3 5 0
+B B W
+B B B W W
+
+3 3 0
+B W B
+B B B
+
+Test 618
+2 5 5
+W B
+W W W B W
+W W B B W
+2 5 0
+W B
+B W B B B
+
+Test 619
+1 5 5
+B
+B B W B B
+B B W W B
+4 0 2
+B W B B
+
+B W
+Test 620
+4 0 1
+W W B B
+
+B
+2 1 2
+B W
+W
+B W
+Test 621
+1 2 4
+W
+W B
+W B B W
+0 0 1
+
+
+B
+Test 622
+1 0 1
+W
+
+W
+1 4 5
+W
+B B B B
+B B B W B
+Test 623
+1 1 0
+W
+B
+
+1 0 3
+W
+
+W W B
+Test 624
+0 0 5
+
+
+W W B W W
+3 3 1
+W B W
+W B B
+B
+Test 625
+0 2 0
+
+B B
+
+4 2 4
+B B B B
+W W
+W B B W
+Test 626
+4 2 0
+B B W B
+W B
+
+1 1 0
+B
+W
+
+Test 627
+2 3 4
+W W
+W W B
+W B B W
+5 1 2
+W B W W W
+W
+W B
+Test 628
+4 4 3
+W B B W
+B W W B
+B W B
+3 3 5
+W B W
+B B W
+W W W W W
+Test 629
+4 1 4
+W B W B
+W
+B W B B
+3 3 5
+B B B
+W B B
+W B W W W
+Test 630
+5 5 3
+B B W B B
+B W B W W
+W W B
+3 0 3
+W B B
+
+W W W
+Test 631
+1 1 5
+B
+W
+W B B B B
+0 1 3
+
+W
+W W W
+Test 632
+3 3 5
+B B W
+W W B
+W W W B B
+3 2 5
+B W W
+W B
+W B B B B
+Test 633
+3 5 5
+W W B
+W W B W W
+W B W W B
+5 1 0
+W B B W W
+B
+
+Test 634
+3 2 0
+B W W
+W W
+
+1 1 1
+W
+W
+W
+Test 635
+0 3 4
+
+W W B
+W W B W
+4 4 1
+B B B B
+B W W W
+W
+Test 636
+3 3 4
+B W W
+B W B
+B B B W
+5 1 4
+B B W B B
+B
+W W W B
+Test 637
+1 2 0
+W
+B W
+
+0 4 3
+
+W W W B
+B W B
+Test 638
+1 4 5
+W
+W B B B
+B W B B W
+0 3 0
+
+W W B
+
+Test 639
+0 2 5
+
+W B
+B W W B W
+1 2 1
+B
+B W
+B
+Test 640
+4 0 0
+B B W W
+
+
+1 3 0
+W
+B B B
+
+Test 641
+2 2 4
+W B
+W B
+B W B W
+0 1 4
+
+B
+B B B W
+Test 642
+4 0 4
+B W W B
+
+W W B B
+1 1 2
+B
+W
+W B
+Test 643
+3 0 5
+W W W
+
+W W W W B
+3 2 2
+B B W
+W B
+W B
+Test 644
+2 1 2
+B B
+W
+W W
+5 3 1
+B B B W W
+W W B
+B
+Test 645
+1 2 3
+W
+B W
+B B B
+4 2 1
+W W W W
+W B
+W
+Test 646
+1 3 1
+W
+B B B
+B
+2 5 1
+W W
+B W W B W
+W
+Test 647
+4 3 0
+W B W W
+B B W
+
+1 3 3
+W
+B W B
+W B W
+Test 648
+0 1 0
+
+B
+
+1 3 5
+B
+B B B
+B B B W B
+Test 649
+2 0 0
+B B
+
+
+1 2 2
+W
+B B
+B B
+Test 650
+4 0 2
+B B B B
+
+W B
+3 5 4
+W W W
+B B W W B
+W W B B
+Test 651
+1 0 3
+B
+
+B W W
+3 2 0
+B B B
+B B
+
+Test 652
+2 1 1
+B B
+B
+W
+5 4 3
+B W W W W
+W B W W
+B W B
+Test 653
+4 4 1
+B B W W
+W B B B
+W
+4 0 1
+W B W B
+
+B
+Test 654
+0 2 0
+
+B W
+
+0 3 3
+
+B W B
+B W W
+Test 655
+4 1 2
+W B B W
+B
+W W
+2 3 4
+W W
+B W B
+B B B B
+Test 656
+5 4 5
+B W B W B
+B W B B
+B B W W B
+3 0 1
+B B W
+
+B
+Test 657
+0 0 0
+
+
+
+5 2 2
+B W B B B
+B W
+W B
+Test 658
+3 4 0
+B W B
+B W W B
+
+3 4 3
+B W B
+W B W W
+B B W
+Test 659
+0 4 4
+
+B B W B
+W B B W
+0 1 5
+
+W
+W B W W W
+Test 660
+3 0 2
+B B W
+
+B B
+5 0 0
+B B B B W
+
+
+Test 661
+2 5 2
+B B
+W B W B W
+B B
+3 2 0
+B B B
+B W
+
+Test 662
+5 5 2
+B B B B W
+W W W W W
+B W
+1 5 2
+B
+B W W W B
+B B
+Test 663
+4 2 5
+B B B B
+W W
+W B W B W
+5 3 5
+W W B W B
+W W W
+B W B W W
+Test 664
+3 3 5
+W W W
+W B B
+B B B B W
+1 0 2
+W
+
+W W
+Test 665
+0 3 1
+
+B W B
+B
+3 3 5
+W W W
+B B B
+B B B B W
+Test 666
+0 2 4
+
+B W
+B W W W
+3 0 0
+B W B
+
+
+Test 667
+0 5 3
+
+W B B W W
+B B B
+3 1 0
+W W W
+W
+
+Test 668
+4 2 0
+W W B W
+B W
+
+5 3 5
+B B B W W
+B B B
+W B B W W
+Test 669
+4 5 0
+B W W W
+W B W B W
+
+2 3 0
+B B
+B B W
+
+Test 670
+0 5 4
+
+W W B B B
+B B B W
+2 4 4
+W W
+B B W W
+W B W W
+Test 671
+2 2 3
+B B
+W W
+W B B
+5 4 5
+W W B B W
+W B B W
+W W B W W
+Test 672
+5 3 1
+B W W W W
+B B W
+W
+4 5 2
+W B W W
+B B B W B
+W W
+Test 673
+1 4 3
+B
+B W B W
+B B W
+3 3 3
+B B W
+B B W
+W W B
+Test 674
+3 3 0
+W W W
+B B B
+
+4 4 0
+W B W W
+W W B W
+
+Test 675
+1 0 5
+B
+
+W B B W B
+4 3 4
+B B B W
+W B B
+W W W W
+Test 676
+4 4 2
+W W B W
+W W W B
+B W
+3 5 1
+B B B
+W B W B B
+W
+Test 677
+1 1 3
+B
+B
+B W W
+2 0 1
+W B
+
+W
+Test 678
+4 4 4
+W B W W
+B B B B
+W W W W
+3 4 2
+W B W
+W W B W
+B B
+Test 679
+5 1 1
+W W W B W
+W
+W
+3 5 3
+B B W
+B W B W W
+B W W
+Test 680
+5 3 1
+W B B B W
+W W W
+W
+1 3 0
+W
+W W W
+
+Test 681
+2 5 5
+W W
+W W B B B
+B W B W W
+2 2 4
+W W
+B W
+W W W W
+Test 682
+0 3 3
+
+W W W
+B B B
+5 5 1
+W B W W W
+B W B W W
+W
+Test 683
+2 3 0
+B W
+B W W
+
+2 0 4
+B B
+
+W B B W
+Test 684
+1 1 4
+W
+W
+W W W W
+2 2 1
+W B
+W B
+B
+Test 685
+2 4 4
+W B
+W B W B
+B B B W
+0 5 2
+
+W B W B W
+W W
+Test 686
+1 0 1
+W
+
+W
+2 5 1
+W B
+B W W B B
+B
+Test 687
+1 2 5
+B
+W W
+B W W B W
+2 3 1
+B B
+B W W
+W
+Test 688
+3 3 3
+B B W
+B B B
+B W B
+5 2 2
+B B W B W
+W W
+W B
+Test 689
+0 3 0
+
+B W B
+
+4 1 1
+B W B B
+B
+W
+Test 690
+5 2 4
+B B W W B
+B B
+W B B B
+0 1 4
+
+B
+B B W W
+Test 691
+2 4 4
+W W
+W W B W
+B B W B
+2 0 1
+B W
+
+B
+Test 692
+1 0 3
+B
+
+W B W
+3 2 1
+W W W
+B B
+B
+Test 693
+1 1 4
+B
+B
+B W B W
+3 4 5
+B B B
+W B W W
+B B B W B
+Test 694
+2 0 0
+B W
+
+
+3 1 0
+B B B
+W
+
+Test 695
+5 5 2
+B W B B W
+W W W B B
+W B
+1 4 3
+W
+B B B B
+B W B
+Test 696
+2 3 4
+W B
+W B W
+W B W B
+1 0 1
+B
+
+W
+Test 697
+4 4 3
+W W W W
+B W W B
+W B B
+1 1 0
+B
+B
+
+Test 698
+5 0 5
+B W B W W
+
+W W W B W
+4 2 0
+B W W W
+W B
+
+Test 699
+4 0 5
+W W W W
+
+B W B B B
+0 1 2
+
+W
+W B
+Test 700
+1 4 1
+W
+B B B B
+W
+5 0 1
+B B B W B
+
+B
+Test 701
+5 1 2
+B W W B W
+W
+B W
+2 2 3
+W W
+B W
+B B B
+Test 702
+2 5 3
+W W
+W B W W W
+B B B
+5 2 4
+W W W B W
+W W
+W W W B
+Test 703
+0 4 3
+
+W B B B
+W B W
+5 4 0
+W B W B B
+B W W W
+
+Test 704
+4 1 0
+W W W B
+W
+
+4 4 5
+W B W W
+B W W W
+B W W B W
+Test 705
+5 2 1
+W W B B B
+B B
+W
+0 3 3
+
+W B B
+W B B
+Test 706
+2 2 0
+W W
+B B
+
+0 3 3
+
+B B B
+B B B
+Test 707
+2 1 1
+W W
+B
+W
+0 1 1
+
+W
+W
+Test 708
+4 0 5
+W W W B
+
+W W W W W
+3 2 3
+W W B
+B W
+B W W
+Test 709
+5 1 2
+B B B B B
+W
+W W
+2 1 2
+W W
+B
+B W
+Test 710
+5 5 0
+B B W B B
+W W B W W
+
+5 2 0
+B W W B W
+B W
+
+Test 711
+5 1 1
+B B B B B
+W
+W
+5 0 0
+B B W B B
+
+
+Test 712
+1 4 4
+W
+W W B W
+B B W B
+5 4 1
+B W B W B
+W B B W
+W
+Test 713
+5 3 0
+B W W W W
+B B W
+
+0 2 2
+
+W W
+W B
+Test 714
+2 4 0
+W B
+B B W B
+
+5 3 1
+B W B W W
+B B B
+W
+Test 715
+1 2 1
+B
+B B
+B
+4 0 2
+B W B B
+
+B W
+Test 716
+1 2 2
+B
+B B
+W W
+2 0 0
+B W
+
+
+Test 717
+1 4 4
+B
+W B W B
+W W W B
+3 3 1
+B W W
+W W B
+W
+Test 718
+0 0 4
+
+
+W W B B
+5 1 2
+W B B B B
+B
+B B
+Test 719
+2 1 5
+W W
+W
+W W W W W
+1 0 5
+B
+
+W B W W W
+Test 720
+3 1 4
+W B W
+B
+B W W B
+0 5 0
+
+W W B B W
+
+Test 721
+5 4 4
+W B W W W
+B W B B
+W B B W
+0 0 1
+
+
+W
+Test 722
+3 5 2
+W B W
+B W B W B
+B W
+1 5 4
+W
+B B B B B
+B B B W
+Test 723
+0 4 3
+
+B B W W
+B W B
+4 3 5
+B B B W
+B W W
+W B W B B
+Test 724
+4 4 5
+B B W B
+W W W W
+W W W W B
+1 1 5
+W
+W
+B B W B W
+Test 725
+0 5 3
+
+W W B W W
+B W W
+5 0 0
+B B B B W
+
+
+Test 726
+1 4 1
+W
+W B B B
+W
+1 3 3
+W
+W W W
+W B W
+Test 727
+2 1 5
+B B
+W
+W B B W B
+4 2 2
+B W B W
+B B
+W B
+Test 728
+2 4 1
+B W
+B B B W
+W
+1 1 1
+B
+B
+B
+Test 729
+2 4 3
+B B
+B B W W
+B B W
+3 3 4
+B W W
+W W W
+W B W B
+Test 730
+2 2 1
+W B
+B W
+B
+4 0 4
+B W W W
+
+W B B W
+Test 731
+5 0 2
+W W W B B
+
+B W
+3 0 4
+W B B
+
+B W B B
+Test 732
+1 0 3
+W
+
+W W W
+2 5 0
+B B
+W B W W W
+
+Test 733
+4 2 2
+B B W W
+B B
+W B
+1 5 4
+B
+W B W W W
+W W W B
+Test 734
+3 4 5
+W B W
+W B B B
+W B W W W
+4 2 1
+W B B B
+W B
+W
+Test 735
+1 5 5
+B
+W W W B B
+B W B W B
+1 1 1
+B
+W
+B
+Test 736
+5 4 2
+W W B W B
+W W W W
+B W
+3 5 1
+B B B
+W B B W W
+B
+Test 737
+2 3 4
+W B
+W W B
+W B B B
+2 4 1
+B W
+B B B B
+B
+Test 738
+0 3 4
+
+B W W
+W B W W
+2 4 4
+B W
+B W W W
+B W B W
+Test 739
+0 3 5
+
+W W W
+W B B W B
+0 4 1
+
+W W W W
+W
+Test 740
+1 5 0
+B
+W B B B B
+
+2 2 3
+B B
+W W
+W B B
+Test 741
+0 0 2
+
+
+B B
+4 1 1
+B B B B
+B
+W
+Test 742
+1 2 0
+W
+B W
+
+3 4 1
+B W B
+B B B B
+W
+Test 743
+4 5 5
+B W B W
+B B W B W
+W B W W B
+2 4 3
+B B
+W W W W
+W W B
+Test 744
+2 5 1
+W B
+W W B B B
+W
+3 2 0
+B W W
+B B
+
+Test 745
+4 3 4
+W W B W
+B B W
+W B W B
+1 1 1
+B
+W
+B
+Test 746
+2 1 3
+W B
+B
+W W W
+2 1 4
+B B
+B
+W B B B
+Test 747
+5 5 2
+B W W B B
+W W B W B
+W W
+2 4 4
+W B
+B B W B
+W B W W
+Test 748
+4 1 1
+W B W B
+W
+W
+2 0 2
+W B
+
+B B
+Test 749
+1 1 3
+B
+W
+B B B
+3 5 4
+B W B
+W W W B W
+W B W B
+Test 750
+4 3 3
+B B W B
+B B B
+W B B
+5 2 4
+B B B W W
+W W
+B W W W
+Test 751
+2 1 3
+W B
+W
+W W W
+3 3 1
+B B W
+B B B
+B
+Test 752
+3 5 5
+B W B
+B W W B W
+B B W W W
+5 1 4
+B B B W B
+B
+W W W W
+Test 753
+1 2 2
+W
+B B
+B B
+4 5 0
+W W W B
+W W W W B
+
+Test 754
+2 2 3
+W W
+W W
+B B W
+3 5 2
+W W W
+B W W B W
+W W
+Test 755
+2 2 2
+W B
+W W
+W B
+5 1 4
+B B B W W
+W
+W W B W
+Test 756
+1 4 5
+W
+B W W W
+W W B B B
+5 2 1
+W W B W W
+W W
+W
+Test 757
+5 1 1
+W B B B W
+B
+B
+3 1 5
+W W W
+W
+B W W W B
+Test 758
+2 0 4
+W B
+
+B B B W
+5 0 1
+W W W W B
+
+B
+Test 759
+3 3 2
+B W B
+W B B
+B W
+4 4 5
+W W B B
+B B W W
+B W B B W
+Test 760
+1 1 3
+B
+W
+B W B
+1 1 0
+B
+W
+
+Test 761
+5 1 5
+W B B W W
+W
+W W W W B
+5 2 0
+B W W B B
+B W
+
+Test 762
+1 5 4
+W
+W W B W B
+B B B W
+3 5 2
+B B B
+W B B B W
+W W
+Test 763
+3 5 0
+W B W
+B W W W B
+
+0 5 0
+
+W B W W B
+
+Test 764
+0 3 4
+
+W B B
+B W B W
+5 1 4
+W B B B W
+B
+W B B W
+Test 765
+3 2 0
+B B B
+W W
+
+4 4 5
+B W W W
+W B B W
+W W B B W
+Test 766
+2 0 0
+B W
+
+
+1 5 2
+W
+B B W W W
+W B
+Test 767
+1 0 3
+B
+
+W W B
+2 4 3
+B B
+B W B W
+B W B
+Test 768
+5 4 4
+W W W W B
+W W B B
+B B W B
+1 1 1
+B
+W
+W
+Test 769
+2 2 1
+B W
+B B
+W
+0 2 5
+
+B W
+B B B W W
+Test 770
+1 1 5
+W
+W
+W W B W W
+1 4 5
+B
+B W W W
+W B B B B
+Test 771
+3 4 3
+W W B
+B W W W
+B B W
+1 4 1
+B
+B B B W
+W
+Test 772
+4 1 1
+B W W W
+W
+W
+2 2 3
+W W
+W W
+B W B
+Test 773
+2 4 2
+B W
+W W W W
+W W
+5 0 2
+B B B W B
+
+W B
+Test 774
+1 1 3
+W
+W
+B W B
+5 5 0
+B W W B B
+W W W B B
+
+Test 775
+3 1 1
+B B B
+B
+W
+3 0 3
+W W W
+
+B B B
+Test 776
+4 0 5
+B B B B
+
+B W W W B
+1 4 4
+B
+W B W W
+W W W W
+Test 777
+3 3 3
+B B W
+B W W
+B B B
+5 0 4
+W W B W B
+
+W W W B
+Test 778
+2 0 1
+B W
+
+B
+2 0 2
+B W
+
+W B
+Test 779
+5 0 2
+W W B B W
+
+W W
+4 2 2
+W W B B
+B B
+B W
+Test 780
+3 1 4
+B W B
+B
+W B B W
+0 2 5
+
+B W
+W W W B B
+Test 781
+4 1 2
+W W W B
+B
+B B
+0 2 1
+
+W B
+W
+Test 782
+4 1 3
+W W B W
+W
+B B B
+5 0 2
+W B B W W
+
+B W
+Test 783
+5 1 1
+B B B B W
+B
+B
+5 3 0
+B B W W B
+B B W
+
+Test 784
+1 1 5
+B
+B
+B W W W W
+0 2 5
+
+W W
+W W B W W
+Test 785
+4 3 4
+B W B W
+B W B
+W W B B
+1 5 1
+W
+W W W B B
+B
+Test 786
+2 2 2
+W B
+W B
+W W
+2 5 4
+W B
+B W W W B
+W W W B
+Test 787
+5 3 2
+B W B W W
+W B B
+W W
+5 1 0
+B W B W W
+B
+
+Test 788
+5 1 1
+W W W W B
+W
+B
+3 5 1
+B W B
+W W W B B
+W
+Test 789
+0 2 4
+
+B B
+B B B B
+1 0 2
+B
+
+B W
+Test 790
+2 5 4
+B B
+B B B B B
+B B B W
+1 4 0
+B
+B B W B
+
+Test 791
+1 0 2
+W
+
+B W
+5 4 0
+W W B W B
+W W B W
+
+Test 792
+2 1 2
+B B
+B
+W W
+2 1 0
+W B
+B
+
+Test 793
+5 3 4
+W W W W W
+W W W
+B W W B
+5 2 2
+W W W W W
+B B
+W W
+Test 794
+4 0 5
+W B W B
+
+W B B W W
+5 1 3
+W B W B W
+W
+B B B
+Test 795
+2 2 4
+B B
+W W
+W B B B
+5 0 5
+B B W B W
+
+W B W W W
+Test 796
+2 0 4
+W B
+
+W W W B
+3 5 1
+B B B
+W B W B B
+W
+Test 797
+3 4 0
+B W W
+B W B B
+
+0 3 2
+
+W B W
+B W
+Test 798
+4 1 4
+W B B B
+B
+W W W W
+4 2 2
+W W W B
+W B
+W B
+Test 799
+0 4 4
+
+W W W W
+B W B W
+2 0 2
+W B
+
+W W
+Test 800
+5 4 4
+W W W W B
+B B W W
+B B B B
+1 1 4
+B
+B
+W W B B
+Test 801
+1 4 0
+B
+B W W B
+
+4 5 2
+W B W W
+W B B B W
+W B
+Test 802
+5 0 0
+W W W W B
+
+
+4 2 4
+W W B B
+W B
+W W B B
+Test 803
+3 5 3
+W B W
+B W B W W
+B W B
+4 5 1
+B B B B
+W B W B B
+W
+Test 804
+5 3 3
+W W B W W
+B B B
+W W B
+4 5 3
+B W W B
+W W W B B
+W W W
+Test 805
+4 2 5
+W W W B
+W B
+W B W B B
+2 5 5
+W W
+W W B B W
+W W W B W
+Test 806
+4 3 4
+W W B B
+B W B
+B W W W
+2 0 2
+B B
+
+B W
+Test 807
+2 5 4
+B B
+W W B W W
+B W W B
+3 4 3
+W B B
+B B W B
+B W W
+Test 808
+2 4 5
+W W
+B B W W
+B W W W W
+0 3 1
+
+W W B
+B
+Test 809
+4 3 2
+W B B W
+B B B
+W W
+5 0 3
+W W W W W
+
+B B B
+Test 810
+0 5 5
+
+B W B W W
+B B B W B
+0 2 5
+
+B W
+B B W B W
+Test 811
+5 5 3
+W W W W B
+W W W B B
+B W B
+5 4 1
+W W W W B
+B B B W
+B
+Test 812
+1 5 4
+B
+B B W B W
+B W W W
+1 0 2
+W
+
+W B
+Test 813
+3 1 4
+B W B
+B
+B W B B
+1 1 3
+B
+W
+W B W
+Test 814
+1 5 0
+B
+W W W W W
+
+2 3 5
+B B
+B B W
+W W B B W
+Test 815
+2 4 4
+B B
+W W B B
+W B B B
+4 2 1
+W B W W
+W W
+B
+Test 816
+0 2 1
+
+W W
+W
+1 5 1
+B
+W B W B W
+B
+Test 817
+2 5 2
+W W
+B B B W W
+W B
+0 1 4
+
+B
+B B W W
+Test 818
+2 0 4
+W W
+
+B B W B
+2 1 4
+W W
+W
+B B W B
+Test 819
+3 5 1
+W B B
+W B W W B
+W
+5 3 1
+B B W W B
+W B W
+W
+Test 820
+0 1 0
+
+B
+
+4 3 4
+W B W W
+B B B
+W B B B
+Test 821
+0 4 3
+
+B B B B
+B B B
+3 3 4
+B W B
+B W B
+B B B W
+Test 822
+1 2 5
+W
+W B
+W B W W B
+4 5 0
+B B B W
+B B B B W
+
+Test 823
+3 3 5
+W B W
+W W W
+B B W B B
+3 5 5
+B B W
+B W B W B
+B B W W B
+Test 824
+3 2 4
+W B W
+B W
+W B B W
+0 5 0
+
+B B W B B
+
+Test 825
+3 1 4
+B W W
+W
+B W W B
+0 4 2
+
+B W B B
+W W
+Test 826
+3 0 3
+B B W
+
+B B W
+0 3 0
+
+W W B
+
+Test 827
+4 3 5
+B W W B
+B W W
+B B B W B
+4 1 1
+W B B W
+W
+W
+Test 828
+4 1 4
+W B B B
+W
+W W B B
+4 3 0
+B B W W
+W W B
+
+Test 829
+2 1 4
+B W
+B
+B W B W
+4 4 4
+B W W B
+W W B W
+W B W B
+Test 830
+0 3 0
+
+W W B
+
+4 1 0
+W B B B
+B
+
+Test 831
+1 0 3
+B
+
+W B B
+2 0 2
+W W
+
+B W
+Test 832
+2 2 4
+B W
+W W
+W W W B
+3 2 2
+W W B
+W B
+B W
+Test 833
+5 2 5
+B B W W W
+W B
+B W B W B
+4 3 3
+B W W W
+B B B
+B B B
+Test 834
+0 3 5
+
+W B B
+W B W B B
+5 1 5
+B B W B W
+W
+B B W B B
+Test 835
+1 1 0
+W
+W
+
+2 5 1
+B W
+B W W B W
+B
+Test 836
+5 5 4
+B W W W W
+W W B W W
+W B W B
+0 1 0
+
+B
+
+Test 837
+2 5 1
+B W
+W B W W W
+W
+4 2 4
+B W B W
+B B
+B W B W
+Test 838
+2 5 5
+W B
+B W W W W
+B B B B B
+3 3 1
+W B B
+W B B
+W
+Test 839
+0 5 3
+
+B B W W B
+W W B
+4 3 3
+W B W W
+W W B
+B W W
+Test 840
+2 3 1
+W B
+W W W
+W
+5 3 4
+W B B B W
+B B W
+W W W W
+Test 841
+2 3 4
+B B
+B W W
+B W B W
+3 0 1
+B B W
+
+B
+Test 842
+2 0 2
+W B
+
+B B
+0 3 3
+
+W B B
+W B B
+Test 843
+1 0 1
+B
+
+W
+4 1 1
+W B W W
+B
+W
+Test 844
+4 4 0
+B B W W
+B W B B
+
+4 5 0
+W W B B
+W B B W B
+
+Test 845
+5 1 2
+B W W W W
+B
+W B
+3 3 5
+B W B
+W W B
+W W B B W
+Test 846
+3 3 4
+B B W
+B B B
+W W B B
+0 1 3
+
+W
+W W B
+Test 847
+1 4 2
+W
+B W W W
+W W
+5 1 0
+B B W B B
+W
+
+Test 848
+5 0 5
+W W B W B
+
+B W B B W
+0 1 2
+
+B
+W B
+Test 849
+3 5 2
+W B W
+B B B B W
+B B
+4 5 5
+W W B W
+W W W W W
+W B W W W
+Test 850
+0 3 2
+
+B W W
+B W
+3 1 4
+B B W
+B
+B B B W
+Test 851
+2 3 2
+B B
+B B W
+W B
+3 0 0
+B B W
+
+
+Test 852
+1 4 2
+B
+W W B W
+W B
+0 4 2
+
+B B B W
+B B
+Test 853
+0 4 5
+
+B B B B
+B B B W B
+4 3 1
+B W W B
+B W B
+B
+Test 854
+5 5 5
+B W W B W
+B W B W W
+W B B B B
+1 0 5
+B
+
+W W B B W
+Test 855
+2 2 5
+W B
+W B
+W W B B B
+5 2 2
+B W W B W
+B W
+W B
+Test 856
+0 4 4
+
+B B W B
+B B B W
+3 2 5
+B W W
+B W
+B W B W B
+Test 857
+1 5 5
+B
+W W B W B
+B B W B B
+4 2 3
+W B W B
+B W
+B W B
+Test 858
+2 3 0
+B W
+W W W
+
+5 5 0
+W W B B B
+B B B B B
+
+Test 859
+4 3 5
+W W B W
+B B B
+W B B B B
+5 0 1
+B W W B B
+
+B
+Test 860
+2 4 5
+B W
+B B W W
+W W B B B
+1 4 0
+B
+W B W B
+
+Test 861
+0 1 3
+
+W
+W W B
+5 1 1
+B B W W W
+W
+B
+Test 862
+4 1 3
+B B B W
+B
+B B B
+3 4 3
+W W W
+B W B B
+W W W
+Test 863
+3 2 2
+B B W
+B W
+W W
+3 4 1
+W W B
+W W B W
+W
+Test 864
+1 3 5
+W
+W W B
+B W W B W
+0 4 5
+
+B W B W
+B B B W W
+Test 865
+4 4 0
+B W B W
+W W B W
+
+4 1 3
+W B W B
+B
+B B W
+Test 866
+4 0 5
+W B B W
+
+W W W W W
+0 2 4
+
+B B
+B B B B
+Test 867
+0 1 5
+
+B
+W W W B W
+1 1 4
+W
+W
+W B B B
+Test 868
+1 2 3
+B
+B B
+B B B
+4 3 4
+B B B W
+W W B
+W B W W
+Test 869
+0 3 4
+
+W W W
+W W W W
+3 3 1
+B B W
+W W B
+B
+Test 870
+0 0 1
+
+
+B
+1 3 5
+W
+B W W
+W W W W B
+Test 871
+3 5 5
+B W W
+B B B W W
+B W W B W
+1 5 5
+W
+W W B B B
+W B W W W
+Test 872
+2 1 4
+B W
+W
+W B B W
+3 3 2
+B B B
+W B B
+W W
+Test 873
+0 4 0
+
+W B W B
+
+2 5 2
+W W
+W W B W B
+B B
+Test 874
+5 3 1
+B W B B B
+B B W
+B
+5 5 4
+B W W W W
+W W W W W
+W W W W
+Test 875
+1 1 1
+W
+W
+B
+0 3 0
+
+W B B
+
+Test 876
+4 5 1
+W W W B
+B B W W B
+B
+4 3 0
+W W W B
+B W B
+
+Test 877
+3 5 0
+B W W
+B B W B W
+
+4 1 5
+B W B W
+B
+W B W W W
+Test 878
+4 2 2
+B B B B
+W W
+B W
+0 1 2
+
+B
+B B
+Test 879
+0 1 5
+
+B
+B B B B W
+4 2 3
+W W B W
+B W
+B W B
+Test 880
+0 1 2
+
+W
+B B
+2 3 2
+W B
+B B B
+B W
+Test 881
+0 0 4
+
+
+W B W B
+3 1 0
+B B W
+W
+
+Test 882
+3 1 0
+B W B
+B
+
+3 1 3
+B B B
+B
+W W B
+Test 883
+2 3 4
+B W
+B W W
+B W B B
+2 4 0
+W B
+B W W B
+
+Test 884
+3 3 5
+W W B
+B B W
+W B W W W
+2 0 1
+B B
+
+B
+Test 885
+4 0 2
+B W W W
+
+B B
+3 2 3
+W B W
+B W
+W B W
+Test 886
+3 3 5
+W B B
+B W W
+B B W B W
+4 2 5
+B B W W
+B B
+B W B B W
+Test 887
+4 1 1
+B B B W
+W
+B
+3 5 1
+W W W
+W W W W B
+W
+Test 888
+1 1 5
+B
+B
+W B B B B
+4 3 3
+B B B B
+W B W
+W W B
+Test 889
+2 5 0
+W W
+W B W B W
+
+2 0 3
+B W
+
+W B W
+Test 890
+2 4 2
+B B
+W W W W
+W W
+5 0 3
+B B B B W
+
+B W W
+Test 891
+2 3 1
+B B
+W W W
+W
+2 5 3
+W W
+B W B B W
+W B W
+Test 892
+5 3 4
+B W B B W
+B B W
+W W B B
+4 3 0
+B B B W
+W B B
+
+Test 893
+0 5 4
+
+B B W B W
+B B W B
+1 2 5
+B
+B B
+B W W W B
+Test 894
+1 4 1
+W
+W W B W
+W
+5 1 1
+W B B B W
+W
+B
+Test 895
+1 2 5
+B
+W W
+W W B W B
+1 2 1
+W
+B W
+B
+Test 896
+1 5 2
+W
+W B W W W
+B W
+5 0 5
+B B W W B
+
+W B W B B
+Test 897
+0 4 5
+
+B W W W
+W B B W W
+4 2 3
+W B B W
+B B
+W W W
+Test 898
+0 2 0
+
+W B
+
+1 3 3
+B
+B W B
+W B W
+Test 899
+2 5 0
+B W
+W B W W B
+
+5 3 4
+W B B B W
+W B W
+B W B W
+Test 900
+5 5 1
+W W B B B
+B W W W W
+B
+3 1 2
+W W W
+W
+B W
+Test 901
+2 0 4
+B B
+
+W B W B
+2 2 3
+W B
+B W
+B B B
+Test 902
+0 5 3
+
+B W B W W
+B B B
+3 3 1
+B W B
+B W B
+B
+Test 903
+3 4 0
+W B B
+W W B W
+
+1 5 2
+B
+W B B B B
+W B
+Test 904
+2 1 3
+B B
+B
+W W W
+2 5 3
+W W
+B W B W B
+B B B
+Test 905
+4 3 5
+W W W B
+W W B
+W W B W B
+2 1 1
+W W
+B
+W
+Test 906
+1 5 3
+B
+W W W W W
+W W W
+0 1 4
+
+W
+W W W B
+Test 907
+1 2 3
+B
+B W
+B W B
+5 5 1
+W W W B W
+W W W W W
+W
+Test 908
+2 5 1
+B B
+W W W B W
+B
+5 3 3
+W W B B B
+W B W
+B B B
+Test 909
+3 2 1
+W B B
+W W
+W
+3 1 2
+B W W
+B
+B W
+Test 910
+3 4 4
+W B B
+B B B W
+W W W B
+3 5 5
+W B W
+W B W B B
+B B B W B
+Test 911
+2 1 5
+W B
+B
+B B W W W
+5 1 2
+B B B B B
+W
+B W
+Test 912
+0 3 1
+
+W B W
+W
+0 5 5
+
+B B B W B
+B B B B B
+Test 913
+2 0 0
+W W
+
+
+4 2 1
+B B W W
+B W
+B
+Test 914
+3 3 3
+W W W
+B W W
+W W W
+3 5 1
+B B W
+B W B B W
+B
+Test 915
+2 2 4
+W B
+B W
+W B W B
+3 5 3
+B B B
+B W B W B
+W B B
+Test 916
+4 4 4
+W B B W
+W W W B
+W B B W
+2 2 2
+B B
+W B
+B W
+Test 917
+0 5 5
+
+B W W B B
+W W B W W
+1 4 2
+W
+B W W W
+W B
+Test 918
+0 1 1
+
+B
+B
+0 1 2
+
+B
+W W
+Test 919
+1 4 0
+B
+W W W B
+
+2 4 5
+W B
+W W B W
+B B B W B
+Test 920
+4 5 0
+B B B W
+B W B B B
+
+4 5 0
+B B W B
+B W W B W
+
+Test 921
+4 2 2
+W B B B
+W W
+B B
+3 5 2
+W W W
+W B B B B
+B W
+Test 922
+0 0 2
+
+
+W B
+0 0 5
+
+
+W B B B B
+Test 923
+1 3 1
+B
+B W W
+W
+2 2 0
+B B
+B B
+
+Test 924
+5 5 4
+B B B B W
+W W B B W
+B B B B
+2 2 3
+W W
+W W
+W B W
+Test 925
+5 4 3
+B B W W W
+W W W W
+W W W
+3 4 1
+B B W
+B W W W
+W
+Test 926
+0 4 3
+
+W W W B
+B W W
+4 1 5
+W B W W
+W
+B W B B B
+Test 927
+0 2 0
+
+B W
+
+1 2 3
+W
+W W
+B B W
+Test 928
+5 4 2
+B B W B B
+W W W W
+W W
+3 0 3
+B B B
+
+B B B
+Test 929
+1 0 0
+W
+
+
+5 4 1
+B W W B W
+B W B B
+W
+Test 930
+1 0 4
+B
+
+W W B W
+1 3 5
+B
+B W W
+B B B W B
+Test 931
+3 2 2
+W W B
+W B
+B B
+4 4 3
+W W W B
+B B W W
+W W B
+Test 932
+2 4 0
+W W
+W B B W
+
+2 0 0
+W B
+
+
+Test 933
+2 1 4
+W W
+B
+W B B B
+2 1 5
+B W
+W
+B W B W B
+Test 934
+2 3 2
+W W
+W B W
+W W
+1 3 3
+B
+W B W
+W W B
+Test 935
+5 5 1
+B B W W W
+B W W W B
+B
+5 1 1
+B B B W B
+B
+B
+Test 936
+0 3 3
+
+W W W
+B B B
+0 1 5
+
+B
+W B B W W
+Test 937
+0 0 0
+
+
+
+1 5 3
+W
+B B W B B
+W W B
+Test 938
+3 0 2
+B B W
+
+W B
+2 1 0
+W B
+B
+
+Test 939
+2 2 5
+B B
+B W
+B W B B W
+5 5 3
+B W W W B
+W B B B W
+W W B
+Test 940
+2 4 5
+B B
+W B B B
+W W B W W
+4 5 5
+B B W B
+B W B W W
+W W B W B
+Test 941
+1 3 2
+B
+B B W
+B W
+1 3 4
+W
+B W W
+W W B B
+Test 942
+3 3 3
+W B B
+B W B
+B B B
+2 5 4
+B W
+W W W B B
+B W B B
+Test 943
+0 4 3
+
+B W W B
+B B W
+3 0 2
+B B B
+
+B W
+Test 944
+2 0 4
+B W
+
+B W B B
+0 2 3
+
+W B
+W W W
+Test 945
+5 1 5
+W B W W W
+W
+W W W B W
+5 4 0
+B B W B W
+B B W W
+
+Test 946
+3 1 0
+B W B
+W
+
+5 3 3
+W W B B W
+B B W
+W W W
+Test 947
+3 0 2
+B W B
+
+B W
+0 1 0
+
+B
+
+Test 948
+3 2 2
+W W W
+W B
+B W
+0 4 0
+
+W B B W
+
+Test 949
+3 0 5
+B B B
+
+B B W W W
+2 3 3
+W W
+B B B
+W W W
+Test 950
+0 4 2
+
+W B W B
+B B
+4 3 2
+B W B B
+B W W
+B W
+Test 951
+1 2 4
+W
+W W
+W W W W
+2 0 3
+B W
+
+W W B
+Test 952
+2 5 3
+B W
+B W W B B
+B B W
+2 3 2
+B W
+B W W
+B W
+Test 953
+1 4 1
+B
+B W B B
+B
+0 3 0
+
+B B W
+
+Test 954
+0 2 4
+
+B B
+B W W B
+1 1 2
+B
+B
+B W
+Test 955
+2 0 1
+W W
+
+B
+4 4 3
+W W B W
+B W B W
+W B W
+Test 956
+4 3 3
+W B W B
+B B W
+W W W
+4 1 5
+W W W W
+W
+B B B W W
+Test 957
+1 1 1
+B
+B
+B
+2 1 3
+B W
+W
+W W W
+Test 958
+0 1 3
+
+W
+W W B
+5 0 1
+W W W B W
+
+W
+Test 959
+1 2 1
+W
+W W
+W
+2 1 0
+B B
+B
+
+Test 960
+1 5 0
+W
+W B B B B
+
+4 4 0
+B W B B
+B W B W
+
+Test 961
+0 3 2
+
+W W W
+W W
+4 2 0
+B B B W
+B B
+
+Test 962
+0 0 3
+
+
+W W B
+1 4 5
+W
+W B B W
+B W B B W
+Test 963
+4 2 3
+W B W W
+B W
+B B B
+4 1 1
+B B B W
+B
+W
+Test 964
+0 4 3
+
+B B B W
+W W B
+2 1 1
+W W
+B
+W
+Test 965
+4 2 1
+B B W W
+B W
+W
+4 2 4
+B W B W
+B B
+B B B B
+Test 966
+0 4 0
+
+B B B W
+
+1 3 3
+B
+B B W
+W W B
+Test 967
+1 4 0
+W
+B W B B
+
+5 1 2
+W B B B B
+B
+B B
+Test 968
+4 0 2
+W B B B
+
+B W
+3 0 4
+B B B
+
+W B W W
+Test 969
+5 2 5
+B B B W B
+B W
+W W B B B
+1 0 0
+W
+
+
+Test 970
+0 3 0
+
+B B B
+
+1 0 5
+W
+
+B B B B W
+Test 971
+2 3 1
+W B
+W B B
+B
+3 1 3
+W W B
+B
+W W B
+Test 972
+0 4 0
+
+W W W W
+
+3 3 2
+W W W
+W W W
+B W
+Test 973
+5 0 3
+B W B W B
+
+B W B
+5 5 5
+W W W W B
+W B W B W
+W W W W W
+Test 974
+0 2 1
+
+B B
+W
+4 5 0
+W W W B
+B B W B B
+
+Test 975
+5 4 3
+W W B B W
+W B B W
+W B W
+5 4 1
+B W W W W
+B W B W
+B
+Test 976
+3 3 5
+B B B
+W B B
+W W B B B
+2 5 1
+B W
+B W W W W
+W
+Test 977
+0 0 1
+
+
+W
+2 3 2
+B W
+B B B
+W W
+Test 978
+4 0 2
+B W B B
+
+W W
+0 4 0
+
+B B W B
+
+Test 979
+1 0 5
+B
+
+B W W W W
+4 0 0
+W W B W
+
+
+Test 980
+0 2 3
+
+B B
+B W B
+4 4 3
+W W B B
+W B B W
+B B B
+Test 981
+5 2 4
+B B B W W
+B B
+W W B B
+2 2 5
+W W
+B B
+W B W B B
+Test 982
+5 2 1
+B B B B W
+W W
+W
+1 0 0
+W
+
+
+Test 983
+0 0 2
+
+
+W B
+0 4 3
+
+W W B B
+W B W
+Test 984
+0 1 4
+
+W
+W B B B
+3 3 4
+W B W
+B B W
+B W B B
+Test 985
+1 2 0
+W
+W W
+
+5 1 2
+B B B W W
+W
+W W
+Test 986
+0 3 5
+
+W B W
+W W B B W
+4 2 0
+B B W B
+B B
+
+Test 987
+3 1 3
+B B W
+B
+B W W
+0 0 4
+
+
+B W B W
+Test 988
+2 0 3
+W B
+
+W B B
+2 5 4
+B W
+B W W B B
+B B B W
+Test 989
+1 3 4
+W
+W W B
+B B W W
+4 2 2
+B W W B
+B B
+B W
+Test 990
+0 1 2
+
+B
+B W
+0 5 4
+
+W W W W B
+W W W B
+Test 991
+4 4 0
+B W B W
+B B B W
+
+0 1 1
+
+W
+B
+Test 992
+2 5 4
+B B
+W W B W B
+W W W W
+4 1 3
+W B W B
+B
+W B B
+Test 993
+4 2 1
+B W B W
+W W
+W
+4 1 1
+B B B B
+B
+W
+Test 994
+1 0 0
+B
+
+
+3 3 3
+W B W
+W B W
+B W W
+Test 995
+1 5 4
+B
+B B W B W
+B B W B
+2 5 1
+B W
+W W B B B
+B
+Test 996
+0 5 1
+
+B B W W W
+B
+2 4 3
+B B
+W B B B
+W B B
+Test 997
+5 5 1
+W W B W W
+W W W B B
+W
+5 4 3
+B B B B B
+B W B W
+B B W
+Test 998
+3 1 0
+B W B
+B
+
+0 5 3
+
+W W B W W
+W B W
+Test 999
+2 1 1
+W B
+W
+W
+1 5 4
+W
+W B B B W
+B W B W
+Test 1000
+0 5 4
+
+W W W W B
+B W W W
+5 0 1
+B W B B B
+
+B
+Test 1001
+3 3 1
+W B B
+W B W
+B
+3 3 3
+B W W
+B W W
+W B B
+Test 1002
+3 3 2
+W B B
+W B W
+B B
+3 3 3
+B W W
+B W W
+W B B
