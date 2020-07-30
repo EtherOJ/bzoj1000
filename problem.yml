@@ -1,0 +1,6 @@
+name: |
+  [POI2006]Mag-Warehouse
+source: bzoj (OI-Archive)
+time_limit: 5000
+timing_mode: total
+space_limit: 64
