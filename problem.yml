@@ -1,0 +1,5 @@
+name: "[Ahoi2009]self 同类分布"
+source: bzoj (OI-Archive)
+time_limit: 50000
+timing_mode: total
+space_limit: 64
