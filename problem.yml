@@ -1,0 +1,5 @@
+name: "[Nwerc2006]Ticket to Ride"
+source: bzoj (OI-Archive)
+time_limit: 1000
+timing_mode: total
+space_limit: 64
