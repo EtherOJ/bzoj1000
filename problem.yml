@@ -1,0 +1,5 @@
+name: "[Ctsc2010]三国围棋擂台赛"
+source: bzoj (OI-Archive)
+time_limit: 50000
+timing_mode: total
+space_limit: 259
