@@ -1,0 +1,6 @@
+name: |
+  [JSOI2010]Express Service 快递服务
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 64
