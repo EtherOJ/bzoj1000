@@ -1,0 +1,6 @@
+name: |
+  [Ioi2007]Pairs 彼此能听得见的动物对数
+source: bzoj (OI-Archive)
+time_limit: 20000
+timing_mode: total
+space_limit: 64
