@@ -1,0 +1,5 @@
+name: "[Ahoi2005]VIRUS 病毒检测"
+source: bzoj (OI-Archive)
+time_limit: 3000
+timing_mode: total
+space_limit: 64
