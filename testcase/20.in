@@ -1,0 +1,10 @@
+3 6
+root node1 node2
+node1 node3
+node2 node4
+L 35 45 15 5
+L 35 25 15 5
+R 25 25 25 15
+R 25 55 25 35
+R 25 55 25 65
+R 25 15 25 55

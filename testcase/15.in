@@ -1,0 +1,401 @@
+100 300
+root node1 node2 node3 node4 node5 node6 node7 node8 node9 node10 node11 node12 node13 node14 node15 node16 node17 node18 node19 node20 node21 node22 node23 node24 node25 node26 node27 node28 node29 node30 node31 node32 node33 node34 node35 node36 node37 node38 node39 node40 node41 node42 node43 node44 node45 node46 node47 node48 node49 node50 node51 node52 node53 node54 node55 node56 node57 node58 node59 node60 node61 node62 node63 node64 node65 node66 node67 node68 node69 node70 node71 node72 node73 node74 node75 node76 node77 node78 node79 node80 node81 node82 node83 node84 node85 node86 node87 node88 node89 node90 node91 node92 node93 node94 node95 node96 node97 node98 node99
+node1 node99(link) node20(link) node104 node146
+node2 node60(link) node113
+node3 node47(link) node15(link) node17(link)
+node4 node29(link) node93(link) node136 node22(link) node115
+node5 node103 node111
+node6 node117
+node7 node111(link)
+node8 node24(link)
+node9 node96(link) node85(link)
+node10 node68(link) node104(link) node23(link) node126
+node11 node13(link) node147 node140
+node12 node37(link) node92(link)
+node13 node55(link) node110 node110(link)
+node14 node112 node64(link) node101 node130
+node15 node93(link) node20(link) node69(link)
+node16 node69(link) node142 node77(link) node43(link)
+node17 node149 node138
+node18 node19(link) node132 node28(link)
+node19 node63(link) node148
+node20 node65(link)
+node21 node78(link) node92(link)
+node22 node34(link) node57(link) node36(link) node136(link)
+node23 node109 node86(link) node48(link) node134 node86(link)
+node24 node95(link) node116 node74(link) node104(link) node126(link)
+node25 node92(link) node132(link) node150 node149(link) node125
+node26 node49(link) node109(link)
+node27 node36(link)
+node28 node136(link)
+node29 node87(link) node88(link) node45(link) node86(link)
+node30 node104(link)
+node31 node128 node62(link) node56(link)
+node32 node33(link) node74(link) node76(link)
+node33 node132(link) node122 node35(link) node63(link) node87(link)
+node34 node70(link)
+node35 node69(link) node92(link) node125(link) node102 node111(link)
+node36 node53(link) node117(link) node128(link)
+node37 node137 node65(link) node147(link)
+node38 node68(link)
+node39 node131 node102(link) node74(link)
+node40 node141 node130(link) node146(link) node76(link) node111(link)
+node41 node141(link) node89(link) node119 node54(link) node139
+node42 node84(link) node48(link) node123 node129 node110(link)
+node43 node55(link)
+node44 node58(link) node88(link) node96(link) node102(link) node97(link)
+node45 node118 node95(link)
+node46 node81(link) node71(link) node130(link) node137(link) node115(link)
+node47 node70(link) node56(link)
+node48 node82(link) node111(link) node133 node86(link)
+node49 node102(link) node138(link) node96(link) node103(link)
+node50 node80(link) node106 node92(link)
+node51 node99(link) node97(link)
+node52 node56(link) node120 node119(link) node82(link)
+node53 node106(link)
+node54 node95(link) node76(link) node136(link)
+node55 node121 node145 node77(link) node96(link) node76(link)
+node56 node85(link) node79(link)
+node57 node93(link) node135 node121(link) node134(link)
+node58 node102(link) node117(link)
+node59 node103(link) node116(link)
+node60 node89(link) node100 node121(link) node143 node109(link)
+node61 node72(link) node107
+node62 node131(link)
+node63 node120(link) node67(link) node65(link) node123(link) node104(link)
+node64 node143(link) node134(link)
+node65 node106(link) node129(link) node113(link)
+node66 node125(link)
+node67 node95(link) node144 node146(link) node118(link)
+node68 node107(link) node107(link)
+node69 node105
+node70 node149(link) node150(link) node96(link)
+node71 node84(link) node96(link) node93(link) node109(link) node138(link)
+node72 node124 node100(link) node91(link) node107(link)
+node73 node148(link) node86(link) node98(link)
+node74 node135(link) node95(link)
+node75 node101(link) node147(link) node125(link)
+node76 node77(link) node107(link) node81(link) node145(link)
+node77 node115(link) node101(link) node84(link)
+node78 node107(link) node119(link) node85(link)
+node79 node107(link) node132(link) node106(link) node96(link)
+node80 node90(link) node138(link) node90(link) node137(link) node101(link)
+node81 node118(link) node147(link) node138(link)
+node82 node136(link)
+node83 node141(link) node93(link) node102(link) node107(link)
+node84 node120(link)
+node85 node142(link) node124(link) node96(link) node116(link) node148(link)
+node86 node125(link) node97(link) node149(link)
+node87 node144(link) node142(link) node109(link) node93(link) node124(link)
+node88 node113(link) node130(link) node124(link)
+node89 node112(link)
+node90 node126(link)
+node91 node140(link) node112(link) node130(link) node142(link)
+node92 node103(link) node135(link) node139(link) node130(link)
+node93 node133(link) node105(link) node134(link) node103(link)
+node94 node104(link) node128(link) node113(link) node123(link) node129(link)
+node95 node119(link) node100(link)
+node96 node143(link) node104(link)
+node97 node103(link) node129(link)
+node98 node106(link) node101(link)
+node99 node129(link)
+L 95 55 15 35
+R 55 115 45 115
+L 85 135 35 35
+L 65 55 75 135
+R 55 25 105 15
+R 105 125 95 115
+R 65 145 45 155
+R 15 135 95 25
+R 25 155 25 125
+L 95 45 25 125
+L 35 65 65 75
+R 55 25 65 95
+L 105 125 15 55
+R 55 95 35 125
+R 85 155 65 155
+R 85 135 105 125
+R 95 95 25 45
+L 85 125 65 115
+L 85 115 95 115
+L 85 65 35 25
+R 35 105 75 115
+L 75 65 75 25
+L 15 115 85 65
+R 45 95 35 115
+R 55 35 65 135
+R 85 135 95 105
+L 25 15 75 85
+R 15 155 15 115
+L 75 105 25 125
+L 15 25 65 65
+L 105 155 65 65
+R 75 125 35 15
+L 75 105 85 15
+L 65 15 75 45
+L 105 115 45 105
+R 25 35 95 125
+L 95 15 15 35
+L 85 115 95 155
+L 25 95 105 65
+L 95 15 65 115
+L 95 65 85 65
+R 45 125 105 145
+L 65 45 95 35
+L 105 35 15 15
+R 25 65 85 145
+L 25 85 35 95
+L 85 65 105 15
+R 55 75 75 155
+L 45 155 95 45
+L 25 35 35 85
+R 85 115 95 145
+L 85 85 35 55
+L 55 15 25 85
+L 15 135 95 75
+R 95 45 85 115
+L 85 95 45 25
+R 65 115 25 75
+R 75 45 45 155
+R 45 45 45 25
+R 45 25 65 95
+R 55 105 45 45
+L 25 55 55 135
+L 35 45 65 115
+L 105 15 55 45
+R 45 25 65 85
+R 105 25 85 105
+L 65 15 85 35
+L 65 35 85 125
+L 95 75 95 105
+R 105 145 45 145
+L 35 65 95 35
+L 65 45 105 25
+R 85 65 55 65
+R 15 135 65 35
+R 65 155 105 95
+L 105 145 15 115
+L 95 75 95 105
+L 25 85 45 125
+L 55 55 15 15
+L 85 105 15 75
+L 95 65 95 105
+R 105 25 45 105
+R 45 155 15 35
+L 105 75 95 125
+R 95 15 25 135
+L 85 85 95 95
+L 25 75 25 55
+L 65 55 95 135
+L 25 95 15 135
+L 105 155 35 75
+L 35 135 55 65
+L 35 115 55 85
+L 85 95 65 95
+R 35 85 65 145
+L 45 115 75 25
+L 95 45 85 25
+R 45 65 35 25
+R 35 35 85 105
+R 25 85 85 105
+R 75 15 55 15
+R 85 115 25 45
+L 75 135 45 125
+R 55 145 85 135
+R 45 25 15 15
+R 65 25 65 65
+R 35 55 35 45
+L 45 55 85 145
+L 85 125 55 95
+R 45 35 35 145
+R 55 95 85 155
+L 25 25 65 125
+R 105 145 55 135
+R 85 135 105 25
+L 45 65 85 75
+R 75 115 95 105
+L 55 155 15 25
+L 45 105 45 145
+L 15 25 65 65
+L 95 95 45 65
+L 85 85 15 155
+L 15 45 25 55
+R 15 115 75 115
+L 85 65 95 145
+L 95 15 35 45
+L 15 95 65 25
+L 85 25 25 85
+L 75 15 15 45
+R 85 65 35 85
+R 15 55 25 35
+L 25 105 25 75
+L 85 155 75 105
+L 65 145 35 25
+L 75 145 65 55
+L 65 55 105 65
+L 105 15 95 95
+R 65 35 95 155
+L 35 135 35 135
+R 55 35 55 55
+R 15 75 85 45
+R 55 35 55 35
+L 55 45 45 45
+R 55 115 45 145
+R 15 135 65 25
+L 85 135 105 25
+R 95 135 85 75
+L 25 35 15 125
+R 85 155 85 155
+L 65 125 15 135
+R 15 25 75 65
+R 25 65 45 55
+L 45 135 95 75
+R 85 135 45 95
+L 95 35 105 15
+L 35 145 35 85
+R 105 75 15 85
+L 85 125 75 55
+L 35 45 75 25
+R 75 55 85 45
+R 45 15 55 115
+L 95 75 15 55
+R 45 135 15 45
+L 45 45 105 145
+R 65 105 15 25
+R 105 75 95 25
+L 35 85 45 55
+R 95 55 75 45
+R 15 55 45 155
+L 105 145 55 145
+R 75 25 95 145
+L 55 25 105 65
+R 15 125 35 135
+L 15 135 85 125
+L 75 105 75 45
+L 75 15 85 95
+R 55 85 85 65
+R 95 115 15 55
+L 55 125 25 15
+L 35 75 55 125
+L 55 135 85 15
+L 35 135 75 125
+L 65 135 55 115
+R 15 55 65 85
+R 45 85 75 155
+L 15 155 25 125
+L 75 45 65 15
+R 35 145 105 85
+R 75 65 25 45
+L 55 35 55 135
+L 65 15 45 45
+L 85 135 95 65
+L 45 105 25 45
+R 45 135 15 95
+R 105 125 75 65
+R 45 85 105 95
+R 105 135 55 35
+L 15 75 15 105
+L 95 25 45 145
+R 35 155 35 125
+R 95 145 45 135
+R 55 15 85 15
+R 75 115 15 145
+R 25 135 65 155
+R 35 135 35 85
+R 95 85 15 115
+L 95 35 95 155
+R 85 135 75 85
+R 65 145 25 115
+L 65 25 35 125
+L 75 55 95 135
+R 25 35 45 135
+L 85 105 55 135
+L 105 135 85 85
+L 105 15 45 15
+L 25 45 25 15
+L 75 25 95 145
+R 55 35 15 135
+L 85 35 105 75
+R 35 45 35 115
+L 35 95 75 85
+R 45 125 45 15
+R 15 15 75 85
+R 25 125 35 155
+R 35 155 25 155
+L 105 135 75 135
+R 85 95 55 135
+R 85 105 65 145
+L 55 105 95 65
+L 95 125 95 155
+L 45 95 105 65
+L 15 155 105 55
+L 15 25 85 135
+R 25 145 35 15
+L 75 105 85 45
+L 105 155 15 35
+R 65 135 65 85
+L 85 145 95 115
+R 15 145 55 15
+L 105 35 55 135
+L 75 15 85 55
+R 55 135 55 135
+L 35 45 45 105
+L 95 15 65 35
+L 25 65 95 145
+L 35 125 35 95
+L 15 45 45 105
+L 55 135 95 135
+L 95 85 55 15
+L 85 155 15 95
+L 75 135 15 145
+R 35 145 55 25
+R 65 85 65 95
+L 95 25 15 145
+L 35 85 55 125
+L 15 145 45 135
+R 45 95 45 55
+R 15 95 35 35
+L 35 125 45 15
+L 45 145 65 155
+L 35 155 75 55
+L 25 125 95 145
+L 95 85 65 125
+L 85 25 25 125
+L 65 115 25 15
+R 15 75 75 95
+L 65 95 65 105
+R 75 105 85 85
+R 25 35 15 125
+R 35 85 35 105
+L 15 145 45 15
+L 105 125 55 135
+L 85 75 15 45
+R 85 45 85 25
+L 65 155 15 75
+L 85 25 65 55
+L 65 135 45 135
+R 35 125 85 135
+R 45 45 105 135
+R 55 135 15 15
+L 35 105 55 75
+R 65 25 45 125
+R 85 15 75 105
+R 75 95 75 155
+R 105 85 105 125
+L 85 65 35 55
+R 25 75 45 135
+R 85 125 35 155
+L 45 25 35 85
+R 85 155 45 115
+L 85 25 65 65
+L 45 135 15 125
+R 105 125 15 95
+R 35 85 105 45
+R 25 115 45 105
+R 35 65 105 65
+R 25 65 25 155
+R 15 25 95 135
+L 105 35 35 75
+L 85 135 35 25
+R 35 155 25 85
+L 55 105 15 65

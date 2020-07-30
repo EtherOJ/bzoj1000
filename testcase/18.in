@@ -1,0 +1,7 @@
+2 4
+root node1 node1(link)
+node1 node2 node3 node4
+L 25 55 35 25
+L 25 55 35 35
+L 25 55 35 45
+L 45 55 35 35

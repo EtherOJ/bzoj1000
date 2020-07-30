@@ -1,0 +1,2001 @@
+1000 1000
+root node1 node2 node3 node4 node5 node6 node7 node8 node9 node10 node11 node12 node13 node14 node15 node16 node17 node18 node19 node20 node21 node22 node23 node24 node25 node26 node27 node28 node29 node30 node31 node32 node33 node34 node35 node36 node37 node38 node39 node40 node41 node42 node43 node44 node45 node46 node47 node48 node49 node50 node51 node52 node53 node54 node55 node56 node57 node58 node59 node60 node61 node62 node63 node64 node65 node66 node67 node68 node69 node70 node71 node72 node73 node74 node75 node76 node77 node78 node79 node80 node81 node82 node83 node84 node85 node86 node87 node88 node89 node90 node91 node92 node93 node94 node95 node96 node97 node98 node99 node100 node101 node102 node103 node104 node105 node106 node107 node108 node109 node110 node111 node112 node113 node114 node115 node116 node117 node118 node119 node120 node121 node122 node123 node124 node125 node126 node127 node128 node129 node130 node131 node132 node133 node134 node135 node136 node137 node138 node139 node140 node141 node142 node143 node144 node145 node146 node147 node148 node149 node150 node151 node152 node153 node154 node155 node156 node157 node158 node159 node160 node161 node162 node163 node164 node165 node166 node167 node168 node169 node170 node171 node172 node173 node174 node175 node176 node177 node178 node179 node180 node181 node182 node183 node184 node185 node186 node187 node188 node189 node190 node191 node192 node193 node194 node195 node196 node197 node198 node199 node200 node201 node202 node203 node204 node205 node206 node207 node208 node209 node210 node211 node212 node213 node214 node215 node216 node217 node218 node219 node220 node221 node222 node223 node224 node225 node226 node227 node228 node229 node230 node231 node232 node233 node234 node235 node236 node237 node238 node239 node240 node241 node242 node243 node244 node245 node246 node247 node248 node249 node250 node251 node252 node253 node254 node255 node256 node257 node258 node259 node260 node261 node262 node263 node264 node265 node266 node267 node268 node269 node270 node271 node272 node273 node274 node275 node276 node277 node278 node279 node280 node281 node282 node283 node284 node285 node286 node287 node288 node289 node290 node291 node292 node293 node294 node295 node296 node297 node298 node299 node300 node301 node302 node303 node304 node305 node306 node307 node308 node309 node310 node311 node312 node313 node314 node315 node316 node317 node318 node319 node320 node321 node322 node323 node324 node325 node326 node327 node328 node329 node330 node331 node332 node333 node334 node335 node336 node337 node338 node339 node340 node341 node342 node343 node344 node345 node346 node347 node348 node349 node350 node351 node352 node353 node354 node355 node356 node357 node358 node359 node360 node361 node362 node363 node364 node365 node366 node367 node368 node369 node370 node371 node372 node373 node374 node375 node376 node377 node378 node379 node380 node381 node382 node383 node384 node385 node386 node387 node388 node389 node390 node391 node392 node393 node394 node395 node396 node397 node398 node399 node400 node401 node402 node403 node404 node405 node406 node407 node408 node409 node410 node411 node412 node413 node414 node415 node416 node417 node418 node419 node420 node421 node422 node423 node424 node425 node426 node427 node428 node429 node430 node431 node432 node433 node434 node435 node436 node437 node438 node439 node440 node441 node442 node443 node444 node445 node446 node447 node448 node449 node450 node451 node452 node453 node454 node455 node456 node457 node458 node459 node460 node461 node462 node463 node464 node465 node466 node467 node468 node469 node470 node471 node472 node473 node474 node475 node476 node477 node478 node479 node480 node481 node482 node483 node484 node485 node486 node487 node488 node489 node490 node491 node492 node493 node494 node495 node496 node497 node498 node499 node500 node501 node502 node503 node504 node505 node506 node507 node508 node509 node510 node511 node512 node513 node514 node515 node516 node517 node518 node519 node520 node521 node522 node523 node524 node525 node526 node527 node528 node529 node530 node531 node532 node533 node534 node535 node536 node537 node538 node539 node540 node541 node542 node543 node544 node545 node546 node547 node548 node549 node550 node551 node552 node553 node554 node555 node556 node557 node558 node559 node560 node561 node562 node563 node564 node565 node566 node567 node568 node569 node570 node571 node572 node573 node574 node575 node576 node577 node578 node579 node580 node581 node582 node583 node584 node585 node586 node587 node588 node589 node590 node591 node592 node593 node594 node595 node596 node597 node598 node599 node600 node601 node602 node603 node604 node605 node606 node607 node608 node609 node610 node611 node612 node613 node614 node615 node616 node617 node618 node619 node620 node621 node622 node623 node624 node625 node626 node627 node628 node629 node630 node631 node632 node633 node634 node635 node636 node637 node638 node639 node640 node641 node642 node643 node644 node645 node646 node647 node648 node649 node650 node651 node652 node653 node654 node655 node656 node657 node658 node659 node660 node661 node662 node663 node664 node665 node666 node667 node668 node669 node670 node671 node672 node673 node674 node675 node676 node677 node678 node679 node680 node681 node682 node683 node684 node685 node686 node687 node688 node689 node690 node691 node692 node693 node694 node695 node696 node697 node698 node699 node700 node701 node702 node703 node704 node705 node706 node707 node708 node709 node710 node711 node712 node713 node714 node715 node716 node717 node718 node719 node720 node721 node722 node723 node724 node725 node726 node727 node728 node729 node730 node731 node732 node733 node734 node735 node736 node737 node738 node739 node740 node741 node742 node743 node744 node745 node746 node747 node748 node749 node750 node751 node752 node753 node754 node755 node756 node757 node758 node759 node760 node761 node762 node763 node764 node765 node766 node767 node768 node769 node770 node771 node772 node773 node774 node775 node776 node777 node778 node779 node780 node781 node782 node783 node784 node785 node786 node787 node788 node789 node790 node791 node792 node793 node794 node795 node796 node797 node798 node799 node800 node801 node802 node803 node804 node805 node806 node807 node808 node809 node810 node811 node812 node813 node814 node815 node816 node817 node818 node819 node820 node821 node822 node823 node824 node825 node826 node827 node828 node829 node830 node831 node832 node833 node834 node835 node836 node837 node838 node839 node840 node841 node842 node843 node844 node845 node846 node847 node848 node849 node850 node851 node852 node853 node854 node855 node856 node857 node858 node859 node860 node861 node862 node863 node864 node865 node866 node867 node868 node869 node870 node871 node872 node873 node874 node875 node876 node877 node878 node879 node880 node881 node882 node883 node884 node885 node886 node887 node888 node889 node890 node891 node892 node893 node894 node895 node896 node897 node898 node899 node900 node901 node902 node903 node904 node905 node906 node907 node908 node909 node910 node911 node912 node913 node914 node915 node916 node917 node918 node919 node920 node921 node922 node923 node924 node925 node926 node927 node928 node929 node930 node931 node932 node933 node934 node935 node936 node937 node938 node939 node940 node941 node942 node943 node944 node945 node946 node947 node948 node949 node950 node951 node952 node953 node954 node955 node956 node957 node958 node959 node960 node961 node962 node963 node964 node965 node966 node967 node968 node969 node970 node971 node972 node973 node974 node975 node976 node977 node978 node979 node980 node981 node982 node983 node984 node985 node986 node987 node988 node989 node990 node991 node992 node993 node994 node995 node996 node997 node998 node999
+node1 node54(link)
+node2 node2214
+node3 node298(link)
+node4 node4105
+node5 node912(link)
+node6 node1271
+node7 node4920
+node8 node4622
+node9 node1506
+node10 node2485
+node11 node615(link)
+node12 node2574
+node13 node2540
+node14 node542(link)
+node15 node4718
+node16 node1631
+node17 node1964
+node18 node222(link)
+node19 node3832
+node20 node4163
+node21 node2114
+node22 node4899
+node23 node1520
+node24 node3837
+node25 node909(link)
+node26 node3920
+node27 node3230
+node28 node3444
+node29 node3440
+node30 node2162
+node31 node2466
+node32 node1535
+node33 node4643
+node34 node2663
+node35 node2184
+node36 node3668
+node37 node4731
+node38 node352(link)
+node39 node196(link)
+node40 node3594
+node41 node4284
+node42 node2958
+node43 node50(link)
+node44 node839(link)
+node45 node2818
+node46 node4639
+node47 node3318
+node48 node3140
+node49 node859(link)
+node50 node4407
+node51 node1529
+node52 node4932
+node53 node1908
+node54 node278(link)
+node55 node2745
+node56 node4777
+node57 node262(link)
+node58 node4065
+node59 node225(link)
+node60 node4955
+node61 node3707
+node62 node1556
+node63 node4522
+node64 node1129
+node65 node2500
+node66 node4278
+node67 node4407(link)
+node68 node4925
+node69 node779(link)
+node70 node3601
+node71 node798(link)
+node72 node3905
+node73 node4343
+node74 node4630
+node75 node4197
+node76 node884(link)
+node77 node1454
+node78 node4186
+node79 node2786
+node80 node3566
+node81 node1221
+node82 node4138
+node83 node1613
+node84 node2111
+node85 node383(link)
+node86 node2913
+node87 node114(link)
+node88 node3205
+node89 node382(link)
+node90 node4234
+node91 node1734
+node92 node1812
+node93 node2094
+node94 node123(link)
+node95 node4161
+node96 node2814
+node97 node2048
+node98 node1690
+node99 node2163
+node100 node360(link)
+node101 node2241
+node102 node4906
+node103 node4022
+node104 node330(link)
+node105 node4389
+node106 node519(link)
+node107 node2702
+node108 node4877
+node109 node1618
+node110 node1585
+node111 node1158
+node112 node160(link)
+node113 node3857
+node114 node863(link)
+node115 node344(link)
+node116 node2181
+node117 node378(link)
+node118 node631(link)
+node119 node2769
+node120 node658(link)
+node121 node2685
+node122 node3431
+node123 node790(link)
+node124 node4376
+node125 node3240
+node126 node3480
+node127 node3066
+node128 node1435
+node129 node3537
+node130 node877(link)
+node131 node1917
+node132 node704(link)
+node133 node2470
+node134 node2991
+node135 node4107
+node136 node896(link)
+node137 node2033
+node138 node3841
+node139 node1956
+node140 node2077
+node141 node318(link)
+node142 node4743
+node143 node1776
+node144 node2584
+node145 node4172
+node146 node1508
+node147 node3147
+node148 node406(link)
+node149 node1588
+node150 node2014
+node151 node300(link)
+node152 node1988
+node153 node2480
+node154 node2001
+node155 node995(link)
+node156 node2432
+node157 node4236
+node158 node3465
+node159 node1266
+node160 node3949
+node161 node4169
+node162 node1055
+node163 node3716
+node164 node4089
+node165 node3005
+node166 node4650
+node167 node1046
+node168 node3331
+node169 node4896
+node170 node2004
+node171 node363(link)
+node172 node4931
+node173 node1588(link)
+node174 node456(link)
+node175 node4664
+node176 node1744
+node177 node4584
+node178 node755(link)
+node179 node4408
+node180 node3003
+node181 node3435
+node182 node2651
+node183 node2403
+node184 node4097
+node185 node274(link)
+node186 node797(link)
+node187 node3493
+node188 node676(link)
+node189 node4389(link)
+node190 node2011
+node191 node4951
+node192 node1207
+node193 node865(link)
+node194 node456(link)
+node195 node2990
+node196 node1940
+node197 node3434
+node198 node1337
+node199 node711(link)
+node200 node4739
+node201 node3312
+node202 node1600
+node203 node2978
+node204 node2622
+node205 node571(link)
+node206 node4824
+node207 node1820
+node208 node4392
+node209 node4683
+node210 node3347
+node211 node3137
+node212 node1565
+node213 node3553
+node214 node3945
+node215 node1225
+node216 node4670
+node217 node2346
+node218 node2809
+node219 node3546
+node220 node1943
+node221 node1228
+node222 node4813
+node223 node3533
+node224 node889(link)
+node225 node4414
+node226 node4763
+node227 node4844
+node228 node4044
+node229 node1579
+node230 node584(link)
+node231 node408(link)
+node232 node2743
+node233 node3860
+node234 node1584
+node235 node1237
+node236 node3852
+node237 node4212
+node238 node3344
+node239 node4396
+node240 node4200
+node241 node1025
+node242 node3359
+node243 node4711
+node244 node763(link)
+node245 node281(link)
+node246 node701(link)
+node247 node3260
+node248 node4608
+node249 node2391
+node250 node1062
+node251 node2431
+node252 node3402
+node253 node3415
+node254 node3341
+node255 node506(link)
+node256 node4806
+node257 node1351
+node258 node3058
+node259 node1441
+node260 node4050
+node261 node298(link)
+node262 node3066(link)
+node263 node1459
+node264 node2623
+node265 node4370
+node266 node3193
+node267 node2787
+node268 node2959
+node269 node2916
+node270 node3699
+node271 node3850
+node272 node1886
+node273 node2884
+node274 node3312(link)
+node275 node4931(link)
+node276 node1316
+node277 node3363
+node278 node2440
+node279 node1764
+node280 node4089(link)
+node281 node1174
+node282 node2426
+node283 node3922
+node284 node4914
+node285 node1121
+node286 node2533
+node287 node2799
+node288 node3207
+node289 node4020
+node290 node3312(link)
+node291 node644(link)
+node292 node3566(link)
+node293 node3292
+node294 node4059
+node295 node4364
+node296 node1924
+node297 node3136
+node298 node2250
+node299 node1464
+node300 node4440
+node301 node3708
+node302 node808(link)
+node303 node2227
+node304 node4144
+node305 node1866
+node306 node2864
+node307 node2064
+node308 node1793
+node309 node3210
+node310 node3083
+node311 node2770
+node312 node3058(link)
+node313 node365(link)
+node314 node871(link)
+node315 node826(link)
+node316 node3480(link)
+node317 node3770
+node318 node4156
+node319 node3427
+node320 node950(link)
+node321 node2137
+node322 node643(link)
+node323 node1984
+node324 node3402(link)
+node325 node730(link)
+node326 node2561
+node327 node2155
+node328 node2294
+node329 node2167
+node330 node909(link)
+node331 node4893
+node332 node2117
+node333 node515(link)
+node334 node4618
+node335 node4775
+node336 node2845
+node337 node3564
+node338 node547(link)
+node339 node4292
+node340 node661(link)
+node341 node4580
+node342 node4997
+node343 node3503
+node344 node519(link)
+node345 node4614
+node346 node2655
+node347 node970(link)
+node348 node935(link)
+node349 node4280
+node350 node601(link)
+node351 node1542
+node352 node2123
+node353 node3949(link)
+node354 node428(link)
+node355 node1988(link)
+node356 node4542
+node357 node1275
+node358 node4736
+node359 node2328
+node360 node4005
+node361 node1582
+node362 node2091
+node363 node3679
+node364 node1909
+node365 node3505
+node366 node4367
+node367 node2287
+node368 node2842
+node369 node2401
+node370 node1915
+node371 node1793(link)
+node372 node1398
+node373 node3446
+node374 node790(link)
+node375 node3532
+node376 node1950
+node377 node3728
+node378 node2151
+node379 node578(link)
+node380 node4593
+node381 node2011(link)
+node382 node2466(link)
+node383 node3231
+node384 node4753
+node385 node884(link)
+node386 node2594
+node387 node2420
+node388 node1876
+node389 node1477
+node390 node398(link)
+node391 node4662
+node392 node722(link)
+node393 node759(link)
+node394 node4543
+node395 node2739
+node396 node1123
+node397 node1633
+node398 node4781
+node399 node4257
+node400 node1279
+node401 node1791
+node402 node3558
+node403 node3407
+node404 node2951
+node405 node2876
+node406 node1471
+node407 node3883
+node408 node3576
+node409 node3539
+node410 node2318
+node411 node418(link)
+node412 node478(link)
+node413 node535(link)
+node414 node4534
+node415 node1094
+node416 node4534(link)
+node417 node1891
+node418 node4672
+node419 node1434
+node420 node1753
+node421 node432(link)
+node422 node1261
+node423 node2952
+node424 node1821
+node425 node4704
+node426 node1046(link)
+node427 node901(link)
+node428 node911(link)
+node429 node2622(link)
+node430 node3713
+node431 node3795
+node432 node466(link)
+node433 node3563
+node434 node3292(link)
+node435 node1219
+node436 node863(link)
+node437 node2471
+node438 node2923
+node439 node1857
+node440 node4422
+node441 node2192
+node442 node4397
+node443 node1124
+node444 node4311
+node445 node965(link)
+node446 node3839
+node447 node3736
+node448 node3730
+node449 node4198
+node450 node4393
+node451 node1730
+node452 node3222
+node453 node3958
+node454 node3673
+node455 node2979
+node456 node4786
+node457 node976(link)
+node458 node2181(link)
+node459 node1895
+node460 node2627
+node461 node2493
+node462 node2989
+node463 node653(link)
+node464 node1885
+node465 node974(link)
+node466 node3412
+node467 node3165
+node468 node2812
+node469 node4291
+node470 node3026
+node471 node2529
+node472 node4656
+node473 node1703
+node474 node1525
+node475 node4963
+node476 node1628
+node477 node555(link)
+node478 node1971
+node479 node3355
+node480 node4917
+node481 node2009
+node482 node1525(link)
+node483 node4910
+node484 node1988(link)
+node485 node4188
+node486 node3774
+node487 node3366
+node488 node1972
+node489 node4372
+node490 node1042
+node491 node1181
+node492 node2087
+node493 node1902
+node494 node1328
+node495 node3925
+node496 node2631
+node497 node4462
+node498 node674(link)
+node499 node3097
+node500 node815(link)
+node501 node1749
+node502 node792(link)
+node503 node4405
+node504 node4256
+node505 node1196
+node506 node2964
+node507 node949(link)
+node508 node4062
+node509 node4495
+node510 node3284
+node511 node3573
+node512 node2943
+node513 node4872
+node514 node2726
+node515 node4221
+node516 node3105
+node517 node2753
+node518 node606(link)
+node519 node2243
+node520 node4619
+node521 node1462
+node522 node3935
+node523 node905(link)
+node524 node1033
+node525 node1702
+node526 node4509
+node527 node3395
+node528 node2884(link)
+node529 node836(link)
+node530 node2458
+node531 node4725
+node532 node3414
+node533 node3749
+node534 node3314
+node535 node1280
+node536 node1604
+node537 node1042(link)
+node538 node3392
+node539 node3760
+node540 node2653
+node541 node2565
+node542 node3977
+node543 node4720
+node544 node1943(link)
+node545 node1743
+node546 node2362
+node547 node3635
+node548 node4637
+node549 node1734(link)
+node550 node1246
+node551 node1448
+node552 node3674
+node553 node2005
+node554 node4341
+node555 node3602
+node556 node4871
+node557 node2452
+node558 node1851
+node559 node871(link)
+node560 node3221
+node561 node2515
+node562 node1580
+node563 node4500
+node564 node855(link)
+node565 node4043
+node566 node2737
+node567 node3289
+node568 node1902(link)
+node569 node3408
+node570 node2964(link)
+node571 node2204
+node572 node2052
+node573 node4757
+node574 node4939
+node575 node3402(link)
+node576 node3804
+node577 node866(link)
+node578 node3123
+node579 node726(link)
+node580 node4291(link)
+node581 node2879
+node582 node4972
+node583 node817(link)
+node584 node4616
+node585 node4323
+node586 node2751
+node587 node2735
+node588 node2452(link)
+node589 node4128
+node590 node4235
+node591 node714(link)
+node592 node4859
+node593 node1016
+node594 node4690
+node595 node2667
+node596 node1517
+node597 node2640
+node598 node4944
+node599 node4737
+node600 node4165
+node601 node1452
+node602 node2141
+node603 node3455
+node604 node2296
+node605 node2198
+node606 node4024
+node607 node1623
+node608 node3040
+node609 node2680
+node610 node1249
+node611 node4985
+node612 node3799
+node613 node4380
+node614 node1491
+node615 node2753(link)
+node616 node1915(link)
+node617 node2958(link)
+node618 node3716(link)
+node619 node2161
+node620 node4333
+node621 node4729
+node622 node886(link)
+node623 node2795
+node624 node3585
+node625 node2633
+node626 node1331
+node627 node1670
+node628 node2859
+node629 node692(link)
+node630 node3737
+node631 node4330
+node632 node4045
+node633 node4514
+node634 node4574
+node635 node3640
+node636 node3976
+node637 node4309
+node638 node4742
+node639 node4878
+node640 node4063
+node641 node3444(link)
+node642 node4696
+node643 node2906
+node644 node3156
+node645 node3297
+node646 node1779
+node647 node3199
+node648 node658(link)
+node649 node2198(link)
+node650 node2683
+node651 node2992
+node652 node2393
+node653 node3034
+node654 node4037
+node655 node4556
+node656 node3031
+node657 node3871
+node658 node2205
+node659 node3530
+node660 node2298
+node661 node940(link)
+node662 node1236
+node663 node744(link)
+node664 node1260
+node665 node4741
+node666 node1704
+node667 node1541
+node668 node1691
+node669 node1719
+node670 node1910
+node671 node4415
+node672 node3768
+node673 node3720
+node674 node3718
+node675 node2736
+node676 node1272
+node677 node2919
+node678 node4601
+node679 node2805
+node680 node4171
+node681 node2518
+node682 node4006
+node683 node2971
+node684 node2223
+node685 node4403
+node686 node2729
+node687 node3140(link)
+node688 node3143
+node689 node3973
+node690 node3643
+node691 node2199
+node692 node1399
+node693 node4575
+node694 node2016
+node695 node856(link)
+node696 node2483
+node697 node1905
+node698 node1762
+node699 node3251
+node700 node4845
+node701 node1714
+node702 node2365
+node703 node3702
+node704 node3171
+node705 node1271(link)
+node706 node2278
+node707 node3857(link)
+node708 node1851(link)
+node709 node844(link)
+node710 node3082
+node711 node1871
+node712 node1663
+node713 node1718
+node714 node3277
+node715 node1056
+node716 node764(link)
+node717 node3628
+node718 node3996
+node719 node885(link)
+node720 node1285
+node721 node3884
+node722 node2542
+node723 node4503
+node724 node4395
+node725 node4228
+node726 node4233
+node727 node1983
+node728 node2884(link)
+node729 node3896
+node730 node1210
+node731 node3946
+node732 node2615
+node733 node975(link)
+node734 node2639
+node735 node1458
+node736 node2449
+node737 node763(link)
+node738 node4864
+node739 node4998
+node740 node1799
+node741 node3456
+node742 node4971
+node743 node4118
+node744 node4723
+node745 node3910
+node746 node4231
+node747 node1740
+node748 node2219
+node749 node3090
+node750 node2398
+node751 node2314
+node752 node2723
+node753 node2978(link)
+node754 node2978(link)
+node755 node1702(link)
+node756 node1239
+node757 node2486
+node758 node4300
+node759 node4114
+node760 node4288
+node761 node3701
+node762 node4688
+node763 node1789
+node764 node1256
+node765 node2977
+node766 node3624
+node767 node2108
+node768 node3646
+node769 node1159
+node770 node1061
+node771 node1948
+node772 node2458(link)
+node773 node3770(link)
+node774 node4741(link)
+node775 node3248
+node776 node2820
+node777 node2409
+node778 node3610
+node779 node4355
+node780 node4320
+node781 node4006(link)
+node782 node4820
+node783 node2930
+node784 node3660
+node785 node2359
+node786 node1779(link)
+node787 node4997(link)
+node788 node4790
+node789 node4809
+node790 node2248
+node791 node2654
+node792 node1318
+node793 node2067
+node794 node2605
+node795 node4556(link)
+node796 node2193
+node797 node900(link)
+node798 node3766
+node799 node1823
+node800 node4261
+node801 node845(link)
+node802 node4199
+node803 node4341(link)
+node804 node1670(link)
+node805 node891(link)
+node806 node3376
+node807 node3372
+node808 node4881
+node809 node4534(link)
+node810 node3602(link)
+node811 node1734(link)
+node812 node2139
+node813 node3861
+node814 node4225
+node815 node3095
+node816 node1926
+node817 node3773
+node818 node2533(link)
+node819 node2613
+node820 node3564(link)
+node821 node4716
+node822 node3258
+node823 node2646
+node824 node4859(link)
+node825 node3377
+node826 node4464
+node827 node1959
+node828 node2738
+node829 node919(link)
+node830 node954(link)
+node831 node4595
+node832 node4006(link)
+node833 node2266
+node834 node3436
+node835 node1389
+node836 node1859
+node837 node1817
+node838 node1613(link)
+node839 node3932
+node840 node4335
+node841 node3463
+node842 node2236
+node843 node4441
+node844 node4324
+node845 node2307
+node846 node2025
+node847 node1510
+node848 node2068
+node849 node3179
+node850 node2822
+node851 node2673
+node852 node1797
+node853 node3411
+node854 node1651
+node855 node1442
+node856 node3750
+node857 node1483
+node858 node3022
+node859 node4186(link)
+node860 node2619
+node861 node4424
+node862 node2187
+node863 node4746
+node864 node2101
+node865 node3467
+node866 node4608(link)
+node867 node1786
+node868 node4133
+node869 node2254
+node870 node1256(link)
+node871 node1181(link)
+node872 node3939
+node873 node2084
+node874 node1243
+node875 node3715
+node876 node2258
+node877 node3334
+node878 node4852
+node879 node1033(link)
+node880 node1911
+node881 node3379
+node882 node3985
+node883 node1347
+node884 node4404
+node885 node2133
+node886 node1833
+node887 node912(link)
+node888 node2525
+node889 node3618
+node890 node2161(link)
+node891 node3188
+node892 node2869
+node893 node3203
+node894 node3632
+node895 node4483
+node896 node1696
+node897 node2596
+node898 node1449
+node899 node3234
+node900 node2164
+node901 node1796
+node902 node2991(link)
+node903 node2337
+node904 node3904
+node905 node3007
+node906 node3265
+node907 node4730
+node908 node2142
+node909 node4893(link)
+node910 node1462(link)
+node911 node2845(link)
+node912 node2896
+node913 node3072
+node914 node3493(link)
+node915 node4963(link)
+node916 node2060
+node917 node2689
+node918 node984(link)
+node919 node4120
+node920 node2109
+node921 node2825
+node922 node1282
+node923 node3941
+node924 node1804
+node925 node4063(link)
+node926 node4337
+node927 node4773
+node928 node2404
+node929 node1432
+node930 node3847
+node931 node4400
+node932 node2346(link)
+node933 node3616
+node934 node2812(link)
+node935 node1095
+node936 node1732
+node937 node4578
+node938 node4815
+node939 node1049
+node940 node3703
+node941 node4213
+node942 node4009
+node943 node4340
+node944 node4639(link)
+node945 node3086
+node946 node4576
+node947 node1111
+node948 node2853
+node949 node3063
+node950 node4536
+node951 node1597
+node952 node1390
+node953 node3554
+node954 node2025(link)
+node955 node1152
+node956 node4611
+node957 node4667
+node958 node3464
+node959 node2374
+node960 node4005(link)
+node961 node4229
+node962 node1868
+node963 node1357
+node964 node4741(link)
+node965 node3738
+node966 node4508
+node967 node4250
+node968 node4658
+node969 node3368
+node970 node3020
+node971 node4816
+node972 node1500
+node973 node2770(link)
+node974 node3554(link)
+node975 node2344
+node976 node3772
+node977 node4337(link)
+node978 node3152
+node979 node3100
+node980 node1006
+node981 node3393
+node982 node1364
+node983 node2909
+node984 node2702(link)
+node985 node1941
+node986 node3491
+node987 node1579(link)
+node988 node3279
+node989 node3917
+node990 node2018
+node991 node2395
+node992 node1794
+node993 node1136
+node994 node2086
+node995 node3368(link)
+node996 node1443
+node997 node2811
+node998 node1753(link)
+node999 node1519
+R 15 1225 65 835
+L 85 3305 135 3075
+R 135 1715 135 945
+R 25 1485 55 725
+R 105 2155 55 1945
+L 65 4515 135 795
+R 25 4555 65 2075
+L 145 3255 125 4485
+L 105 1685 115 1125
+R 155 2495 155 4125
+R 95 675 75 4165
+L 65 1725 85 2955
+L 125 575 65 3155
+L 15 485 75 3015
+L 155 3645 105 465
+R 85 3545 95 2855
+L 135 1445 155 4585
+R 45 2645 135 3435
+R 35 3265 35 4345
+L 15 1725 85 235
+R 75 35 75 4745
+R 65 2255 25 3915
+L 25 1695 45 845
+R 75 395 125 2945
+L 45 2845 75 3765
+L 115 3725 155 3515
+L 125 4265 55 4035
+L 135 3955 115 3085
+L 25 2845 45 4645
+R 65 1005 145 3565
+L 105 2705 65 1925
+R 65 2605 15 4445
+L 125 1615 125 4495
+L 85 975 55 2285
+R 45 4045 135 2615
+R 145 2295 65 3675
+L 95 2905 15 315
+R 35 4745 95 4275
+L 125 3395 95 2705
+R 65 4125 95 1285
+L 45 1765 155 2225
+L 85 2525 95 2945
+R 55 335 125 3915
+L 75 2225 105 2625
+R 105 445 135 1935
+L 65 3905 45 4485
+R 45 4765 25 1035
+L 125 1245 125 4925
+L 125 4055 155 3825
+L 115 1695 135 3895
+L 65 2865 105 3005
+R 35 4075 15 4195
+L 85 4575 135 3125
+R 45 2595 155 1995
+R 65 3105 115 3525
+R 85 1565 45 2145
+R 155 3725 15 475
+L 155 635 115 825
+L 125 4405 65 305
+R 155 2805 25 4425
+R 55 4675 65 3045
+R 125 1485 25 1485
+R 85 4355 45 715
+R 135 3575 145 135
+R 85 755 125 3505
+R 55 4165 25 645
+R 15 1445 125 3865
+L 35 3585 115 3885
+L 25 1335 115 485
+R 65 2605 125 4745
+R 85 1545 105 175
+R 145 1245 35 1585
+L 15 595 45 4655
+R 65 3065 75 3865
+R 115 3515 15 4305
+R 45 2145 35 2655
+L 135 1915 15 4945
+L 35 3175 105 3125
+R 65 4915 95 1695
+L 95 1785 55 2315
+L 75 385 35 1595
+L 65 2225 75 2755
+R 135 2455 115 715
+R 145 4465 125 3995
+R 95 2025 75 4555
+L 125 4235 115 3725
+R 65 1735 75 245
+L 95 2825 135 545
+R 155 1775 35 2905
+R 65 4045 35 135
+R 95 3055 45 535
+L 85 4015 105 4665
+L 125 575 15 3665
+R 35 4505 25 925
+R 125 2195 15 4745
+R 35 4155 65 2505
+L 95 2245 15 905
+L 145 1145 135 3605
+L 35 4775 35 3275
+R 25 3285 25 445
+L 75 2085 75 3315
+L 95 4185 25 4305
+R 115 545 35 2725
+R 135 2375 105 4555
+L 145 305 95 3005
+L 135 4865 35 1885
+R 85 1545 45 825
+L 35 3195 25 2535
+L 105 605 55 1405
+R 65 4415 65 2215
+R 15 1135 25 1995
+R 135 2285 25 95
+L 15 1855 95 655
+L 85 3965 85 4745
+L 25 955 155 3865
+L 145 605 55 865
+L 135 4975 155 3885
+R 15 1025 155 3315
+L 15 3065 85 795
+R 85 1565 85 905
+R 25 1385 95 3235
+R 115 2035 135 1535
+L 95 2395 155 2305
+R 115 2505 85 35
+L 145 3185 55 3745
+L 125 4755 45 125
+R 115 2125 115 3985
+R 35 635 65 325
+L 115 445 145 3075
+L 155 2665 135 1665
+R 15 3195 125 865
+R 65 2395 95 4555
+L 145 465 35 3235
+R 45 3365 65 2335
+L 85 3255 145 1305
+L 45 1375 115 625
+R 55 3685 135 375
+R 25 2415 75 1785
+L 155 1585 25 4015
+L 85 2075 35 545
+R 15 2575 25 4885
+L 45 3655 85 295
+R 65 2655 85 145
+R 15 4005 115 2715
+L 75 4295 135 3715
+L 115 3945 55 4515
+L 55 3015 65 1885
+L 105 4985 105 1665
+L 95 1505 45 1725
+L 95 4355 115 4245
+R 155 975 85 3665
+R 15 4355 15 105
+L 65 4945 55 4415
+L 115 4945 25 1895
+R 55 395 115 3825
+L 65 1735 75 1635
+R 75 4405 85 15
+R 95 925 25 425
+L 105 2195 145 1825
+L 105 4485 85 365
+L 105 4325 15 3435
+R 95 1275 15 2255
+R 95 4635 55 4905
+R 65 4015 25 1825
+L 15 415 45 3275
+L 135 1985 35 4915
+R 145 1715 125 4995
+R 65 4815 45 2675
+L 75 3125 55 4495
+L 55 4085 85 1255
+L 55 435 55 2325
+R 85 3585 35 4235
+L 125 1595 125 1095
+L 155 3635 15 3815
+R 55 4915 65 735
+R 65 4555 25 3115
+R 135 1825 115 4515
+L 145 4745 75 265
+R 125 1185 35 2815
+L 85 2905 105 845
+L 115 4975 65 925
+L 45 4645 65 3365
+L 55 4245 125 2235
+L 105 1985 65 2105
+L 135 1615 155 1635
+R 125 1645 115 3065
+L 85 2205 115 4515
+L 105 4375 145 485
+L 105 1155 95 4365
+R 95 4615 25 3615
+L 85 3725 145 1845
+R 155 4135 115 2985
+R 55 2175 125 3345
+L 145 3475 85 2205
+R 145 4925 65 865
+R 75 4405 45 1945
+L 105 1325 145 2175
+R 155 385 15 1035
+R 125 4265 125 365
+R 65 2205 65 4575
+R 55 1925 145 3755
+L 15 4355 45 3445
+L 55 2735 25 4455
+L 145 2165 45 1505
+R 15 425 35 4435
+L 45 3025 95 635
+R 105 3995 95 1955
+L 125 3955 95 4855
+L 45 675 85 295
+R 155 815 155 4445
+R 155 3255 155 645
+L 15 1745 65 2415
+L 125 4495 25 3325
+R 115 155 35 4025
+L 65 3375 145 4325
+L 95 3275 125 1905
+R 75 865 115 1985
+L 25 1735 35 3675
+L 15 875 85 3455
+L 25 3645 115 3305
+L 15 2685 25 3225
+L 145 2785 115 875
+R 55 3495 55 2205
+L 45 1185 115 1815
+L 105 2075 155 3115
+R 65 1585 115 4755
+R 125 1045 155 3855
+R 35 645 55 2975
+R 135 955 95 4755
+L 125 3305 65 3265
+L 95 335 35 95
+L 105 1955 155 2445
+L 135 2715 15 2555
+L 25 3205 35 1435
+L 75 1435 45 2275
+R 35 2825 95 1285
+L 135 2835 105 1445
+R 105 3885 115 3515
+R 135 3905 75 2605
+L 75 3545 85 2745
+R 145 4275 15 3785
+L 55 3575 155 4425
+R 65 4315 15 975
+R 95 905 105 4015
+R 25 2325 95 1785
+L 145 3695 145 2085
+L 145 4525 125 3845
+R 55 4615 135 3115
+L 105 2505 25 4585
+R 25 4875 35 135
+R 105 3745 25 1335
+R 135 4685 85 1135
+L 95 2875 145 2125
+R 115 355 85 4065
+R 145 1945 95 4585
+L 155 4795 75 2795
+R 85 1435 155 3385
+R 55 3555 105 3185
+L 115 3665 25 4515
+R 75 355 15 1105
+L 75 855 155 3775
+L 25 2265 115 435
+R 155 435 155 3075
+R 45 3775 155 3305
+R 115 825 155 1415
+R 25 1165 155 285
+R 95 1825 65 1315
+L 15 665 35 225
+R 115 1565 135 165
+R 45 1475 45 995
+R 85 305 145 1625
+R 125 3865 75 1155
+R 85 4865 15 4955
+R 45 3795 25 15
+L 55 1265 75 425
+L 155 2485 15 1335
+R 75 465 75 2315
+R 155 4415 105 3635
+R 105 4475 25 4915
+L 75 3945 85 135
+R 45 1495 65 4055
+R 155 745 65 3735
+L 115 3515 35 2775
+L 75 2225 15 3295
+L 105 1845 75 425
+L 35 1415 105 4085
+L 155 4345 85 3495
+R 45 2535 115 4335
+L 145 225 85 2455
+L 155 205 155 795
+R 15 95 65 2805
+L 135 1655 75 2845
+L 75 4295 125 4285
+R 85 1725 25 4205
+L 125 4435 35 3585
+R 15 3125 135 4045
+R 45 545 35 2425
+R 145 805 75 2525
+R 15 3795 155 2175
+L 95 3825 135 305
+R 15 3335 125 2265
+R 55 4265 145 4365
+R 65 3805 85 1435
+L 105 3145 145 3945
+R 75 3385 155 1105
+R 135 2265 35 4735
+R 25 15 105 2195
+L 85 1555 135 3925
+L 75 225 145 2085
+L 25 2615 95 1975
+R 115 3415 25 4235
+L 45 2795 125 3535
+L 15 4005 45 135
+L 35 2365 15 1925
+R 155 2955 55 2845
+R 105 1505 35 3305
+L 25 1315 65 3255
+R 25 2265 45 2315
+L 45 4255 15 1135
+L 65 4615 115 2325
+R 25 525 105 995
+L 25 645 155 2525
+R 35 3325 125 635
+R 155 2405 55 845
+L 15 4235 15 3775
+L 45 4965 95 4405
+R 85 2295 25 1695
+L 15 2375 105 115
+R 115 1815 135 4025
+R 45 2365 85 1395
+L 155 3495 105 1325
+L 85 4505 25 335
+L 75 925 115 2115
+R 155 1375 125 835
+R 85 2435 75 2755
+R 135 1645 95 4615
+L 55 335 155 4565
+R 15 2895 55 2735
+R 125 4455 55 1215
+L 135 4065 25 3125
+L 55 4645 35 2925
+L 75 5005 145 2325
+R 85 1545 95 205
+L 155 3635 15 495
+L 55 2425 115 835
+L 35 325 145 1425
+L 115 1345 145 4085
+L 15 2715 135 985
+L 155 1015 45 135
+R 75 3695 75 4285
+L 145 445 115 4465
+R 125 3815 45 2035
+R 55 4075 125 1255
+R 45 165 115 3935
+L 145 2365 75 2955
+R 145 1425 75 3395
+L 155 3455 145 3055
+R 125 2415 125 1735
+R 65 4795 105 1065
+L 15 4275 125 325
+R 75 4765 95 3805
+R 135 185 45 3895
+L 45 2625 45 975
+R 115 4485 85 3085
+L 135 3125 15 295
+L 85 2535 135 3115
+L 15 3955 65 1295
+L 35 3285 55 2225
+L 115 1265 65 4255
+R 105 255 105 1385
+R 25 3395 25 2955
+L 125 4765 85 1405
+R 105 4025 145 2225
+R 15 4775 55 1145
+L 55 1285 105 3405
+R 65 1375 145 1515
+L 105 1525 105 4085
+R 15 1055 55 415
+R 45 2785 155 2505
+R 145 3605 85 1235
+R 35 3505 145 3425
+L 25 685 125 1385
+L 155 3035 95 2735
+R 135 4645 125 4495
+L 155 2145 25 2745
+L 45 1505 105 3795
+L 15 615 155 3635
+L 85 1435 115 4715
+R 35 1045 95 955
+L 135 3935 45 2025
+R 55 2815 155 3135
+R 115 85 135 3165
+R 105 3385 95 895
+R 75 4725 125 845
+R 75 2655 155 425
+L 95 4045 125 4665
+L 35 3705 115 205
+L 155 4715 45 1615
+R 125 4805 135 3215
+L 35 3115 75 1095
+L 65 2665 145 2355
+L 35 485 55 3015
+R 155 3235 45 745
+L 85 855 115 1625
+L 15 2055 35 2815
+L 35 3325 75 365
+R 45 115 115 2445
+L 95 2175 115 3635
+R 65 2945 95 3735
+R 35 2255 85 955
+R 155 3675 155 1535
+R 25 3805 115 2325
+L 45 4195 105 815
+R 105 545 55 4635
+L 145 4685 95 3735
+R 65 3765 85 3635
+R 15 3095 35 605
+R 145 3985 35 3865
+L 95 3045 45 2465
+R 45 3485 155 1625
+R 25 2735 85 2015
+R 105 1505 35 3115
+L 15 4625 115 1995
+L 25 4205 25 3105
+R 65 2275 25 3605
+R 35 4535 115 3385
+R 25 505 145 255
+R 35 1745 15 1375
+L 125 755 155 495
+L 15 1095 95 2005
+R 55 3665 35 4905
+R 25 425 35 2065
+R 75 3125 35 3945
+R 115 4325 125 4755
+R 45 1585 45 3175
+R 85 3275 125 4505
+L 95 2455 15 3065
+R 115 3855 125 3165
+L 15 4235 105 1085
+R 25 3915 115 385
+R 115 3495 115 3175
+L 115 4605 125 4935
+L 25 3535 15 435
+L 85 125 75 1725
+L 15 4345 45 785
+L 105 4175 55 935
+L 75 2855 15 3895
+L 15 4315 35 1785
+L 35 785 45 885
+L 125 4605 45 4585
+R 85 4695 125 3635
+L 35 835 95 1475
+R 25 2065 125 905
+L 85 4005 15 1845
+L 135 1365 155 245
+R 85 4825 115 1855
+L 15 165 155 4205
+R 115 2065 65 4795
+R 55 4915 85 955
+L 155 2145 55 1305
+R 155 2565 35 3825
+R 45 2565 75 745
+L 75 495 45 3275
+R 65 2725 105 835
+R 15 4975 75 3905
+L 125 2965 125 2345
+L 25 3995 45 4935
+R 125 3205 65 3765
+R 135 4125 35 2385
+L 95 3315 35 175
+L 105 2635 15 3445
+R 145 4685 95 1865
+R 115 2645 155 3955
+L 115 3175 15 3585
+L 85 3725 105 3335
+L 125 2175 95 235
+R 85 3055 105 4285
+L 55 4265 75 2945
+L 85 1045 15 1215
+R 35 1995 155 305
+L 95 1155 155 2385
+L 65 15 75 3025
+R 155 2655 145 1335
+R 135 2395 105 4055
+R 155 725 35 2035
+R 125 2445 75 1585
+L 45 3225 65 4505
+R 115 2045 125 795
+R 115 815 85 1405
+R 75 3565 25 4765
+R 15 3945 35 2595
+R 105 2525 95 2605
+R 115 3545 135 1695
+R 85 4495 145 1505
+R 85 775 125 4355
+R 145 4745 55 3515
+L 65 205 25 4935
+R 105 655 55 1175
+L 55 4935 155 25
+L 15 1865 115 2405
+L 95 1355 55 3675
+R 115 1305 105 3475
+R 55 2845 75 3525
+L 65 4905 95 4815
+L 75 4325 145 1365
+R 15 4055 85 2305
+R 105 2905 145 675
+L 25 1205 135 4305
+R 105 3465 125 1265
+L 115 3345 105 465
+L 155 1365 35 645
+L 35 4675 95 335
+R 75 3475 155 1495
+R 115 3895 115 3565
+L 55 4015 95 1885
+R 15 4625 155 4355
+R 85 4245 45 2355
+L 85 2915 155 1045
+R 65 2875 115 4765
+R 155 1885 35 3445
+R 95 985 115 925
+L 115 4165 35 75
+L 45 1525 65 2585
+L 25 3785 45 185
+L 115 3755 85 3825
+L 95 705 135 2295
+R 15 1695 85 645
+L 145 445 35 2125
+L 55 575 25 2775
+R 25 4905 55 3915
+L 135 515 65 465
+R 125 405 145 4375
+L 65 685 145 3095
+R 35 1135 105 2845
+R 135 1725 95 3685
+R 155 1035 15 2705
+R 105 1935 125 4335
+L 85 4925 15 105
+R 135 4715 75 4895
+L 35 3665 155 555
+L 25 3325 95 245
+L 85 1505 45 3105
+R 15 2565 25 4015
+R 55 3855 15 4755
+R 15 3865 145 1985
+R 145 1815 125 1255
+R 25 885 125 4785
+R 95 1395 145 2865
+L 85 575 145 4635
+L 75 2915 85 4565
+L 35 175 75 3325
+R 15 4875 35 3835
+R 145 3385 75 3245
+R 135 3975 35 4115
+R 115 4615 75 4695
+L 105 4735 35 3125
+L 45 4785 25 4045
+L 105 1645 105 275
+L 75 2825 45 2555
+L 65 245 125 285
+R 105 715 35 4415
+L 105 2485 25 2545
+R 35 4745 145 505
+R 55 3785 105 235
+R 95 2025 75 345
+R 55 4265 35 3745
+R 65 2515 115 175
+R 85 4335 45 2275
+R 75 1175 125 2015
+R 75 2655 145 1565
+R 135 2235 155 2495
+R 55 2995 85 1095
+R 65 435 95 125
+R 55 4725 95 3455
+R 75 3865 45 1585
+R 35 3285 55 2325
+L 95 2855 15 295
+L 55 4485 85 4375
+R 135 3085 145 4585
+R 145 4765 135 445
+L 25 4975 85 4225
+R 25 3215 65 535
+R 45 2895 25 315
+L 35 3635 95 2245
+R 15 595 25 3765
+R 35 2135 45 4535
+R 95 4565 45 3345
+L 75 285 15 4895
+L 115 2345 95 205
+R 25 4625 95 2465
+R 25 2645 85 3565
+L 105 415 95 25
+R 115 3045 45 4265
+L 155 3825 85 155
+R 115 1735 155 1705
+R 55 3975 65 4515
+R 95 3635 115 3835
+L 25 1105 135 865
+L 155 2125 155 2765
+R 65 205 15 2825
+R 135 4715 55 1655
+L 55 1285 85 3795
+L 75 105 25 265
+L 95 3755 115 3825
+R 25 1185 105 5005
+R 65 3805 15 2165
+L 115 1705 45 1245
+L 125 2645 15 1295
+L 75 4385 125 1765
+L 145 3225 135 2065
+R 45 1665 35 2225
+L 115 4945 135 4245
+R 155 3745 55 965
+R 45 1515 135 3275
+R 135 3985 135 2095
+L 55 885 85 3795
+R 75 1575 45 1085
+L 115 1175 45 4095
+R 115 1635 115 2795
+R 125 405 45 3375
+L 85 755 145 375
+L 65 2295 15 3085
+L 15 1825 45 4295
+L 115 255 35 3645
+L 95 1815 65 4685
+L 115 3335 25 2315
+R 75 565 135 1355
+R 45 3995 105 3625
+R 95 4475 135 2435
+R 15 3555 105 945
+L 105 55 55 975
+R 85 1985 45 1015
+L 15 4655 155 775
+L 145 1535 95 75
+L 125 2115 75 4125
+L 45 3005 45 865
+R 155 55 35 2675
+L 85 2755 145 2525
+R 75 625 125 205
+L 65 3585 15 1925
+L 45 4425 15 4575
+L 145 1555 35 3535
+R 125 3475 145 2655
+R 55 4315 135 3415
+L 115 4165 85 4985
+R 75 3175 55 3395
+R 155 3285 135 4045
+R 125 4605 35 4475
+L 45 2445 75 2025
+R 15 3715 25 765
+L 75 2225 105 475
+R 55 4965 85 2235
+L 65 1745 155 4355
+R 85 3365 45 2695
+L 65 985 45 645
+R 25 2995 65 355
+L 145 1275 75 4035
+L 115 4115 15 455
+R 105 285 95 575
+L 75 465 25 275
+R 95 3655 85 445
+L 45 535 85 3225
+R 145 2075 35 505
+L 105 2855 15 3015
+R 65 195 95 2185
+R 155 2095 75 1595
+L 75 3985 155 3005
+L 125 1235 55 4765
+R 135 2195 135 3485
+R 115 1465 145 3425
+R 145 4295 105 4065
+L 35 3105 25 2865
+L 155 2365 105 4785
+L 85 1655 95 2555
+R 65 4805 155 4485
+L 25 1845 75 1595
+L 145 2735 135 4115
+R 85 1665 105 4605
+L 75 15 105 3065
+L 15 4065 55 3585
+L 145 3975 135 625
+R 75 4365 95 3895
+L 35 25 15 2505
+R 155 3755 155 3965
+R 95 1835 35 2625
+L 75 1115 65 3525
+L 35 705 105 4905
+L 55 4935 85 4015
+R 155 3925 75 275
+L 55 2545 145 2605
+L 55 4305 35 1275
+R 145 2695 105 1405
+R 35 4205 105 4115
+L 35 985 25 3745
+L 95 4645 105 3555
+L 35 4625 105 135
+L 25 1625 55 255
+L 75 3725 85 2135
+R 105 4135 105 2205
+R 25 1505 35 2095
+R 145 2055 135 315
+R 35 35 75 295
+L 75 2235 75 1085
+R 115 2115 115 425
+R 65 3015 45 3235
+L 35 4555 155 2185
+R 135 3895 55 1725
+R 45 205 105 1535
+R 145 725 25 1125
+R 15 2185 35 4565
+L 105 275 125 4255
+R 105 3435 55 3215
+L 15 1945 15 4725
+R 125 3695 75 945
+R 45 2705 25 3245
+R 115 1735 45 4415
+R 25 4445 155 1835
+R 145 4945 45 2455
+L 115 205 115 825
+R 25 325 105 3345
+R 135 1325 145 3555
+L 65 3585 45 545
+R 135 945 95 4525
+L 135 255 65 3255
+L 105 1615 145 4305
+L 35 4835 135 75
+R 65 1795 145 3275
+R 25 1315 155 1995
+R 95 2225 135 705
+L 85 4995 155 295
+L 65 865 15 1275
+R 85 4045 105 3675
+R 15 3845 25 3425
+R 75 1165 155 4965
+R 65 2335 155 2295
+L 25 1625 75 945
+L 95 3755 75 3055
+L 25 2185 75 4155
+L 85 65 105 4635
+L 125 3275 75 3465
+L 45 4885 105 325
+R 145 3205 105 2075
+L 35 4345 35 2505
+L 95 1335 135 1495
+R 45 3375 85 1635
+L 105 4585 75 3165
+R 105 2385 35 865
+R 75 375 15 3845
+R 95 3405 145 2625
+R 115 1005 35 1805
+L 85 2025 85 5005
+L 25 1835 85 3725
+R 55 645 85 3005
+L 65 3605 155 1085
+L 65 815 135 3205
+R 35 4765 35 105
+L 135 4485 35 1665
+R 145 2775 155 3015
+R 145 3875 115 2255
+L 55 4825 105 4665
+R 125 4805 75 1165
+R 155 3035 75 205
+L 155 2685 125 1275
+R 75 2525 35 2885
+L 75 2805 25 1805
+R 155 1265 55 1295
+R 95 905 95 445
+L 45 1295 115 4185
+R 35 795 75 2195
+L 25 3965 105 3515
+R 105 3265 25 3205
+R 65 3675 95 1765
+L 85 3635 155 3685
+L 85 4825 55 3675
+R 85 2375 95 1665
+L 155 2905 85 1195
+L 35 1995 15 4065
+L 45 135 115 3575
+L 135 1485 15 4005
+L 55 4175 75 4165
+L 75 4205 75 4695
+L 125 575 95 4545
+L 25 2105 75 4925
+R 25 3285 145 4465
+R 135 4295 125 3035
+L 135 1725 25 2875
+L 45 2465 145 2435
+R 35 2065 55 4705
+R 65 4875 125 4865
+R 25 1325 35 4605
+R 35 3555 75 4605
+L 145 405 135 4465
+R 25 215 55 2585
+R 55 1415 45 2805
+R 135 4815 35 505
+R 85 4105 145 1595
+L 125 1635 95 3615
+R 35 3585 75 2285
+R 65 4095 105 995
+R 105 1015 65 3675
+L 95 905 45 1415
+R 25 3235 45 285
+R 135 2835 135 4895
+L 155 185 85 75
+L 85 1785 125 2455
+L 95 4955 95 3115
+L 105 4425 25 595
+L 15 4035 125 3525
+L 115 3795 85 2695
+L 95 4605 135 3015
+R 115 2725 105 4395
+R 155 3415 65 1395
+L 15 1885 55 4855
+L 75 3765 55 325
+R 135 3235 155 4465
+R 125 4115 155 3905
+R 75 4505 45 4745
+L 125 495 25 335
+L 145 1185 35 25
+L 155 2635 15 1125
+R 75 2085 35 1885
+L 155 175 65 1345
+L 65 3785 155 365
+R 105 1745 135 2615
+R 105 1895 25 4595
+L 45 2195 15 4075
+R 145 1875 105 4735
+L 65 3985 95 315
+R 75 1925 35 2335
+R 45 4045 75 1045
+R 145 2455 135 1805
+R 85 2585 115 675
+L 155 275 45 2075
+L 35 1455 155 4875
+L 25 1805 145 4375
+R 155 405 25 2385
+R 85 4415 15 1315
+R 55 665 25 295
+L 105 4985 75 125
+R 115 4215 85 3605
+R 15 4665 65 1235
+R 15 3085 25 755
+L 135 4655 45 2645
+R 105 735 115 425
+L 35 3425 25 4205
+L 125 3135 45 4235
+L 105 4415 135 2715
+R 35 2235 145 1465
+L 155 165 25 4875
+R 65 4785 125 2355
+L 125 4435 55 2725
+L 115 1545 55 2245
+R 95 965 105 2225
+R 125 355 105 4795
+R 15 4515 55 1835
+L 85 4145 55 4015
+L 115 1345 35 2955
+L 55 1785 35 1485
+R 125 4265 145 525
+R 85 3995 85 2325
+R 75 3155 155 1625
+L 135 3875 15 1875
+L 105 3395 125 365
+L 45 2165 95 3225
+L 45 4835 75 955
+L 35 2555 105 1105
+L 65 4465 55 3345
+R 25 2415 85 1125
+L 115 2515 75 905
+L 55 785 95 2405
+L 135 3055 105 3695
+R 155 3085 75 2305
+R 115 2675 45 1655
+L 35 1135 145 1335
+L 125 1045 55 255
+R 15 4965 85 3945
+R 135 4805 65 2075
+L 15 4085 55 2155
+L 105 3565 65 2905
+R 65 1595 45 185
+R 65 4465 35 2575
+L 45 4015 15 4185
+L 135 565 95 2245
+L 115 4555 135 1005
+L 55 1065 45 4685
+L 85 4865 125 3395
+R 85 75 135 405
+L 45 4465 45 335
+R 75 4345 65 1065
+L 55 2195 15 4925
+L 25 1385 95 4395
+L 35 2715 115 4815
+L 105 4715 155 1045
+L 15 4655 135 2455
+R 65 555 25 2675
+L 105 325 65 2315
+R 155 1815 125 4345
+R 45 405 95 3585
+R 65 3875 135 4745
+R 155 455 65 3275
+L 95 205 45 475
+L 75 4805 105 4675
+R 135 4425 45 4035
+L 155 3025 155 3005
+R 35 2255 85 635
+L 155 3615 85 2705
+L 95 3335 95 3715
+L 15 4285 55 3305
+R 115 3995 55 125
+R 125 4695 25 3345
+L 15 555 75 2215
+R 75 3345 105 4945
+L 105 205 15 4085
+R 145 3615 15 315
+L 75 635 95 2685
+L 125 4815 75 675
+R 25 3975 155 155
+L 15 2545 45 1805
+L 85 255 125 4905
+R 75 2225 15 1935
+R 75 3655 125 925
+R 75 3395 125 2135
+R 35 1955 85 3785
+L 45 85 145 2895
+L 45 3945 125 4405
+L 125 4275 45 835
+L 65 2535 145 2275
+L 85 1125 45 1335
+R 95 4615 155 2295
+R 105 345 45 1895
+L 35 4915 25 4665
+L 145 155 55 1025
+L 85 1535 45 815
+L 45 2985 15 4045
+L 155 4015 155 325
+R 55 1675 65 4585
+L 155 225 75 805
+R 95 3995 55 2385
+R 105 2235 145 2255
+L 115 3655 155 3265
+L 45 1485 145 4225
+R 75 3205 55 685
+R 105 2215 135 365
+R 45 915 35 1955
+R 15 3235 45 2675
+R 45 4905 65 335
+L 145 4485 55 1235
+R 155 2965 95 4155
+L 55 245 15 4625
+L 105 3295 115 3885
+L 105 2845 145 595
+L 125 705 95 4715
+L 125 4025 155 305
+L 115 2075 105 2245
+R 155 465 15 1745
+L 55 2295 85 1995
+R 75 145 155 4855
+L 95 1405 155 2055
+R 105 2745 95 3595
+R 45 155 25 4005
+R 15 3225 65 4285
+R 25 2045 145 3105
+R 35 995 115 4805
+L 145 1465 55 1705
+R 95 3425 85 2315
+L 85 1565 45 1285
+L 115 935 55 965
+R 105 3315 75 3045
+L 35 2845 95 4915
+R 45 4645 65 3965
+L 25 1725 115 115
+L 15 3325 125 1875
+R 125 2965 125 1885
+L 115 1245 155 215
+R 145 3425 145 2135
+R 145 2705 35 1885
+L 55 995 45 1695
+R 55 2205 105 3615
+L 135 4625 95 3705
+L 55 4825 75 1415
+L 25 4995 145 1775
+L 45 85 55 2235
+R 115 955 105 3965
+R 115 4635 155 1785
+R 95 3955 125 835
+R 125 2525 125 715
+R 145 845 65 4955
+R 95 385 55 1915
+R 135 3295 155 1835
+R 155 965 35 2275
+R 15 4115 135 185
+L 125 2155 85 4275
+R 125 3715 105 4005
+L 55 885 95 2895
+L 135 2115 55 1305
+R 25 3995 75 2925
+R 65 2135 15 4755
+R 35 4785 25 1575
+L 15 1255 45 2085
+R 125 4605 135 2485
