@@ -1,0 +1,5 @@
+name: "[Croatian2010] Zuma"
+source: bzoj (OI-Archive)
+time_limit: 4000
+timing_mode: total
+space_limit: 64
