@@ -1,0 +1,5 @@
+name: "[Baltic2009]monument"
+source: bzoj (OI-Archive)
+time_limit: 100000
+timing_mode: total
+space_limit: 64
